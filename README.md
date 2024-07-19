@@ -10,8 +10,10 @@ This Project analyzes which airplane types that will have the least amount of in
 
 The head of the aviation division may be able to chose an airplane model that is low in potential risk of failure through the least amount of incidents and how many engines a plane has. Doing so the company can continue to grow in the aviation division. Using aviation data set, I will be showing the model of airplanes with the least amount of incidents and the amount of engines they have.
 # Data Understanding
-
+The Aviation accident database has a long list of plane models, the amount of engines they have and the injury report.
 ## Data Preparations
+This project shows analysis of which plane with the avergae amount of engines and lowest risk is a good choice
+![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
 
 # Exploratory Data Analysis
 
