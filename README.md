@@ -3,7 +3,7 @@
 ### Author: Jeremiah Rubin
 # Overview
 
-This Project analyzes which airplane types that will have the least amount of incidents and how many engines each plane has. Using descriptive analysis with the aviation data set to narrow down the best plane with the lowest amount of risks. Cleaning the data finding the best plane for low risk flying. Showing a visualization to have a clear understanding to generate insight for the company.
+This project analyzes aviation incidents to identify airplane models with the least amount of incidents and their engine counts. By cleaning and examining the aviation dataset, the goal is to highlight the safest airplane models for the aviation division.
 
 # Business Understanding
 ![360_F_566300223_2QnbdmtdKelL8FFeEY5YiWC8ZqfV0lHF](https://github.com/user-attachments/assets/5ca5a451-25cc-4c43-b7a3-0797d9eab9ec)
