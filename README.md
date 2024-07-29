@@ -8,11 +8,11 @@ This project analyzes aviation incidents to identify airplane models with the le
 # Business Understanding
 ![360_F_566300223_2QnbdmtdKelL8FFeEY5YiWC8ZqfV0lHF](https://github.com/user-attachments/assets/5ca5a451-25cc-4c43-b7a3-0797d9eab9ec)
 
-The head of the aviation division may be able to chose an airplane model that is low in potential risk of failure through the least amount of incidents and how many engines a plane has. Doing so the company can continue to grow in the aviation division. Using aviation data set, I will be showing the model of airplanes with the least amount of incidents and the amount of engines they have.
+The project aims to assist the aviation division in selecting low-risk airplane models based on incident frequency and engine count, promoting company growth in the aviation sector.
 # Data Understanding
-The Aviation accident database has a long list of plane models, the amount of engines they have and the injury report.
+The dataset includes airplane models, engine counts, and injury reports from aviation accidents.
 ## Data Preparations
-This project shows analysis of which plane with the avergae amount of engines and lowest risk is a good choice
+The analysis focuses on identifying airplanes with average engine counts and the lowest risk, using data cleaning and descriptive statistics.
 ![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
 
 # Exploratory Data Analysis
