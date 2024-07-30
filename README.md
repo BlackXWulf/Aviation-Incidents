@@ -50,5 +50,5 @@ Further analyses could yield additional insights to further improve choice of mo
 - `data/`: Contains the dataset used for analysis.
 - `images/`: Contains images in the project
 - `README.md/`: Contains summary of project
-- `Aviation_Incidents_Presentation.pdf/`
-- `Aviation-Incidents.ipynb/`
+- `Aviation_Incidents_Presentation.pdf/`: Google slides Presentation
+- `Aviation-Incidents.ipynb/`: Jupyter Notebook
