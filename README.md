@@ -3,21 +3,25 @@
 ### Author: Jeremiah Rubin
 # Overview
 
-This project analyzes aviation incidents to identify airplane models with the least amount of incidents and their engine counts. By cleaning and examining the aviation dataset, the goal is to highlight the safest airplane models for the aviation division.
+This project conducts a thorough analysis of aviation incidents, focusing on identifying airplane models with minimal incidents and understanding the correlation with engine counts. The goal is to provide actionable insights to aid in selecting safer airplane models for aviation operations.
 
 # Business Understanding
 ![360_F_566300223_2QnbdmtdKelL8FFeEY5YiWC8ZqfV0lHF](https://github.com/user-attachments/assets/5ca5a451-25cc-4c43-b7a3-0797d9eab9ec)
 
-The project aims to assist the aviation division in selecting low-risk airplane models based on incident frequency and engine count, promoting company growth in the aviation sector.
+To support the aviation division in selecting low-risk airplane models, thereby enhancing safety and supporting strategic growth within the aviation sector.
 # Data Understanding
-The dataset includes airplane models, engine counts, and injury reports from aviation accidents.
+The dataset includes records of aviation incidents, detailing airplane models, engine counts, and injury severity.
 ## Data Preparations
-The analysis focuses on identifying airplanes with average engine counts and the lowest risk, using data cleaning and descriptive statistics.
+- Data Cleaning: Handling missing values, correcting inconsistencies.
+- Feature Engineering: Extracting relevant features for analysis.
 ![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
 
 
 
 # Exploratory Data Analysis
+- *Descriptive Statistics*: Summarizing the main characteristics of the dataset.
+- *Visualizations*: Bar graphs and other charts to visualize trends and patterns.
+Modeling: Analyzing the relationship between engine count and incident frequency.
 ![Screenshot 2024-07-06 113458](https://github.com/user-attachments/assets/75b4ac6d-0109-400d-9be9-cd8839e1c8e3),![Screenshot 2024-07-06 113335](https://github.com/user-attachments/assets/27347540-ff38-475e-87aa-c3f5c43faa3c)
 
 # Conclusion
@@ -42,3 +46,9 @@ Further analyses could yield additional insights to further improve choice of mo
 - Better predictions for model plane based off repairing cost. This modeling could already use avaialable data such as how bad the crash was.
 
 - Predicting undesirable outcomes. Knowing that the weather is really bad should delay the flight until further notice
+  ## Repository Structure
+- `data/`
+- `images/`
+- `README.md/`
+- `Aviation_Incidents_Presentation.pdf/`
+- `Aviation-Incidents.ipynb/`
