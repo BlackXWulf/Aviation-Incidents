@@ -48,7 +48,7 @@ Further analyses could yield additional insights to further improve choice of mo
 - Predicting undesirable outcomes. Knowing that the weather is really bad should delay the flight until further notice
   ## Repository Structure
 -  [data/](https://github.com/BlackXWulf/Aviation-Incidents/tree/main/data): Contains the dataset used for analysis.
-- `images/`: Contains images in the project
-- `README.md/`: Contains summary of project
-- `Aviation_Incidents_Presentation.pdf/`: Google slides Presentation
-- `Aviation-Incidents.ipynb/`: Jupyter Notebook
+-  [images/](https://github.com/BlackXWulf/Aviation-Incidents/tree/main/images): Contains images in the project
+-  [README.md/](https://github.com/BlackXWulf/Aviation-Incidents/blob/main/README.md): Contains summary of project
+-  [Aviation_Incidents_Presentation.pdf/](https://github.com/BlackXWulf/Aviation-Incidents/blob/main/Aviation_Incidents_Presentation.pdf): Google slides Presentation
+-  [Aviation-Incidents.ipynb/](https://github.com/BlackXWulf/Aviation-Incidents/blob/main/Aviation-Incidents.ipynb): Jupyter Notebook
