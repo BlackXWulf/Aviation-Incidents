@@ -12,8 +12,8 @@ To support the aviation division in selecting low-risk airplane models, thereby 
 # Data Understanding
 The dataset includes records of aviation incidents, detailing airplane models, engine counts, and injury severity.
 ## Data Preparations
-- Data Cleaning: Handling missing values, correcting inconsistencies.
-- Feature Engineering: Extracting relevant features for analysis.
+- *Data Cleaning*: Handling missing values, correcting inconsistencies.
+- *Feature Engineering*: Extracting relevant features for analysis.
 ![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
 
 
