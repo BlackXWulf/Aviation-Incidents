@@ -21,7 +21,13 @@ The analysis focuses on identifying airplanes with average engine counts and the
 ![Screenshot 2024-07-06 113458](https://github.com/user-attachments/assets/75b4ac6d-0109-400d-9be9-cd8839e1c8e3),![Screenshot 2024-07-06 113335](https://github.com/user-attachments/assets/27347540-ff38-475e-87aa-c3f5c43faa3c)
 
 # Conclusion
+- This analysis leads with the model of plane with the least amount incidents with the ideal amount of number of engines:
 
+- Number of Engines. On average each plane with the least amount of incidents had only one engine.
+
+- Model of plane. DC-9 model plane has the most engines with the least amount of incidents
+
+Injury Severity. all injury incidents were non-fatal for the planes that fit the companies risk free decision.
 ## Limitations
 
 ## Recommendations
