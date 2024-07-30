@@ -27,9 +27,18 @@ The analysis focuses on identifying airplanes with average engine counts and the
 
 - Model of plane. DC-9 model plane has the most engines with the least amount of incidents
 
-Injury Severity. all injury incidents were non-fatal for the planes that fit the companies risk free decision.
+- Injury Severity. all injury incidents were non-fatal for the planes that fit the companies risk free decision.
 ## Limitations
+- The data set lacks the know how. In the data set doesn't show you how a plane had an incident, knowing that would help narrow down malfunctions or weather.
 
+- Cost of each plane. The lack of cost for each individual plane and how much it would cost to repair them/salvage them.
 ## Recommendations
-
+- The planes with the least amount of incidents. The company should go with the plane with non-fatal injuries for safety precautions.
+- Saving money based on how many engines there is. The plane that has less engines and low incident reports will cost less in the future.
+- Every year evaluation. Every year the company can expand their aviation side to gather more planes for business projects/improvements.
 ## Next Steps
+Further analyses could yield additional insights to further improve choice of model plane:
+
+- Better predictions for model plane based off repairing cost. This modeling could already use avaialable data such as how bad the crash was.
+
+- Predicting undesirable outcomes. Knowing that the weather is really bad should delay the flight until further notice
