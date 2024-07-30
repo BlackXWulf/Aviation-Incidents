@@ -13,7 +13,8 @@ The project aims to assist the aviation division in selecting low-risk airplane 
 The dataset includes airplane models, engine counts, and injury reports from aviation accidents.
 ## Data Preparations
 The analysis focuses on identifying airplanes with average engine counts and the lowest risk, using data cleaning and descriptive statistics.
-![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
+![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29), ![Screenshot 2024-07-06 113335](https://github.com/user-attachments/assets/27347540-ff38-475e-87aa-c3f5c43faa3c)
+
 
 
 # Exploratory Data Analysis
