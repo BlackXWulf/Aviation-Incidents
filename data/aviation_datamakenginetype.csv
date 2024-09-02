@@ -1,0 +1,8 @@
+,Injury.Severity,Number.of.Engines
+0,Fatal(2),1.0
+1,Fatal(4),1.0
+2,Fatal(3),1.0
+3,Fatal(2),1.0
+4,Non-Fatal,2.0
+5,Fatal(4),1.0
+6,Non-Fatal,1.0
