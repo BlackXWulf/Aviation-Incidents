@@ -1,0 +1,3722 @@
+,Make,Aircraft.Category,Number.of.Engines,Engine.Type
+5,Mcdonnell Douglas,Airplane,2.0,Turbo Fan
+7,Cessna,Airplane,1.0,Reciprocating
+8,Cessna,Airplane,2.0,Reciprocating
+12,Bellanca,Airplane,1.0,Reciprocating
+14,Navion,Airplane,1.0,Reciprocating
+15,Beech,Airplane,1.0,Reciprocating
+23,Piper,Airplane,1.0,Reciprocating
+24,Grumman,Airplane,1.0,Reciprocating
+26,Beechcraft,Airplane,2.0,Reciprocating
+27,Maule,Airplane,1.0,Reciprocating
+31,Air Tractor,Airplane,1.0,Reciprocating
+33,Piper,Airplane,2.0,Reciprocating
+40,Rockwell,Airplane,1.0,Reciprocating
+49,Mooney,Airplane,1.0,Reciprocating
+50,Boeing,Airplane,1.0,Reciprocating
+53,Curtis,Airplane,2.0,Reciprocating
+73,Quickie,Airplane,1.0,Reciprocating
+79,Lockheed,Airplane,3.0,Turbo Fan
+80,Embraer,Airplane,2.0,Turbo Prop
+93,Swearingen,Airplane,2.0,Turbo Prop
+94,Beech,Airplane,2.0,Reciprocating
+95,De Havilland,Airplane,1.0,Turbo Prop
+99,Bede Aircraft,Airplane,1.0,Reciprocating
+101,Convair,Airplane,2.0,Reciprocating
+103,Piper,Airplane,2.0,Turbo Prop
+119,De Havilland,Airplane,2.0,Turbo Prop
+124,Beachner,Airplane,1.0,Reciprocating
+129,Canadair,Airplane,4.0,Turbo Prop
+140,Douglas,Airplane,2.0,Reciprocating
+148,Sons Mustang,Airplane,1.0,Reciprocating
+149,Dassault/sud,Airplane,2.0,Turbo Fan
+155,Mcdonnell Douglas,Airplane,3.0,Turbo Fan
+165,Robertson,Airplane,2.0,Reciprocating
+182,Aeronca,Airplane,1.0,Reciprocating
+191,Beech,Airplane,2.0,Turbo Prop
+221,Grumman,Airplane,2.0,Turbo Jet
+227,Smith Miniplane,Airplane,1.0,Reciprocating
+229,Mitsubishi,Airplane,2.0,Turbo Prop
+230,Mcdonnell-douglas,Airplane,3.0,Turbo Fan
+232,Taylorcraft,Airplane,1.0,Reciprocating
+234,Ted Smith,Airplane,2.0,Reciprocating
+251,Ercoupe,Airplane,2.0,Reciprocating
+258,Rockwell Comdr,Airplane,1.0,Reciprocating
+296,Howard Aircraft Corp.,Airplane,2.0,Reciprocating
+318,Porterfield,Airplane,1.0,Reciprocating
+320,Boeing,Airplane,2.0,Turbo Jet
+336,Nihon,Airplane,2.0,Turbo Prop
+350,Great Lakes,Airplane,1.0,Reciprocating
+351,Boeing,Airplane,3.0,Turbo Jet
+362,Pitts,Airplane,1.0,Reciprocating
+373,Grumman,Airplane,2.0,Reciprocating
+386,Fairchild Hiller,Airplane,2.0,Turbo Prop
+408,Weatherly,Airplane,1.0,Reciprocating
+411,Eagle,Airplane,1.0,Reciprocating
+443,Starduster Ii,Airplane,1.0,Reciprocating
+447,Homebuilt,Airplane,1.0,Reciprocating
+455,Ercoupe,Airplane,1.0,Reciprocating
+461,Smith Mini,Airplane,1.0,Reciprocating
+477,Smith Aerostar,Airplane,2.0,Reciprocating
+496,Rockwell Intl,Airplane,1.0,Reciprocating
+500,Howard Aircraft Corp.,Airplane,1.0,Reciprocating
+506,Boeing,Airplane,4.0,Turbo Fan
+522,Douglas,Airplane,2.0,Turbo Fan
+525,Varga,Airplane,1.0,Reciprocating
+528,Hatz,Airplane,1.0,Reciprocating
+532,Nord Aviation,Airplane,2.0,Turbo Prop
+547,Cessna,Airplane,2.0,Turbo Jet
+553,Crook,Airplane,1.0,Reciprocating
+557,American Yankee,Airplane,1.0,Reciprocating
+558,Boeing,Airplane,4.0,Turbo Jet
+562,Helio,Airplane,1.0,Reciprocating
+565,Colonial,Airplane,1.0,Reciprocating
+584,Gulfstream American,Airplane,1.0,Reciprocating
+623,Rockwell,Airplane,2.0,Turbo Jet
+627,Luscombe,Airplane,1.0,Reciprocating
+632,Mckinley Eaa,Airplane,1.0,Reciprocating
+654,Snow,Airplane,1.0,Reciprocating
+661,Rockwell,Airplane,2.0,Turbo Prop
+667,Rockwell Commander,Airplane,1.0,Reciprocating
+676,Gulfstream,Airplane,2.0,Turbo Prop
+692,Champion,Airplane,1.0,Reciprocating
+694,Stinson,Airplane,1.0,Reciprocating
+707,Curtiss-wright,Airplane,2.0,Reciprocating
+709,Gulfstream American,Airplane,2.0,Turbo Prop
+714,Aero Commander,Airplane,1.0,Reciprocating
+737,Rockwell,Airplane,2.0,Turbo Fan
+754,Piper-aerostar,Airplane,2.0,Reciprocating
+764,Rockwell Intl.,Airplane,1.0,Reciprocating
+776,Ryan,Airplane,1.0,Reciprocating
+786,Air Tractor,Airplane,1.0,Turbo Prop
+795,Jurca,Airplane,1.0,Reciprocating
+796,Boeing,Airplane,3.0,Turbo Fan
+815,Martin-pitts,Airplane,1.0,Reciprocating
+834,Goodyear,Airplane,1.0,Reciprocating
+836,Rand,Airplane,1.0,Reciprocating
+843,Rutan,Airplane,1.0,Reciprocating
+860,Avres Corp.,Airplane,1.0,Reciprocating
+861,Grum Amer,Airplane,1.0,Reciprocating
+864,Evans Aircraft,Airplane,1.0,Reciprocating
+871,Ayres,Airplane,1.0,Reciprocating
+881,Smith,Airplane,1.0,Reciprocating
+884,Stampe Renard,Airplane,1.0,Reciprocating
+891,Fairchild,Airplane,1.0,Reciprocating
+894,De Havilland,Airplane,1.0,Reciprocating
+919,Pitts Special,Airplane,1.0,Reciprocating
+930,Tailwind,Airplane,1.0,Reciprocating
+939,Aerotek-pitts,Airplane,1.0,Reciprocating
+940,North American,Airplane,1.0,Reciprocating
+959,Hartman,Airplane,1.0,Reciprocating
+960,Spezio,Airplane,1.0,Reciprocating
+965,Dauntless,Airplane,1.0,Reciprocating
+1007,Smith,Airplane,2.0,Reciprocating
+1011,Christian,Airplane,1.0,Reciprocating
+1027,Funk Aircraft Co.,Airplane,1.0,Reciprocating
+1035,Mong Sport,Airplane,1.0,Reciprocating
+1052,Rayan,Airplane,1.0,Reciprocating
+1053,Starfire,Airplane,1.0,Reciprocating
+1064,Osprey,Airplane,1.0,Reciprocating
+1069,Hudson,Airplane,1.0,Reciprocating
+1072,Rockwell Intl,Airplane,1.0,Turbo Prop
+1083,Grumman,Airplane,1.0,Turbo Prop
+1093,Gates Learjet,Airplane,2.0,Turbo Jet
+1121,Piper,Airplane,4.0,Reciprocating
+1126,Taylor,Airplane,1.0,Reciprocating
+1140,Lake,Airplane,1.0,Reciprocating
+1181,Volmer Aircraft,Airplane,1.0,Reciprocating
+1185,Beechcraft,Airplane,1.0,Reciprocating
+1188,Citabria,Airplane,1.0,Reciprocating
+1197,Martin,Airplane,2.0,Reciprocating
+1200,Nash Cassutt Racer,Airplane,1.0,Reciprocating
+1202,Aero Commander,Airplane,2.0,Reciprocating
+1208,Playmate,Airplane,1.0,Reciprocating
+1231,Oldfield,Airplane,1.0,Reciprocating
+1283,Bac,Airplane,2.0,Turbo Jet
+1295,Douglas,Airplane,2.0,Turbo Jet
+1311,Erco,Airplane,1.0,Reciprocating
+1343,Douglas,Airplane,3.0,Turbo Fan
+1347,Douglas,Airplane,4.0,Turbo Jet
+1356,Callair,Airplane,1.0,Reciprocating
+1363,Consolidated Aeronautics Inc.,Airplane,1.0,Reciprocating
+1387,Arctic,Airplane,1.0,Reciprocating
+1390,Douglas,Airplane,4.0,Turbo Fan
+1394,Thurston,Airplane,1.0,Reciprocating
+1396,Swanson,Airplane,1.0,Reciprocating
+1399,Mignet,Airplane,1.0,Reciprocating
+1402,Starduster,Airplane,1.0,Reciprocating
+1430,Douglas,Airplane,1.0,Reciprocating
+1453,Savage,Airplane,1.0,Reciprocating
+1460,Starke,Airplane,1.0,Reciprocating
+1464,Mccall,Airplane,1.0,Reciprocating
+1484,Fokker,Airplane,1.0,Reciprocating
+1489,Cessna,Airplane,2.0,Turbo Fan
+1493,Grumman,Airplane,2.0,Turbo Prop
+1512,Wing,Airplane,2.0,Reciprocating
+1519,Gregg,Airplane,1.0,Reciprocating
+1521,Learjet,Airplane,2.0,Turbo Jet
+1532,Mcclary,Airplane,1.0,Reciprocating
+1538,Midget,Airplane,1.0,Reciprocating
+1543,Na,Airplane,1.0,Reciprocating
+1587,Southern Airmotive Corp Sac,Airplane,1.0,Reciprocating
+1637,Varieze,Airplane,1.0,Reciprocating
+1647,Peter Clark,Airplane,1.0,Reciprocating
+1668,Davis,Airplane,1.0,Reciprocating
+1682,Bellance,Airplane,1.0,Reciprocating
+1697,Rockwell International,Airplane,1.0,Reciprocating
+1725,Downer Aircraft Industries,Airplane,1.0,Reciprocating
+1739,Ryan Aeronautics,Airplane,1.0,Reciprocating
+1751,Grumman American,Airplane,1.0,Reciprocating
+1764,Cessna,Airplane,2.0,Turbo Prop
+1776,Clancy,Airplane,1.0,Reciprocating
+1796,Britten-norman,Airplane,2.0,Reciprocating
+1810,Waco,Airplane,1.0,Reciprocating
+1828,Pietenpol,Airplane,1.0,Reciprocating
+1843,Gulfstream,Airplane,1.0,Reciprocating
+1850,Miller,Airplane,1.0,Reciprocating
+1857,Aeronca Champion,Airplane,1.0,Reciprocating
+1869,Coot,Airplane,1.0,Reciprocating
+1872,Breezy,Airplane,1.0,Reciprocating
+1888,Junior Ace,Airplane,1.0,Reciprocating
+1902,Globe,Airplane,1.0,Reciprocating
+1926,Republic,Airplane,1.0,Reciprocating
+1930,Rockwell Int't,Airplane,1.0,Reciprocating
+1987,Mong,Airplane,1.0,Reciprocating
+1994,American,Airplane,1.0,Reciprocating
+2035,Thorp,Airplane,1.0,Reciprocating
+2054,Omac,Airplane,1.0,Turbo Jet
+2057,Bucker Jungmann,Airplane,1.0,Reciprocating
+2068,Steen,Airplane,1.0,Reciprocating
+2071,Alon,Airplane,1.0,Reciprocating
+2083,Austin,Airplane,1.0,Reciprocating
+2088,Morrisey,Airplane,1.0,Reciprocating
+2090,Eipper Mx Ii Quicksilver,Airplane,1.0,Reciprocating
+2104,Hallquist,Airplane,1.0,Reciprocating
+2115,Aeronca Champ,Airplane,1.0,Reciprocating
+2131,Q-berry,Airplane,1.0,Reciprocating
+2139,Oar,Airplane,1.0,Reciprocating
+2141,Siai Marchetti,Airplane,1.0,Reciprocating
+2223,Corben,Airplane,1.0,Reciprocating
+2230,Sonerai,Airplane,1.0,Reciprocating
+2254,Boeing,Airplane,2.0,Turbo Fan
+2259,Boeing Stearman,Airplane,1.0,Reciprocating
+2314,Condor,Airplane,1.0,Reciprocating
+2322,De Havilland,Airplane,4.0,Reciprocating
+2369,Eaa,Airplane,1.0,Reciprocating
+2377,Von Berg,Airplane,1.0,Reciprocating
+2398,Engineering & Research,Airplane,1.0,Reciprocating
+2403,Dragon Fly,Airplane,1.0,Reciprocating
+2434,Auster,Airplane,1.0,Reciprocating
+2445,Quicksilver,Airplane,1.0,Reciprocating
+2454,Cassutt,Airplane,1.0,Reciprocating
+2461,Mustang,Airplane,1.0,Reciprocating
+2482,Lawson Special,Airplane,1.0,Reciprocating
+2558,Wayne Ison,Airplane,1.0,Reciprocating
+2580,Lindgren Evans,Airplane,1.0,Reciprocating
+2589,American Aviation,Airplane,1.0,Reciprocating
+2602,Falkenthal,Airplane,1.0,Reciprocating
+2617,Villine's,Airplane,1.0,Reciprocating
+2631,Consolidated Aero,Airplane,1.0,Reciprocating
+2645,Davenport,Airplane,1.0,Reciprocating
+2655,Bennet,Airplane,1.0,Reciprocating
+2678,Aero Commander,Airplane,2.0,Turbo Prop
+2720,Vari-eze,Airplane,1.0,Reciprocating
+2748,Long-ez,Airplane,1.0,Reciprocating
+2750,Fairchild/swearingen,Airplane,2.0,Turbo Prop
+2785,Robertson,Airplane,1.0,Reciprocating
+2797,Flitecraft,Airplane,1.0,Reciprocating
+2810,Foster,Airplane,1.0,Reciprocating
+2819,Navy,Airplane,1.0,Reciprocating
+2872,Tanke,Airplane,1.0,Reciprocating
+2879,Wainscott,Airplane,1.0,Reciprocating
+2890,Ken Brock,Airplane,1.0,Reciprocating
+2892,Saville Hummer,Airplane,1.0,Reciprocating
+2904,Fairchild,Airplane,2.0,Reciprocating
+2947,Cougar,Airplane,1.0,Reciprocating
+3057,Bowers Flybaby,Airplane,1.0,Reciprocating
+3061,Volksplane,Airplane,1.0,Reciprocating
+3077,Lockheed,Airplane,2.0,Reciprocating
+3097,E.l. Craig,Airplane,1.0,Reciprocating
+3102,Eipper-formance,Airplane,1.0,Reciprocating
+3106,C. Eff,Airplane,1.0,Reciprocating
+3129,J.a.mullan,Airplane,1.0,Reciprocating
+3155,Flagg,Airplane,1.0,Reciprocating
+3156,Arctic Aircraft,Airplane,1.0,Reciprocating
+3168,"Johnson, Douglas L.",Airplane,1.0,Reciprocating
+3170,Short Bros.,Airplane,2.0,Turbo Prop
+3215,Froehlich,Airplane,1.0,Reciprocating
+3224,Temco,Airplane,1.0,Reciprocating
+3226,Grumman American,Airplane,2.0,Reciprocating
+3264,Amateur Built,Airplane,1.0,Reciprocating
+3296,Mcdonald Douglas,Airplane,3.0,Turbo Fan
+3309,Tifft-v,Airplane,1.0,Reciprocating
+3338,Beagle Aircraft,Airplane,2.0,Reciprocating
+3340,Aerosport,Airplane,1.0,Reciprocating
+3363,Rockwell International,Airplane,2.0,Reciprocating
+3364,Continental,Airplane,1.0,Reciprocating
+3391,Fokker,Airplane,2.0,Turbo Prop
+3410,Cgs Aviation,Airplane,1.0,Reciprocating
+3454,Gates Lear Jet,Airplane,2.0,Turbo Fan
+3470,Frank Turben,Airplane,1.0,Reciprocating
+3472,Hollman,Airplane,1.0,Reciprocating
+3505,Burke-parker,Airplane,1.0,Reciprocating
+3508,Norman Negus,Airplane,1.0,Reciprocating
+6669,Short Brothers,Airplane,2.0,Turbo Prop
+13114,Cessna,Airplane,1.0,Turbo Prop
+14259,Lockheed,Airplane,1.0,Reciprocating
+16278,Glasair,Airplane,1.0,Reciprocating
+18686,Mercer,Airplane,1.0,Reciprocating
+19931,Piper,Airplane,0.0,Unknown
+20084,Boeing,Airplane,2.0,Unknown
+20693,Helio,Airplane,1.0,Turbo Prop
+21901,Airbus Industrie,Airplane,0.0,Unknown
+22125,Univair,Airplane,1.0,Reciprocating
+24818,Taylorcraft,Airplane,1.0,Unknown
+25379,Beech,Airplane,2.0,Unknown
+26162,Mcdonnell Douglas,Airplane,0.0,Unknown
+28235,Vans Aircraft,Airplane,1.0,Reciprocating
+29591,Boeing,Airplane,0.0,Unknown
+30062,Fokker,Airplane,2.0,Turbo Fan
+32993,"Emory W. Greer, Jr.",Airplane,1.0,Reciprocating
+34343,Palmer,Airplane,1.0,Reciprocating
+40009,Mcdonnell Douglas,Airplane,2.0,Turbo Jet
+40288,Grumman-schweizer,Airplane,1.0,Reciprocating
+44772,Dassault,Airplane,2.0,Turbo Fan
+45194,Saab-scania Ab (saab),Airplane,2.0,Turbo Prop
+47743,Myers,Airplane,1.0,Reciprocating
+48128,Learjet,Airplane,2.0,Turbo Fan
+48284,British Aerospace,Airplane,4.0,Turbo Fan
+48908,Steel/vans,Airplane,1.0,Reciprocating
+49038,Schweizer,Airplane,1.0,Reciprocating
+50058,Dassault-breguet,Airplane,2.0,Turbo Fan
+50155,Meshko Zenair,Airplane,1.0,Reciprocating
+50344,Henry,Airplane,1.0,Reciprocating
+50349,Piper,Airplane,1.0,Turbo Prop
+50583,Bennett,Airplane,1.0,Reciprocating
+50913,Moravan,Airplane,1.0,Reciprocating
+51126,Schuchart,Airplane,1.0,Reciprocating
+51603,Edge,Airplane,1.0,Reciprocating
+51684,Thomson,Airplane,1.0,Reciprocating
+51694,"Rans, Inc.",Airplane,1.0,Reciprocating
+52932,Grenier,Airplane,1.0,Reciprocating
+53039,Baughman,Airplane,1.0,Reciprocating
+53088,Bilgri,Airplane,1.0,Reciprocating
+53089,Eckstein,Airplane,1.0,Reciprocating
+53185,Giroux,Airplane,2.0,Reciprocating
+53204,Crawford,Airplane,1.0,Reciprocating
+53408,Tomash,Airplane,1.0,Reciprocating
+53507,Ercoupe (eng & Research Corp.),Airplane,1.0,Reciprocating
+53534,Aviat,Airplane,1.0,Reciprocating
+54007,Carlisle,Airplane,1.0,Reciprocating
+54391,Mathews,Airplane,1.0,Reciprocating
+54457,Larry Woods,Airplane,1.0,Reciprocating
+54525,Socata,Airplane,1.0,Turbo Prop
+54607,Wsk Pzl Mielec,Airplane,1.0,Turbo Prop
+54813,Ayers,Airplane,1.0,Reciprocating
+54845,Kolb Company,Airplane,1.0,Reciprocating
+55006,Beech,Airplane,1.0,Turbo Prop
+55085,Maysmike,Airplane,1.0,Reciprocating
+55096,Diamond Aircraft Industries,Airplane,1.0,Reciprocating
+55178,Aircraft Mfg & Dev. Co. (amd),Airplane,1.0,Reciprocating
+55188,Lancair,Airplane,1.0,Reciprocating
+55366,Kucklick,Airplane,1.0,Reciprocating
+55438,Fairchild,Airplane,2.0,Turbo Fan
+55453,Unknown,Airplane,1.0,Reciprocating
+55582,Wells,Airplane,1.0,Reciprocating
+55619,Williams,Airplane,1.0,Reciprocating
+55624,Lockheed,Airplane,4.0,Reciprocating
+55656,American General Aircraft,Airplane,1.0,Reciprocating
+55661,Velocity,Airplane,1.0,Reciprocating
+55670,Avions Max Holste,Airplane,1.0,Reciprocating
+55687,Cleveland Orson,Airplane,1.0,Reciprocating
+55699,William F. Lair,Airplane,1.0,Reciprocating
+55816,R. James Thorne,Airplane,1.0,Reciprocating
+55950,Clement-kazmierczak,Airplane,1.0,Reciprocating
+56094,Fleet,Airplane,1.0,Reciprocating
+56203,American Champion (acac),Airplane,1.0,Reciprocating
+56215,Danbrook,Airplane,1.0,Reciprocating
+56340,Jerry Garrison,Airplane,1.0,Reciprocating
+56360,Wsk Pzl Mielec,Airplane,1.0,Reciprocating
+56381,Menefee,Airplane,1.0,Reciprocating
+56417,Dantzer Lawrence L,Airplane,1.0,Reciprocating
+56463,Ayres,Airplane,1.0,Turbo Prop
+56475,Yakovlev,Airplane,1.0,Reciprocating
+56503,Andrews,Airplane,1.0,Reciprocating
+56563,Bolger Scott,Airplane,1.0,Reciprocating
+56587,Sawyer,Airplane,1.0,Reciprocating
+56623,Villeneuve,Airplane,1.0,Reciprocating
+56648,Fraker,Airplane,1.0,Reciprocating
+56651,Loehle Ent.,Airplane,1.0,Reciprocating
+56682,Wilford J. Tolman,Airplane,1.0,Reciprocating
+56711,Glenn L Smith,Airplane,1.0,Reciprocating
+56731,Kauffman,Airplane,1.0,Reciprocating
+56800,Merkel,Airplane,1.0,Reciprocating
+56804,Doerr Raymond R,Airplane,1.0,Reciprocating
+56831,Ruehle,Airplane,1.0,Reciprocating
+56846,Youkey,Airplane,1.0,Reciprocating
+56864,Fetherolf,Airplane,1.0,Reciprocating
+56877,Stearman,Airplane,1.0,Reciprocating
+56884,Bracken,Airplane,1.0,Reciprocating
+56946,William K. Crawford,Airplane,1.0,Reciprocating
+56948,Peck,Airplane,1.0,Reciprocating
+56954,Henes,Airplane,1.0,Reciprocating
+56999,Ammeter,Airplane,1.0,Reciprocating
+57017,Mooney Aircraft Corp,Airplane,1.0,Reciprocating
+57018,Whitlock,Airplane,1.0,Reciprocating
+57023,Glassic Composites,Airplane,1.0,Reciprocating
+57045,Air Tractor Inc.,Airplane,1.0,Reciprocating
+57048,Manoucher,Airplane,1.0,Reciprocating
+57051,Raytheon Corporate Jets,Airplane,2.0,Turbo Fan
+57063,Selby Dean,Airplane,1.0,Reciprocating
+57178,Stamsta,Airplane,1.0,Reciprocating
+57179,Cherkas,Airplane,1.0,Reciprocating
+57246,Classic Aircraft Corp.,Airplane,1.0,Reciprocating
+57282,Devereux,Airplane,1.0,Reciprocating
+57284,Beyers,Airplane,1.0,Reciprocating
+57302,Stephen,Airplane,1.0,Reciprocating
+57304,Bowles,Airplane,1.0,Reciprocating
+57310,Pilatus,Airplane,1.0,Turbo Prop
+57321,Berry,Airplane,1.0,Reciprocating
+57324,Christen Industries,Airplane,1.0,Reciprocating
+57334,Wahl,Airplane,1.0,Turbo Prop
+57373,"Pettigrew, Richard",Airplane,1.0,Reciprocating
+57417,Senior Aero Sport,Airplane,1.0,Reciprocating
+57431,Utterback,Airplane,1.0,Reciprocating
+57475,Wood/thorpe,Airplane,1.0,Reciprocating
+57478,Bailey,Airplane,1.0,Reciprocating
+57481,Schroeder,Airplane,1.0,Reciprocating
+57513,Lemuel May,Airplane,2.0,Reciprocating
+57514,Aero Commander,Airplane,1.0,Turbo Prop
+57532,Iar Sa Brasov,Airplane,1.0,Reciprocating
+57543,Pinkham,Airplane,1.0,Reciprocating
+57545,Carter-jones,Airplane,1.0,Reciprocating
+57560,Johnson,Airplane,1.0,Reciprocating
+57585,Arganbright,Airplane,1.0,Reciprocating
+57621,Sinclair,Airplane,1.0,Reciprocating
+57648,Murray,Airplane,1.0,Reciprocating
+57671,Gunnoe,Airplane,1.0,Reciprocating
+57672,Cirrus Design Corp.,Airplane,1.0,Reciprocating
+57694,British Aerospace,Airplane,2.0,Turbo Prop
+57754,Steven W. Jones,Airplane,1.0,Reciprocating
+57788,Kinner,Airplane,1.0,Reciprocating
+57792,"Jabat, Inc.",Airplane,1.0,Reciprocating
+57826,Gray,Airplane,1.0,Reciprocating
+57831,Syreini,Airplane,1.0,Reciprocating
+57844,Socata,Airplane,1.0,Reciprocating
+57859,Olson,Airplane,1.0,Reciprocating
+57870,Spaulding,Airplane,1.0,Reciprocating
+57887,Embraer,Airplane,2.0,Turbo Fan
+57961,Ohlemeier/stratton,Airplane,1.0,Reciprocating
+57966,Breit,Airplane,1.0,Reciprocating
+57969,"Smith, Ted Aerostar",Airplane,2.0,Reciprocating
+57975,Daniels,Airplane,1.0,Reciprocating
+57982,Flight Design,Airplane,1.0,Reciprocating
+58026,"Stanley, Davey L",Airplane,1.0,Reciprocating
+58044,Reinhart,Airplane,1.0,Reciprocating
+58101,Lee Harold Swarthout,Airplane,1.0,Reciprocating
+58104,Sabreliner Corp.,Airplane,2.0,Turbo Jet
+58138,Bombardier,Airplane,2.0,Turbo Fan
+58186,Dickson,Airplane,1.0,Reciprocating
+58235,Bennett Ra Oliver,Airplane,1.0,Reciprocating
+58266,Ecker,Airplane,1.0,Reciprocating
+58296,Jeffs,Airplane,1.0,Reciprocating
+58297,Birtch,Airplane,1.0,Reciprocating
+58365,Peter A. Geiser,Airplane,1.0,Reciprocating
+58394,Canadair,Airplane,2.0,Turbo Fan
+58413,Franz,Airplane,1.0,Reciprocating
+58426,Shannon,Airplane,1.0,Reciprocating
+58434,"Aerostar, S.a",Airplane,1.0,Reciprocating
+58440,Clark/loken,Airplane,1.0,Reciprocating
+58468,Mitchell,Airplane,1.0,Reciprocating
+58480,Curl,Airplane,1.0,Reciprocating
+58489,Bell,Airplane,1.0,Reciprocating
+58501,Rankin,Airplane,1.0,Reciprocating
+58512,Interstate,Airplane,1.0,Reciprocating
+58533,Whittman,Airplane,1.0,Reciprocating
+58556,Aerotek,Airplane,1.0,Reciprocating
+58588,Palen,Airplane,1.0,Reciprocating
+58595,Airbus Industrie,Airplane,2.0,Turbo Fan
+58647,Rand Robinson Engineering,Airplane,1.0,Reciprocating
+58688,Young,Airplane,1.0,Reciprocating
+58711,Pzl-mielec,Airplane,1.0,Turbo Prop
+58720,Jackson,Airplane,1.0,Reciprocating
+58733,Fisher,Airplane,1.0,Reciprocating
+58743,Aermacchi,Airplane,1.0,Reciprocating
+58764,David S Robbins,Airplane,1.0,Reciprocating
+58775,Allegro,Airplane,1.0,Reciprocating
+58783,Herbert O. Kellerman,Airplane,1.0,Reciprocating
+58791,Micco Aircraft Company,Airplane,1.0,Reciprocating
+58806,Rose,Airplane,1.0,Reciprocating
+58808,Grimes,Airplane,1.0,Reciprocating
+58871,Kirby,Airplane,1.0,Reciprocating
+58882,Adkins,Airplane,1.0,Reciprocating
+58907,S C Aerostar S A,Airplane,1.0,Reciprocating
+58980,Mueller,Airplane,1.0,Reciprocating
+58987,Grumman-schweizer,Airplane,1.0,Turbo Prop
+59005,Kelley,Airplane,1.0,Reciprocating
+59027,Sweeney,Airplane,1.0,Reciprocating
+59038,Wagner,Airplane,1.0,Reciprocating
+59083,Jabiru Aircraft,Airplane,1.0,Reciprocating
+59094,Hirsch,Airplane,1.0,Reciprocating
+59111,Mcdaniels,Airplane,1.0,Reciprocating
+59142,Gulfstream American Corp.,Airplane,1.0,Reciprocating
+59152,Rockwell International,Airplane,1.0,Turbo Prop
+59153,Jeska,Airplane,1.0,Reciprocating
+59158,Simmons,Airplane,1.0,Reciprocating
+59192,Wilson,Airplane,1.0,Reciprocating
+59210,"Allied Ag Cat Productions, Inc",Airplane,1.0,Turbo Prop
+59224,Barr,Airplane,1.0,Reciprocating
+59228,Mrazek,Airplane,1.0,Reciprocating
+59235,Airbus,Airplane,2.0,Turbo Fan
+59269,Rosner,Airplane,1.0,Reciprocating
+59291,Embraer,Airplane,2.0,Turbo Jet
+59300,Rockwell,Airplane,1.0,Turbo Prop
+59318,Mccain,Airplane,1.0,Reciprocating
+59385,Yamokoski,Airplane,1.0,Reciprocating
+59396,Hanek,Airplane,1.0,Reciprocating
+59414,Presley,Airplane,1.0,Reciprocating
+59457,Eclipse Aviation,Airplane,2.0,Turbo Fan
+59478,Dehavilland,Airplane,1.0,Reciprocating
+59496,Dixon,Airplane,1.0,Reciprocating
+59501,Lamont,Airplane,1.0,Reciprocating
+59503,Israel Aircraft Industries,Airplane,2.0,Turbo Fan
+59504,Keith,Airplane,1.0,Reciprocating
+59516,Gleason,Airplane,1.0,Reciprocating
+59523,Bradford Haines,Airplane,1.0,Reciprocating
+59566,Clark,Airplane,1.0,Reciprocating
+59584,Airbus Industrie,Airplane,2.0,Turbo Jet
+59652,Culver,Airplane,1.0,Reciprocating
+59653,Pyramid,Airplane,1.0,Reciprocating
+59658,Harms,Airplane,1.0,Reciprocating
+59662,Creed,Airplane,1.0,Reciprocating
+59684,Dallmeyer,Airplane,1.0,Reciprocating
+59690,Appel,Airplane,1.0,Reciprocating
+59696,North Wing,Airplane,1.0,Reciprocating
+59710,Harmel,Airplane,1.0,Reciprocating
+59731,Weber,Airplane,1.0,Reciprocating
+59735,Hawker Siddeley,Airplane,2.0,Turbo Fan
+59746,Michael Moneyhan,Airplane,1.0,Reciprocating
+59749,Chamberlain,Airplane,1.0,Reciprocating
+59781,Colson/goodbread,Airplane,1.0,Reciprocating
+59783,Swing Brian S,Airplane,1.0,Reciprocating
+59791,Craig,Airplane,1.0,Reciprocating
+59804,Lee Kolb,Airplane,1.0,Reciprocating
+59863,Hopkins,Airplane,1.0,Reciprocating
+59913,Larson,Airplane,1.0,Reciprocating
+59944,Hitchens,Airplane,1.0,Reciprocating
+59953,Grafton,Airplane,1.0,Reciprocating
+59954,Mendenhall,Airplane,1.0,Reciprocating
+59988,Elliott Quad City Ultralight,Airplane,1.0,Reciprocating
+60014,Casa,Airplane,1.0,Reciprocating
+60038,Avid Aircraft,Airplane,1.0,Reciprocating
+60041,Gulfstream Aerospace,Airplane,2.0,Turbo Fan
+60080,Huntington,Airplane,1.0,Reciprocating
+60083,Univar,Airplane,1.0,Reciprocating
+60085,Labarre,Airplane,1.0,Reciprocating
+60131,Villarubia,Airplane,1.0,Reciprocating
+60159,Pergerson,Airplane,1.0,Reciprocating
+60172,Wsk-pzl Warzawaokecie,Airplane,1.0,Reciprocating
+60182,Ralph Sanders,Airplane,1.0,Reciprocating
+60210,Kenetic Aviation,Airplane,1.0,Reciprocating
+60240,Wheeler,Airplane,1.0,Reciprocating
+60282,Balkema,Airplane,1.0,Reciprocating
+60303,Cirrus,Airplane,1.0,Reciprocating
+60365,American Champion,Airplane,1.0,Reciprocating
+60372,"Waterwings, Inc",Airplane,1.0,Reciprocating
+60386,Martin,Airplane,1.0,Reciprocating
+60419,Woolley John A,Airplane,1.0,Reciprocating
+60425,Cub Crafters,Airplane,1.0,Reciprocating
+60431,Flight Design Gmbh,Airplane,1.0,Reciprocating
+60434,Linwood R. Lawrence,Airplane,1.0,Reciprocating
+60467,Lee,Airplane,1.0,Reciprocating
+60484,Parks,Airplane,1.0,Reciprocating
+60500,Cubcrafters,Airplane,1.0,Reciprocating
+60501,Marland E Davis,Airplane,1.0,Reciprocating
+60511,Pitrolo,Airplane,1.0,Reciprocating
+60516,Zenair,Airplane,1.0,Reciprocating
+60539,General Atomics,Airplane,1.0,Turbo Prop
+60545,Ely,Airplane,1.0,Reciprocating
+60546,Schmidt,Airplane,1.0,Reciprocating
+60547,Potts,Airplane,1.0,Reciprocating
+60548,M.c. Thomas,Airplane,1.0,Reciprocating
+60567,Heliotech,Airplane,1.0,Reciprocating
+60586,Murphy Aircraft,Airplane,1.0,Reciprocating
+60590,Indus Aviation,Airplane,1.0,Reciprocating
+60592,Bangham,Airplane,1.0,Reciprocating
+60594,Rupp,Airplane,2.0,Reciprocating
+60608,Helmetag,Airplane,1.0,Reciprocating
+60616,Aviat Inc,Airplane,1.0,Reciprocating
+60617,Lanford,Airplane,1.0,Reciprocating
+60636,Harold Vander,Airplane,1.0,Reciprocating
+60645,Helmer,Airplane,1.0,Reciprocating
+60661,Mahoney,Airplane,1.0,Reciprocating
+60700,Espinal,Airplane,1.0,Turbo Jet
+60720,Taplin,Airplane,1.0,Reciprocating
+60740,Stys,Airplane,1.0,Reciprocating
+60752,Waco Classic Aircraft Corp.,Airplane,1.0,Reciprocating
+60828,Brent W. Brown,Airplane,1.0,Reciprocating
+60829,Malott,Airplane,1.0,Reciprocating
+60833,Kearn,Airplane,1.0,Reciprocating
+60845,Theordore Jankowski,Airplane,1.0,Reciprocating
+60860,Schweizer,Airplane,1.0,Turbo Prop
+60882,Ronald D. Murray,Airplane,1.0,Reciprocating
+60886,Fantasy Air,Airplane,1.0,Reciprocating
+60926,Eklund,Airplane,1.0,Reciprocating
+60928,Agin Jeffrey T,Airplane,1.0,Reciprocating
+60929,Croke,Airplane,1.0,Reciprocating
+60946,"Baker, Timithy",Airplane,1.0,Reciprocating
+60959,American Legend Aircraft Co.,Airplane,1.0,Reciprocating
+60964,Liberty Aerospace Inc.,Airplane,1.0,Reciprocating
+60966,Nickel,Airplane,1.0,Reciprocating
+60975,Flaglor,Airplane,1.0,Reciprocating
+60981,Barnard,Airplane,1.0,Reciprocating
+60990,"Chevrier, Armand",Airplane,1.0,Reciprocating
+61007,Carlson Aircraft,Airplane,1.0,Reciprocating
+61050,Dahlstrom - Piel Emeraude,Airplane,1.0,Reciprocating
+61080,American Champion Aircraft,Airplane,1.0,Reciprocating
+61095,Sargent,Airplane,1.0,Reciprocating
+61104,Porter,Airplane,1.0,Reciprocating
+61134,Schweizer Aircraft Corp,Airplane,1.0,Reciprocating
+61150,Curtiss-wright,Airplane,1.0,Reciprocating
+61191,Spittler,Airplane,1.0,Reciprocating
+61194,Bussey,Airplane,1.0,Reciprocating
+61196,Piggott,Airplane,1.0,Reciprocating
+61206,Meyers Aircraft Co.,Airplane,1.0,Reciprocating
+61208,Veltman,Airplane,1.0,Reciprocating
+61217,Stampe,Airplane,1.0,Reciprocating
+61252,Hoyt,Airplane,1.0,Reciprocating
+61307,Gordon,Airplane,1.0,Reciprocating
+61323,Frisby,Airplane,1.0,Reciprocating
+61329,Raytheon,Airplane,2.0,Turbo Fan
+61331,Ron Burleigh,Airplane,2.0,Reciprocating
+61356,Hedeman,Airplane,1.0,Reciprocating
+61358,Brown Floyd L,Airplane,1.0,Reciprocating
+61369,Ageton,Airplane,1.0,Reciprocating
+61388,Parsons,Airplane,1.0,Reciprocating
+61390,Thomas,Airplane,1.0,Reciprocating
+61417,Columbia,Airplane,1.0,Reciprocating
+61418,Grumman American Avn. Corp.,Airplane,1.0,Reciprocating
+61423,Amorde,Airplane,1.0,Reciprocating
+61464,Northwing,Airplane,1.0,Reciprocating
+61465,Cleberg,Airplane,1.0,Reciprocating
+61475,Coltrin,Airplane,1.0,Reciprocating
+61517,Cutler,Airplane,1.0,Reciprocating
+61527,Hadwise,Airplane,1.0,Reciprocating
+61537,Steinbaum,Airplane,1.0,Reciprocating
+61542,Olree Robert,Airplane,1.0,Reciprocating
+61544,Huff,Airplane,1.0,Reciprocating
+61551,Harry D. Miller,Airplane,1.0,Reciprocating
+61555,Finney Thorp,Airplane,1.0,Reciprocating
+61563,Extra Flugzeugbau,Airplane,1.0,Reciprocating
+61565,Monocoupe,Airplane,1.0,Reciprocating
+61584,Codding/fluno,Airplane,1.0,Reciprocating
+61592,Alexander,Airplane,1.0,Reciprocating
+61636,Jahns,Airplane,1.0,Reciprocating
+61640,British Aerospace,Airplane,2.0,Turbo Fan
+61653,American Aviation Corp. (aac),Airplane,1.0,Reciprocating
+61663,Great Lakes Aircraft Company,Airplane,1.0,Reciprocating
+61672,Utva,Airplane,1.0,Reciprocating
+61685,Eiben Theodore,Airplane,1.0,Reciprocating
+61696,Jerald F. Huffman,Airplane,1.0,Reciprocating
+61712,Sargent Jonathan,Airplane,1.0,Reciprocating
+61713,Holmgreen,Airplane,1.0,Reciprocating
+61725,Baggett,Airplane,1.0,Reciprocating
+61730,Pippert,Airplane,1.0,Reciprocating
+61731,Hudspeth Shawn D,Airplane,1.0,Reciprocating
+61765,Riley,Airplane,2.0,Reciprocating
+61770,Stits Flut-r-bug,Airplane,1.0,Reciprocating
+61798,"Bombardier, Inc.",Airplane,2.0,Turbo Fan
+61810,Extra Flugzeugbau Gmbh,Airplane,1.0,Reciprocating
+61811,Gulfstream American Corp,Airplane,2.0,Turbo Prop
+61822,Richard F. Sheldon,Airplane,1.0,Reciprocating
+61829,Saab,Airplane,2.0,Turbo Shaft
+61856,"Morgan, Marvin R.",Airplane,1.0,Reciprocating
+61915,Ryan Aeronautical,Airplane,1.0,Reciprocating
+61926,Barron,Airplane,1.0,Reciprocating
+61945,Jim Garrison,Airplane,1.0,Reciprocating
+61947,Partenavia,Airplane,2.0,Reciprocating
+61954,Douglas,Airplane,4.0,Reciprocating
+61957,Foley James,Airplane,1.0,Reciprocating
+61960,"Quad City Ultralight, Llc",Airplane,1.0,Reciprocating
+61961,Dassault,Airplane,3.0,Turbo Fan
+61982,Airborne Windsports Ltd,Airplane,1.0,Reciprocating
+61985,Tanker,Airplane,1.0,Reciprocating
+61991,Cirrus Design,Airplane,1.0,Reciprocating
+62000,"Bombardier, Inc.",Airplane,2.0,Turbo Prop
+62008,Raytheon Aircraft Company,Airplane,2.0,Turbo Prop
+62012,C.w Crane,Airplane,1.0,Reciprocating
+62024,Beech,Airplane,2.0,Turbo Shaft
+62035,Mooney Aircraft Corp.,Airplane,1.0,Reciprocating
+62040,Wampole,Airplane,1.0,Reciprocating
+62041,Fortuna,Airplane,1.0,Reciprocating
+62053,Burkhart-grob,Airplane,1.0,Reciprocating
+62065,Peay,Airplane,1.0,Reciprocating
+62068,American Legend,Airplane,1.0,Reciprocating
+62075,"Van's Aircraft, Inc",Airplane,1.0,Reciprocating
+62093,Gulfstream-schweizer,Airplane,1.0,Reciprocating
+62104,Waltz,Airplane,1.0,Reciprocating
+62123,Ogden Aubrey D,Airplane,1.0,Reciprocating
+62158,Polcyn,Airplane,1.0,Reciprocating
+62179,Pietsch,Airplane,1.0,Reciprocating
+62185,Caywood,Airplane,1.0,Reciprocating
+62191,Aero Vodochody Aero. Works,Airplane,1.0,Turbo Jet
+62206,Bruce E. Hotz,Airplane,1.0,Reciprocating
+62224,Duffy/wagner,Airplane,1.0,Reciprocating
+62228,Harrison Robert J.,Airplane,1.0,Reciprocating
+62240,Gates Learjet,Airplane,2.0,Turbo Fan
+62256,Edwards,Airplane,1.0,Reciprocating
+62263,Aeroprakt,Airplane,1.0,Reciprocating
+62273,Carpenter,Airplane,1.0,Reciprocating
+62277,Ac Mfg & Dev't Co,Airplane,1.0,Reciprocating
+62283,Waco Classic Aircraft,Airplane,1.0,Reciprocating
+62291,Barnett,Airplane,1.0,Reciprocating
+62334,Dwayne Smith,Airplane,1.0,Reciprocating
+62336,Pavliga,Airplane,1.0,Reciprocating
+62348,North American Aviation Div.,Airplane,1.0,Reciprocating
+62351,Robert J. Goodyear,Airplane,1.0,Reciprocating
+62358,Monocoupe Aircraft,Airplane,1.0,Reciprocating
+62365,Johnson-whittman Tailwind,Airplane,1.0,Reciprocating
+62374,Neal Anderson,Airplane,1.0,Reciprocating
+62376,Pzl Warzawa-cnpsl,Airplane,1.0,Reciprocating
+62392,Bird,Airplane,1.0,Reciprocating
+62407,Piper Aircraft,Airplane,1.0,Reciprocating
+62416,Gadbois,Airplane,1.0,Reciprocating
+62418,Tolsma Tony G,Airplane,1.0,Reciprocating
+62430,Bishop Thomas W,Airplane,1.0,Reciprocating
+62433,Acro Sport,Airplane,1.0,Reciprocating
+62443,Air Tractor,Airplane,1.0,Turbo Shaft
+62505,Canadian Car & Foundry,Airplane,1.0,Reciprocating
+62528,Everett,Airplane,1.0,Reciprocating
+62537,Gulfstream-schweizer,Airplane,1.0,Turbo Prop
+62548,Forney,Airplane,1.0,Reciprocating
+62554,Hanson Gerald,Airplane,1.0,Reciprocating
+62555,Hillery W. Grice,Airplane,1.0,Reciprocating
+62563,Luciani,Airplane,1.0,Reciprocating
+62589,Lidgard,Airplane,1.0,Reciprocating
+62590,Wroblewski,Airplane,1.0,Reciprocating
+62600,Robert J. Jackson,Airplane,1.0,Reciprocating
+62610,Air Tractor Inc,Airplane,1.0,Turbo Prop
+62619,Doggett Jack,Airplane,1.0,Reciprocating
+62622,Dutton,Airplane,1.0,Reciprocating
+62623,Gray Jack,Airplane,1.0,Reciprocating
+62624,Stevenson,Airplane,1.0,Reciprocating
+62644,Billings/humbyrd,Airplane,1.0,Reciprocating
+62664,Raytheon Aircraft Company,Airplane,1.0,Reciprocating
+62668,James L. Stringfellow,Airplane,1.0,Reciprocating
+62673,Dassault-breguet,Airplane,3.0,Turbo Fan
+62695,Rosenbaum,Airplane,1.0,Reciprocating
+62700,Nelson,Airplane,1.0,Reciprocating
+62714,Sandall Evan R,Airplane,1.0,Reciprocating
+62722,Becerra,Airplane,1.0,Reciprocating
+62723,Britten-norman,Airplane,1.0,Reciprocating
+62759,Commonwealth,Airplane,1.0,Reciprocating
+62762,Evektor,Airplane,1.0,Reciprocating
+62770,Burk,Airplane,1.0,Reciprocating
+62771,Zaverton Elmer,Airplane,1.0,Reciprocating
+62778,"Sherman John, H",Airplane,1.0,Reciprocating
+62782,Truitt Peter,Airplane,1.0,Reciprocating
+62792,Hammer,Airplane,1.0,Reciprocating
+62801,Evektor-aerotechnik As,Airplane,1.0,Reciprocating
+62809,Anderson,Airplane,1.0,Reciprocating
+62824,Cub Crafters Inc.,Airplane,1.0,Reciprocating
+62848,Rajhamsa,Airplane,1.0,Reciprocating
+62855,Saunders,Airplane,1.0,Reciprocating
+62892,Diamond Aircraft,Airplane,1.0,Reciprocating
+62932,Rodgers,Airplane,1.0,Reciprocating
+62955,Chrapczynski,Airplane,1.0,Reciprocating
+62965,Phantom Sport Airplane,Airplane,1.0,Reciprocating
+62966,Dta Sari,Airplane,1.0,Reciprocating
+62979,Bush Caddy Usa,Airplane,1.0,Reciprocating
+62989,Found Aircraft Canada Inc,Airplane,1.0,Reciprocating
+62995,Hamilton,Airplane,1.0,Reciprocating
+63012,Artic Aircraft Corp.,Airplane,1.0,Reciprocating
+63016,Horton,Airplane,1.0,Reciprocating
+63017,Marcellus,Airplane,1.0,Reciprocating
+63035,Evektor Aerotechnic,Airplane,1.0,Reciprocating
+63066,Netz,Airplane,1.0,Reciprocating
+63094,Mellema,Airplane,1.0,Reciprocating
+63098,Buttles,Airplane,1.0,Reciprocating
+63104,"Six Chutter, Inc.",Airplane,1.0,Reciprocating
+63128,Eagle Aircraft Co.,Airplane,1.0,Reciprocating
+63134,Golden Eagle,Airplane,1.0,Reciprocating
+63143,Mapes,Airplane,1.0,Reciprocating
+63144,Stout Gordon,Airplane,1.0,Reciprocating
+63152,Quicksilver Manufacturing,Airplane,1.0,Reciprocating
+63154,Ackert,Airplane,1.0,Reciprocating
+63158,Falcon Safety Craft Inc,Airplane,1.0,Reciprocating
+63173,Waco Classic Aircraft Corp,Airplane,1.0,Reciprocating
+63186,Interplane,Airplane,1.0,Reciprocating
+63210,Niva,Airplane,1.0,Reciprocating
+63214,Eaa Biplane,Airplane,1.0,Reciprocating
+63220,"Weaver, David A",Airplane,1.0,Reciprocating
+63227,Learjet Inc,Airplane,2.0,Turbo Fan
+63230,Raytheon Co,Airplane,1.0,Reciprocating
+63236,Nunn,Airplane,1.0,Reciprocating
+63243,Mcnicholas,Airplane,1.0,Reciprocating
+63251,Nicely,Airplane,1.0,Reciprocating
+63283,Ebersole,Airplane,1.0,Reciprocating
+63284,Anthony J. Bencivenga,Airplane,1.0,Reciprocating
+63288,Kitfox,Airplane,1.0,Reciprocating
+63299,Trinidad,Airplane,1.0,Reciprocating
+63317,American Air Racing,Airplane,1.0,Reciprocating
+63324,Jones,Airplane,1.0,Reciprocating
+63327,Furey,Airplane,1.0,Reciprocating
+63328,Piper/cub Crafters,Airplane,1.0,Reciprocating
+63334,"Ekornaas, Fred",Airplane,1.0,Reciprocating
+63379,Hasch,Airplane,1.0,Reciprocating
+63387,Skykits,Airplane,1.0,Reciprocating
+63402,Vans,Airplane,1.0,Reciprocating
+63411,Root,Airplane,1.0,Reciprocating
+63419,Jeffrey Wilson,Airplane,1.0,Reciprocating
+63451,Langley,Airplane,1.0,Reciprocating
+63455,Fly By Sea Co,Airplane,1.0,Turbo Prop
+63466,Everson,Airplane,1.0,Reciprocating
+63483,Aerotechnik,Airplane,1.0,Reciprocating
+63495,Lambert John G,Airplane,1.0,Reciprocating
+63498,Indus,Airplane,1.0,Reciprocating
+63502,Progressive Aerodyne,Airplane,1.0,Reciprocating
+63510,Dusenberry,Airplane,1.0,Reciprocating
+63531,Rittal,Airplane,1.0,Reciprocating
+63540,Krueger,Airplane,1.0,Reciprocating
+63550,Slagle,Airplane,1.0,Reciprocating
+63575,Welch,Airplane,1.0,Reciprocating
+63582,Poser,Airplane,1.0,Reciprocating
+63592,Ward Rc,Airplane,1.0,Reciprocating
+63598,Blair,Airplane,1.0,Reciprocating
+63626,Ploof Progressive Aerodyne's,Airplane,1.0,Reciprocating
+63628,"Veltman, Robert",Airplane,1.0,Reciprocating
+63649,Bagnall Harold E,Airplane,1.0,Reciprocating
+63658,Dye,Airplane,1.0,Reciprocating
+63665,"Wrb Associates, Llc.",Airplane,1.0,Reciprocating
+63666,Kelly,Airplane,1.0,Reciprocating
+63671,Daniel R. Lloyd,Airplane,1.0,Reciprocating
+63674,Pipistrel,Airplane,1.0,Reciprocating
+63680,"Gluff, Alan",Airplane,1.0,Reciprocating
+63681,Blondin,Airplane,1.0,Reciprocating
+63703,Scottish,Airplane,1.0,Reciprocating
+63709,Lockheed,Airplane,4.0,Turbo Prop
+63712,Sea & Air Sales,Airplane,1.0,Reciprocating
+63721,"Brand, Richard",Airplane,1.0,Reciprocating
+63757,Cirrus Design Corp,Airplane,1.0,Reciprocating
+63774,"Godwin, David P",Airplane,1.0,Reciprocating
+63788,Swearingen T R/masters W,Airplane,1.0,Reciprocating
+63809,Messing Roy,Airplane,1.0,Reciprocating
+63811,Senft/anderson/salmon,Airplane,1.0,Reciprocating
+63814,Piaggio Aero Industries S.p.a.,Airplane,2.0,Turbo Prop
+63817,Fisher Aero,Airplane,1.0,Reciprocating
+63833,"Wootton, John",Airplane,1.0,Reciprocating
+63866,Eldredge,Airplane,1.0,Reciprocating
+63872,Portman,Airplane,1.0,Reciprocating
+63880,Found Acft,Airplane,1.0,Reciprocating
+63900,Hein,Airplane,1.0,Reciprocating
+63910,Lerohl,Airplane,1.0,Reciprocating
+63913,Barnard/Stancil,Airplane,1.0,Reciprocating
+63919,Costruzioni Aeronautiche,Airplane,1.0,Reciprocating
+63920,American Champion (ACAC),Airplane,1.0,Reciprocating
+63922,PIPER,Airplane,2.0,Reciprocating
+63923,DEAN PATRICK G,Airplane,1.0,Reciprocating
+63936,Corsario,Airplane,1.0,Reciprocating
+63945,Ziermann,Airplane,1.0,Reciprocating
+63946,CESSNA,Airplane,1.0,Reciprocating
+63954,Hawker Beechcraft Corporation,Airplane,2.0,Turbo Prop
+63956,DeSousa,Airplane,1.0,Reciprocating
+63965,Hawker Beechcraft Corp.,Airplane,2.0,Reciprocating
+63967,AERO COMMANDER,Airplane,2.0,Reciprocating
+63971,PIPER,Airplane,1.0,Turbo Prop
+63972,Fairchild,Airplane,2.0,Turbo Prop
+63975,Air Creation,Airplane,1.0,Reciprocating
+63976,Waltermire,Airplane,1.0,Reciprocating
+63986,MacAdams,Airplane,1.0,Reciprocating
+63988,PIPER,Airplane,1.0,Reciprocating
+63992,Phillips,Airplane,1.0,Reciprocating
+64002,GRUMMAN,Airplane,2.0,Reciprocating
+64006,Airborne,Airplane,1.0,Reciprocating
+64009,AirIndus,Airplane,1.0,Reciprocating
+64011,RAYTHEON AIRCRAFT COMPANY,Airplane,2.0,Turbo Prop
+64012,CESSNA,Airplane,2.0,Turbo Fan
+64015,North American Rockwell Corp.,Airplane,2.0,Turbo Fan
+64016,CIRRUS DESIGN CORP,Airplane,1.0,Reciprocating
+64018,KIDD CHRIS,Airplane,1.0,Reciprocating
+64019,CESSNA,Airplane,2.0,Reciprocating
+64020,KAYLOR J E/STRAHLMANN R L,Airplane,1.0,Reciprocating
+64021,de Havilland,Airplane,2.0,Turbo Prop
+64024,Kral,Airplane,1.0,Reciprocating
+64025,Squier,Airplane,1.0,Reciprocating
+64031,de Havilland,Airplane,1.0,Reciprocating
+64038,Wooters,Airplane,1.0,Reciprocating
+64045,William P. Crowell,Airplane,1.0,Reciprocating
+64048,Sonex,Airplane,1.0,Reciprocating
+64057,Plocher,Airplane,1.0,Reciprocating
+64078,BEECHCRAFT,Airplane,2.0,Turbo Fan
+64085,Munson,Airplane,1.0,Reciprocating
+64086,LANCAIR,Airplane,1.0,Reciprocating
+64088,Steven Hardie,Airplane,2.0,Reciprocating
+64090,Clutton Eric,Airplane,1.0,Reciprocating
+64094,EMBRAER,Airplane,2.0,Turbo Fan
+64096,McDonnell Douglas,Airplane,2.0,Turbo Fan
+64099,Hawker Beechcraft Corp.,Airplane,2.0,Turbo Prop
+64105,Raytheon,Airplane,1.0,Reciprocating
+64106,PIPER AIRCRAFT INC,Airplane,1.0,Reciprocating
+64108,Christer,Airplane,1.0,Reciprocating
+64110,BEECH,Airplane,1.0,Reciprocating
+64112,Hardy,Airplane,1.0,Reciprocating
+64113,RANS,Airplane,1.0,Reciprocating
+64116,BOEING,Airplane,2.0,Turbo Fan
+64117,Shaffer,Airplane,1.0,Reciprocating
+64121,Bartle,Airplane,1.0,Reciprocating
+64130,MOONEY,Airplane,1.0,Reciprocating
+64136,Ulrich Christen,Airplane,1.0,Reciprocating
+64149,RAYTHEON AIRCRAFT COMPANY,Airplane,1.0,Reciprocating
+64152,Morrison,Airplane,1.0,Reciprocating
+64154,CESSNA,Airplane,2.0,Turbo Jet
+64165,ROCKWELL,Airplane,1.0,Reciprocating
+64167,MAULE,Airplane,1.0,Reciprocating
+64174,Ritter,Airplane,1.0,Reciprocating
+64179,Aircraft Mfg & Dev. Co.,Airplane,1.0,Reciprocating
+64189,Spartan,Airplane,1.0,Reciprocating
+64194,J&J Ultralights,Airplane,1.0,Reciprocating
+64207,Quad City Ultralight Aircraft,Airplane,1.0,Reciprocating
+64212,Jenkins,Airplane,1.0,Reciprocating
+64218,Ercoupe (Eng & Research Corp.),Airplane,1.0,Reciprocating
+64222,BEECH,Airplane,2.0,Reciprocating
+64229,Gulfstream-Schweizer,Airplane,1.0,Turbo Prop
+64232,Grumman-Schweizer,Airplane,1.0,Reciprocating
+64251,Kenney,Airplane,1.0,Reciprocating
+64252,Douglas D. Turner,Airplane,1.0,Reciprocating
+64260,Hatle,Airplane,1.0,Reciprocating
+64262,Thomas J. Dorsey,Airplane,1.0,Reciprocating
+64270,AIRBUS,Airplane,2.0,Turbo Fan
+64271,Jihlavan,Airplane,1.0,Reciprocating
+64280,Koleno,Airplane,1.0,Reciprocating
+64285,Fairchild Swearingen,Airplane,2.0,Turbo Prop
+64286,BARDOUCHE,Airplane,1.0,Reciprocating
+64295,American Aviation Corp. (AAC),Airplane,1.0,Reciprocating
+64300,Powell,Airplane,1.0,Reciprocating
+64301,Hiller,Airplane,1.0,Reciprocating
+64302,Chech Aircraft Works SPOL SRO,Airplane,1.0,Reciprocating
+64303,CARTWRIGHT H JR/COTTRELL M,Airplane,1.0,Reciprocating
+64313,HAWKER BEECHCRAFT CORP,Airplane,1.0,Reciprocating
+64314,Curtiss-Wright,Airplane,1.0,Reciprocating
+64317,RAYTHEON,Airplane,2.0,Turbo Prop
+64319,William E. Furr,Airplane,1.0,Reciprocating
+64321,Grumman American Aviation,Airplane,1.0,Reciprocating
+64332,"Questair, Inc.",Airplane,1.0,Reciprocating
+64334,Wim J Huisman,Airplane,1.0,Reciprocating
+64335,EMBRAER,Airplane,2.0,Turbo Prop
+64337,Dayon,Airplane,1.0,Reciprocating
+64341,Hill,Airplane,1.0,Reciprocating
+64344,BOEING,Airplane,1.0,Reciprocating
+64352,Gulfstream-Schweizer,Airplane,1.0,Reciprocating
+64354,AIR TRACTOR,Airplane,1.0,Turbo Prop
+64358,Emory B. Wood,Airplane,1.0,Reciprocating
+64362,AeroFab,Airplane,1.0,Reciprocating
+64366,VELDHUIZEN,Airplane,1.0,Reciprocating
+64372,TOMBLINGSON-LEATHERS,Airplane,1.0,Reciprocating
+64376,Carlson,Airplane,1.0,Reciprocating
+64377,Haecker,Airplane,1.0,Reciprocating
+64379,Tecnam,Airplane,1.0,Reciprocating
+64380,Woods,Airplane,1.0,Reciprocating
+64390,Pierson,Airplane,1.0,Reciprocating
+64394,Dragon Fly Aviation,Airplane,1.0,Reciprocating
+64399,Carlton M. Cadwell,Airplane,1.0,Reciprocating
+64406,BOMBARDIER INC,Airplane,2.0,Turbo Fan
+64415,BELLANCA,Airplane,1.0,Reciprocating
+64416,Canup,Airplane,1.0,Reciprocating
+64417,VICKERS,Airplane,1.0,Reciprocating
+64419,Ervin,Airplane,1.0,Reciprocating
+64428,TROMSNESS ENTERPRISES INC,Airplane,1.0,Turbo Prop
+64434,de Havilland,Airplane,1.0,Turbo Prop
+64435,Evektor Aerotechnik,Airplane,1.0,Reciprocating
+64442,2007 Savage Air LLC,Airplane,1.0,Turbo Prop
+64450,ROCKWELL,Airplane,2.0,Turbo Prop
+64459,Thompson Howard,Airplane,1.0,Reciprocating
+64460,Garrett Gerald P,Airplane,1.0,Turbo Prop
+64465,Rans,Airplane,1.0,Reciprocating
+64466,Higher Class Aviation,Airplane,1.0,Reciprocating
+64470,DICKENSON,Airplane,1.0,Reciprocating
+64471,Greco,Airplane,1.0,Reciprocating
+64477,Shaffstall,Airplane,1.0,Reciprocating
+64478,GRUMMAN,Airplane,1.0,Reciprocating
+64485,Commander,Airplane,2.0,Reciprocating
+64487,Desalvatore Al,Airplane,1.0,Reciprocating
+64491,EXTRA Flugzeugproduktions-GMBH,Airplane,1.0,Reciprocating
+64502,CESSNA,Airplane,1.0,Turbo Prop
+64511,FAIRCHILD,Airplane,2.0,Turbo Prop
+64512,"Thrush Aircraft, Inc.",Airplane,1.0,Reciprocating
+64526,Hawker Beechcraft Corporation,Airplane,2.0,Reciprocating
+64536,STINSON,Airplane,1.0,Reciprocating
+64547,DeHavilland,Airplane,1.0,Turbo Jet
+64553,Mason,Airplane,1.0,Reciprocating
+64560,Babcock,Airplane,1.0,Reciprocating
+64562,Scottish Aviation,Airplane,1.0,Reciprocating
+64567,Columbia Aircraft Mfg.,Airplane,1.0,Reciprocating
+64568,"Cortesy, John E",Airplane,1.0,Reciprocating
+64571,BOEING,Airplane,3.0,Turbo Fan
+64573,PILATUS,Airplane,1.0,Turbo Prop
+64576,Downer,Airplane,1.0,Reciprocating
+64578,BEECH,Airplane,2.0,Turbo Prop
+64588,Kitfox IV,Airplane,1.0,Reciprocating
+64597,Nolan,Airplane,1.0,Reciprocating
+64598,Kolb,Airplane,1.0,Reciprocating
+64607,Hutton,Airplane,1.0,Reciprocating
+64630,Poulin L/Cullen D,Airplane,1.0,Reciprocating
+64631,AERO COMMANDER,Airplane,2.0,Turbo Prop
+64644,Aeros,Airplane,1.0,Reciprocating
+64645,LUCAS D E/ LUCAS K A,Airplane,1.0,Reciprocating
+64653,Davison,Airplane,1.0,Reciprocating
+64654,HARMS ROBERT M,Airplane,1.0,Reciprocating
+64658,SOCATA,Airplane,1.0,Turbo Prop
+64664,Eclipse Aviation Corporation,Airplane,2.0,Turbo Fan
+64685,Kindig,Airplane,1.0,Reciprocating
+64686,Naval Aircraft Factory,Airplane,1.0,Reciprocating
+64693,MKII Corporation,Airplane,1.0,Reciprocating
+64697,Piper Cub Crafters,Airplane,1.0,Reciprocating
+64703,Clarke Colin,Airplane,1.0,Reciprocating
+64713,Marrin,Airplane,1.0,Reciprocating
+64714,AIR TRACTOR INC,Airplane,1.0,Turbo Prop
+64715,British Aircraft Corp. (BAC),Airplane,1.0,Turbo Jet
+64719,Heldeberg Design,Airplane,1.0,Reciprocating
+64727,DOUGLAS,Airplane,3.0,Turbo Fan
+64731,Beech Aircraft Corp,Airplane,1.0,Reciprocating
+64739,MCKEEHAN JAMES F,Airplane,1.0,Reciprocating
+64740,HELTON,Airplane,1.0,Reciprocating
+64749,Grumman-Schweizer,Airplane,1.0,Turbo Prop
+64750,Yates,Airplane,1.0,Reciprocating
+64751,DEHAVILLAND,Airplane,2.0,Turbo Prop
+64753,AIR TRACTOR,Airplane,1.0,Reciprocating
+64755,Hammond,Airplane,1.0,Reciprocating
+64756,"Uetz, Walter",Airplane,1.0,Reciprocating
+64763,Dennis P. McGurk,Airplane,1.0,Reciprocating
+64767,Taylorcraft Aviation,Airplane,1.0,Reciprocating
+64770,Flight Design GMBH,Airplane,1.0,Reciprocating
+64779,Nord (SNCAN),Airplane,1.0,Reciprocating
+64791,"Wolseley Motors, Inc.",Airplane,1.0,Reciprocating
+64794,Snow,Airplane,1.0,Turbo Prop
+64817,Marvin A. Smith,Airplane,1.0,Reciprocating
+64819,Lima,Airplane,1.0,Reciprocating
+64821,BOEING,Airplane,2.0,Turbo Jet
+64839,La Moutte,Airplane,1.0,Reciprocating
+64847,Yowell,Airplane,1.0,Reciprocating
+64862,Mauck,Airplane,1.0,Reciprocating
+64864,Lanier James A,Airplane,1.0,Reciprocating
+64865,SMITH,Airplane,2.0,Reciprocating
+64871,Chomo,Airplane,1.0,Reciprocating
+64874,Challenger,Airplane,1.0,Reciprocating
+64875,Roof,Airplane,1.0,Reciprocating
+64882,STOL,Airplane,2.0,Reciprocating
+64884,ROCKWELL INTERNATIONAL,Airplane,1.0,Reciprocating
+64894,SHANNON KEVIN,Airplane,1.0,Reciprocating
+64896,LANCAIR COMPANY,Airplane,1.0,Reciprocating
+64905,"Tallent, Chris M.",Airplane,1.0,Reciprocating
+64906,Douglas A. Pohl,Airplane,1.0,Reciprocating
+64908,MCDONNELL DOUGLAS,Airplane,2.0,Turbo Fan
+64914,Evektor-Aerotechnik,Airplane,1.0,Reciprocating
+64915,Huebner,Airplane,1.0,Reciprocating
+64916,TRAXLER JOHN N,Airplane,1.0,Reciprocating
+64919,Colyaer SL,Airplane,1.0,Reciprocating
+64924,David Jarrett,Airplane,1.0,Reciprocating
+64925,Grumman Acft Eng,Airplane,1.0,Reciprocating
+64929,Jonsson,Airplane,1.0,Reciprocating
+64935,Iversen,Airplane,1.0,Reciprocating
+64941,Wright,Airplane,1.0,Reciprocating
+64943,Diamond,Airplane,1.0,Reciprocating
+64946,Stits Aircraft,Airplane,1.0,Reciprocating
+64947,J. E. Douglas,Airplane,1.0,Reciprocating
+64952,Drochak,Airplane,1.0,Reciprocating
+64953,Ayres Corporation,Airplane,1.0,Turbo Prop
+64955,CESSNA,Airplane,2.0,Turbo Prop
+64959,EVEKTOR-AEROTECHNIK AS,Airplane,1.0,Reciprocating
+64961,Holmes Arthur Orman,Airplane,1.0,Reciprocating
+64966,Sport Flight,Airplane,1.0,Reciprocating
+64967,"Nichols Rans, Inc.",Airplane,1.0,Reciprocating
+64977,INDY AIRCRAFT LTD,Airplane,1.0,Reciprocating
+64985,Extra Flugzeugproduktions-und,Airplane,1.0,Reciprocating
+64986,Aero SP Z O O (Gobosh),Airplane,1.0,Reciprocating
+64989,Czech Aircraft Works,Airplane,1.0,Reciprocating
+64997,DEHAVILLAND,Airplane,1.0,Reciprocating
+65001,CARRITHERS CARL L,Airplane,1.0,Reciprocating
+65009,Howell,Airplane,1.0,Reciprocating
+65014,Marshall James J,Airplane,1.0,Reciprocating
+65017,Tuth,Airplane,1.0,Reciprocating
+65028,Air Tractor Inc.,Airplane,1.0,Turbo Prop
+65034,GRIMES BARRY R,Airplane,1.0,Reciprocating
+65036,BOLENBAUGH PHILLIP WILLIAM,Airplane,1.0,Reciprocating
+65040,RAYTHEON COMPANY,Airplane,1.0,Reciprocating
+65042,Evektor-Aerotechnik AS,Airplane,1.0,Reciprocating
+65049,Saab-Scania AB (Saab),Airplane,2.0,Turbo Prop
+65050,WSL PZL,Airplane,1.0,Turbo Prop
+65055,Bristol,Airplane,1.0,Reciprocating
+65056,Fowler,Airplane,1.0,Reciprocating
+65062,MOSER GEORG,Airplane,1.0,Reciprocating
+65065,Morris George,Airplane,1.0,Reciprocating
+65070,LONG,Airplane,1.0,Reciprocating
+65071,DIAMOND,Airplane,1.0,Reciprocating
+65075,Prendergast,Airplane,1.0,Reciprocating
+65077,Cubcrafter,Airplane,1.0,Reciprocating
+65090,Powrachute,Airplane,1.0,Reciprocating
+65096,Osborne,Airplane,1.0,Reciprocating
+65110,Collard,Airplane,1.0,Reciprocating
+65113,Flynn Van,Airplane,1.0,Reciprocating
+65118,Evektor Aerotechnik AS,Airplane,1.0,Reciprocating
+65125,Ouzts Rodney,Airplane,1.0,Reciprocating
+65129,Lyons,Airplane,1.0,Reciprocating
+65130,Cosmos,Airplane,1.0,Reciprocating
+65133,Falk,Airplane,1.0,Reciprocating
+65147,Morane-Saulnier,Airplane,2.0,Turbo Jet
+65160,Dickey,Airplane,1.0,Reciprocating
+65164,Steven A. Jones,Airplane,1.0,Reciprocating
+65168,Anglin,Airplane,1.0,Reciprocating
+65169,Bowman,Airplane,1.0,Reciprocating
+65171,ERCOUPE,Airplane,1.0,Reciprocating
+65177,Aircraft Mfg & Dev. Co. (AMD),Airplane,1.0,Reciprocating
+65181,Walker,Airplane,1.0,Reciprocating
+65195,SOCATA,Airplane,1.0,Reciprocating
+65196,Rouse,Airplane,1.0,Reciprocating
+65205,AYRES,Airplane,1.0,Turbo Prop
+65206,Roberto P. Garcia,Airplane,1.0,Reciprocating
+65208,Eberle,Airplane,1.0,Reciprocating
+65213,Grumman Acft Eng,Airplane,1.0,Turbo Prop
+65214,Wheat,Airplane,1.0,Reciprocating
+65225,Hawker,Airplane,1.0,Reciprocating
+65229,Ferree,Airplane,1.0,Reciprocating
+65232,NTBK,Airplane,1.0,Reciprocating
+65234,MURRAY FRANK H,Airplane,1.0,Reciprocating
+65236,Haines,Airplane,1.0,Reciprocating
+65238,Killgore,Airplane,1.0,Reciprocating
+65243,SACREY W MICHAEL,Airplane,1.0,Reciprocating
+65251,LAKE,Airplane,1.0,Reciprocating
+65254,Europro CZ,Airplane,1.0,Reciprocating
+65261,ANDERSON R E/ABROMAVICH L J,Airplane,1.0,Reciprocating
+65262,BOEING,Airplane,4.0,Turbo Fan
+65263,SCHWEIZER AIRCRAFT CORP,Airplane,1.0,Turbo Prop
+65276,Helie,Airplane,1.0,Reciprocating
+65281,Lien,Airplane,1.0,Reciprocating
+65295,Wasson Loehle,Airplane,1.0,Reciprocating
+65300,FANTASY AIR SRO,Airplane,1.0,Reciprocating
+65307,CONVAIR,Airplane,2.0,Turbo Prop
+65316,ROCKWELL INTERNATIONAL,Airplane,1.0,Turbo Prop
+65317,LANCAIR,Airplane,1.0,Turbo Prop
+65318,LOCKHEED,Airplane,4.0,Turbo Jet
+65319,STEPPLING,Airplane,1.0,Reciprocating
+65323,Sadler,Airplane,1.0,Reciprocating
+65326,WEATHERLY,Airplane,1.0,Reciprocating
+65332,Smith Wylie Jay,Airplane,1.0,Reciprocating
+65333,DIEHL WILLIAM A,Airplane,1.0,Reciprocating
+65336,Debus J / Mountain S / Bowes E,Airplane,1.0,Reciprocating
+65348,Tetrault Ronad,Airplane,1.0,Reciprocating
+65349,GULFSTREAM AMERICAN CORP,Airplane,1.0,Reciprocating
+65353,Dufault Mark V,Airplane,1.0,Reciprocating
+65361,Miltenberger,Airplane,1.0,Reciprocating
+65365,Brubaker,Airplane,1.0,Reciprocating
+65369,Diamond Aircraft Industry Inc,Airplane,1.0,Reciprocating
+65371,Cirrus Design Corporation,Airplane,1.0,Reciprocating
+65375,MOONEY AIRCRAFT CORP.,Airplane,1.0,Reciprocating
+65383,SUKHOI,Airplane,1.0,Reciprocating
+65390,AERONCA,Airplane,1.0,Reciprocating
+65393,FLEET,Airplane,1.0,Reciprocating
+65394,Snelling,Airplane,1.0,Reciprocating
+65396,INDUS AVIATION INC,Airplane,1.0,Reciprocating
+65401,CESSNA AIRCRAFT CO,Airplane,1.0,Reciprocating
+65404,GULFSTREAM-SCHWEIZER A/C CORP,Airplane,1.0,Turbo Prop
+65407,Piper Aerostar,Airplane,2.0,Reciprocating
+65410,CUB CRAFTERS,Airplane,1.0,Reciprocating
+65414,Berrie,Airplane,1.0,Reciprocating
+65417,DIAMOND AIRCRAFT,Airplane,1.0,Reciprocating
+65418,STEARMAN AIRCRAFT,Airplane,1.0,Reciprocating
+65424,Sorrell Aircraft,Airplane,1.0,Reciprocating
+65432,NAGEL,Airplane,1.0,Reciprocating
+65439,Cox Clyde H,Airplane,1.0,Reciprocating
+65449,BICE DAVID E,Airplane,1.0,Reciprocating
+65454,GIER TRAVIS H,Airplane,1.0,Reciprocating
+65461,NORTH AMERICAN,Airplane,1.0,Reciprocating
+65467,Hood,Airplane,1.0,Reciprocating
+65469,LAIRD,Airplane,1.0,Reciprocating
+65472,Brennan,Airplane,1.0,Reciprocating
+65485,ANTONOVICH ANTON B,Airplane,1.0,Reciprocating
+65490,Aviat Aircraft Inc,Airplane,1.0,Reciprocating
+65491,Bonde,Airplane,1.0,Reciprocating
+65493,CZECH AIRCRAFT WORKS SPOL SRO,Airplane,1.0,Reciprocating
+65505,INIZIATIVE INDUSTRIALI ITALIAN,Airplane,1.0,Reciprocating
+65514,VELOCITY INC,Airplane,1.0,Reciprocating
+65535,STEELE  JOHN J,Airplane,1.0,Reciprocating
+65538,Hargett,Airplane,1.0,Reciprocating
+65545,Heisler,Airplane,1.0,Reciprocating
+65559,MOSES TIM C,Airplane,1.0,Reciprocating
+65560,ROYSE DAVID,Airplane,1.0,Reciprocating
+65573,HOLM MICHAEL J,Airplane,1.0,Reciprocating
+65581,NAVAL AIRCRAFT FACTORY,Airplane,1.0,Reciprocating
+65584,CAMPBELL EARL S JR,Airplane,1.0,Reciprocating
+65585,CHAMBERLIN VICTOR WAYNE,Airplane,1.0,Reciprocating
+65588,SILFVAST,Airplane,1.0,Reciprocating
+65597,Hilderson Oswald,Airplane,1.0,Reciprocating
+65599,GRUMMAN AMERICAN AVN. CORP.,Airplane,1.0,Reciprocating
+65600,HARTTER LENNY J,Airplane,1.0,Reciprocating
+65606,CONSTRUCCIONES AERONAUTICAS SA,Airplane,2.0,Turbo Prop
+65607,HEMP TIMOTHY,Airplane,1.0,Reciprocating
+65609,FOX JACK G,Airplane,1.0,Reciprocating
+65617,JOHNSON LEONARD G,Airplane,1.0,Reciprocating
+65621,GENERAL ATOMICS,Airplane,1.0,Turbo Prop
+65622,Universal,Airplane,1.0,Reciprocating
+65624,MILLER J KIRTLEY,Airplane,1.0,Reciprocating
+65625,PARTENAVIA SPA,Airplane,2.0,Reciprocating
+65631,WSK PZL MIELEC,Airplane,1.0,Reciprocating
+65652,AMERICAN GENERAL ACFT CORP,Airplane,1.0,Reciprocating
+65659,DAVIS DANIEL T,Airplane,1.0,Reciprocating
+65660,DeHavilland,Airplane,2.0,Turbo Prop
+65693,HAUSER U/HAUSER J,Airplane,1.0,Reciprocating
+65695,DASSAULT-BREGUET,Airplane,3.0,Turbo Jet
+65696,TARANTOLA,Airplane,1.0,Reciprocating
+65697,NICKEL,Airplane,1.0,Reciprocating
+65700,Leroy Lakey,Airplane,1.0,Reciprocating
+65706,EXTRA FLUGZEUGBAU GMBH,Airplane,1.0,Reciprocating
+65717,ROCKWELL INTERNATIONAL,Airplane,2.0,Turbo Prop
+65724,ROCKWELL INTERNATIONAL,Airplane,2.0,Reciprocating
+65729,MERRELL STEPHEN,Airplane,1.0,Reciprocating
+65732,MILLER,Airplane,1.0,Reciprocating
+65735,MITSUBISHI,Airplane,2.0,Turbo Prop
+65738,MCDONNELL DOUGLAS,Airplane,2.0,Turbo Jet
+65746,Kimball Enterprises Inc,Airplane,1.0,Reciprocating
+65748,BOMBARDIER,Airplane,2.0,Turbo Fan
+65764,HESS JOHN L,Airplane,1.0,Reciprocating
+65770,Steven G Goonen,Airplane,1.0,Reciprocating
+65774,Hawker Beechcraft,Airplane,2.0,Reciprocating
+65779,DASSAULT/SUD,Airplane,2.0,Turbo Fan
+65783,Beechcraft,Airplane,2.0,Turbo Fan
+65784,CZECH AIRCRAFT WORKS,Airplane,1.0,Reciprocating
+65793,Reamer,Airplane,1.0,Reciprocating
+65798,MICHEL PAUL JOHN,Airplane,1.0,Reciprocating
+65809,Michael Muratore,Airplane,1.0,Reciprocating
+65810,JOHNSON BARRON T,Airplane,1.0,Reciprocating
+65827,LANTZAIR FLYERS INC,Airplane,1.0,Reciprocating
+65831,PZL,Airplane,1.0,Reciprocating
+65832,NANCHANG CHINA,Airplane,1.0,Reciprocating
+65834,LEARJET,Airplane,2.0,Turbo Fan
+65842,ROWLAND,Airplane,1.0,Reciprocating
+65847,LAVIGNA,Airplane,1.0,Reciprocating
+65848,INMAN J D,Airplane,1.0,Reciprocating
+65851,PARKER,Airplane,1.0,Reciprocating
+65858,PILATUS AIRCRAFT LTD,Airplane,1.0,Turbo Prop
+65864,Probst,Airplane,1.0,Reciprocating
+65869,STITS FLUT-R-BUG,Airplane,1.0,Reciprocating
+65871,Gulfstream Aerospace Corp,Airplane,2.0,Turbo Prop
+65872,AIR TRACTOR INC,Airplane,1.0,Reciprocating
+65875,JONES RODNEY V,Airplane,1.0,Reciprocating
+65876,QUICKSILVER,Airplane,1.0,Reciprocating
+65878,MULEC FRANK A,Airplane,1.0,Reciprocating
+65879,SIEMER JAMES H,Airplane,1.0,Reciprocating
+65885,RYAN,Airplane,1.0,Reciprocating
+65889,Dickson Vans Aircraft,Airplane,1.0,Reciprocating
+65891,ULTRA FLIGHT LLC,Airplane,1.0,Reciprocating
+65899,Remos Aircraft GmbH,Airplane,1.0,Reciprocating
+65901,AERO COMMANDER,Airplane,1.0,Reciprocating
+65904,AEROSPATIALE ALENIA,Airplane,2.0,Turbo Prop
+65905,SIAI-MARCHETTI,Airplane,1.0,Reciprocating
+65906,COX WILLIAM M,Airplane,1.0,Reciprocating
+65914,D-Fly,Airplane,1.0,Reciprocating
+65919,HALL STEVEN C,Airplane,1.0,Reciprocating
+65926,SCHWEIZER AIRCRAFT CORP,Airplane,1.0,Reciprocating
+65933,DOUGLAS,Airplane,2.0,Turbo Prop
+65934,NEW PIPER AIRCRAFT INC,Airplane,1.0,Turbo Prop
+65936,Seher,Airplane,1.0,Reciprocating
+65953,HELIO,Airplane,1.0,Reciprocating
+65957,SCHWEIZER,Airplane,1.0,Reciprocating
+65958,Remos,Airplane,1.0,Reciprocating
+65960,BOMBARDIER INC,Airplane,2.0,Turbo Prop
+65963,CIRRUS,Airplane,1.0,Reciprocating
+65974,HI-Max,Airplane,1.0,Reciprocating
+65995,CHAMPION,Airplane,1.0,Reciprocating
+65999,PIPER,Airplane,2.0,Turbo Prop
+66003,GATES LEARJET CORP.,Airplane,2.0,Turbo Fan
+66008,AVIAT AIRCRAFT INC,Airplane,1.0,Reciprocating
+66014,NELAND RICHARD L,Airplane,1.0,Reciprocating
+66028,Kreps,Airplane,1.0,Reciprocating
+66031,RUDOLPH RALPH MONROE,Airplane,1.0,Reciprocating
+66032,MARRERO ANDRES,Airplane,1.0,Reciprocating
+66034,DIAMOND AIRCRAFT IND INC,Airplane,1.0,Reciprocating
+66039,STEPHENSON,Airplane,1.0,Reciprocating
+66045,MOORE GLENN,Airplane,1.0,Reciprocating
+66048,KEVIN ELDREDGE,Airplane,1.0,Reciprocating
+66051,Doyle-Michael,Airplane,1.0,Reciprocating
+66056,FRITZ,Airplane,1.0,Reciprocating
+66062,Robert Frisbey,Airplane,1.0,Reciprocating
+66067,MXR TECHNOLOGIES,Airplane,1.0,Reciprocating
+66070,ROACH NEIL,Airplane,1.0,Reciprocating
+66071,BURKHOLDER JIMMY C,Airplane,1.0,Reciprocating
+66084,MARLMAN,Airplane,1.0,Reciprocating
+66085,SHNIDERMAN ERVIN STANLEY,Airplane,1.0,Reciprocating
+66088,Taylorcraft Corporation,Airplane,1.0,Reciprocating
+66092,Aeronca Aircraft Corporation,Airplane,1.0,Reciprocating
+66094,McCurdy,Airplane,1.0,Reciprocating
+66096,Gates Learjet Corporation,Airplane,2.0,Turbo Fan
+66103,Kenneth K Knowles,Airplane,1.0,Reciprocating
+66107,HOWES,Airplane,1.0,Reciprocating
+66109,Wayne O Robinson,Airplane,1.0,Reciprocating
+66126,REMOS AIRCRAFT GMBH,Airplane,1.0,Reciprocating
+66133,REIMUS,Airplane,1.0,Reciprocating
+66134,T51 Inc.,Airplane,1.0,Reciprocating
+66135,Denny Aerocraft,Airplane,1.0,Reciprocating
+66139,MCDONNELL-DOUGLAS,Airplane,3.0,Turbo Fan
+66145,PARKS JERRY R,Airplane,1.0,Reciprocating
+66149,AVIAT,Airplane,1.0,Reciprocating
+66152,SIAI MARCHETTI,Airplane,1.0,Turbo Prop
+66158,ROGERS KENNETH J,Airplane,1.0,Reciprocating
+66167,Howard William C,Airplane,1.0,Reciprocating
+66170,Gaynor Donald J,Airplane,1.0,Reciprocating
+66174,ARGENCE,Airplane,1.0,Reciprocating
+66177,CURTISS WRIGHT,Airplane,1.0,Reciprocating
+66181,LIBERTY AEROSPACE INCORPORATED,Airplane,1.0,Reciprocating
+66183,Max A Boesiger Jr,Airplane,1.0,Reciprocating
+66211,Engineering and Research,Airplane,1.0,Reciprocating
+66215,DE HAVILLAND,Airplane,1.0,Turbo Prop
+66223,SUNGKWON KIM,Airplane,1.0,Reciprocating
+66228,JORDAN DON R,Airplane,1.0,Reciprocating
+66229,T BIRD,Airplane,1.0,Reciprocating
+66238,BRINKER / GARNER,Airplane,1.0,Reciprocating
+66241,Gladstone,Airplane,1.0,Reciprocating
+66242,TAYLORCRAFT,Airplane,1.0,Reciprocating
+66243,CESSNA/AIR REPAIR INC,Airplane,1.0,Reciprocating
+66245,ALEXANDER THOMAS P,Airplane,1.0,Reciprocating
+66246,MARTIN EDWARD H,Airplane,1.0,Reciprocating
+66249,AMERICAN LONGEVITY CORP,Airplane,1.0,Reciprocating
+66252,EXTRA,Airplane,1.0,Reciprocating
+66253,Whitehead,Airplane,1.0,Reciprocating
+66255,Marlin,Airplane,1.0,Reciprocating
+66256,ZENITH,Airplane,1.0,Reciprocating
+66262,DE HAVILLAND,Airplane,2.0,Turbo Prop
+66263,FLIGHT DESIGN GMBH,Airplane,1.0,Reciprocating
+66268,"CAPRA, SALVATORE O",Airplane,1.0,Reciprocating
+66271,Laseure,Airplane,1.0,Reciprocating
+66273,LUSCOMBE,Airplane,1.0,Reciprocating
+66279,TECNAM,Airplane,1.0,Reciprocating
+66280,Keeley/Tidd,Airplane,1.0,Reciprocating
+66284,ELLUMAX LEASING LLC,Airplane,1.0,Turbo Prop
+66285,VALENTIN,Airplane,1.0,Reciprocating
+66287,SIAI-MARCHETTI,Airplane,1.0,Turbo Prop
+66288,STANTON,Airplane,1.0,Reciprocating
+66289,LOCKHEED,Airplane,4.0,Reciprocating
+66292,MCGRATH ROBERT F,Airplane,1.0,Reciprocating
+66293,DOUGLAS,Airplane,2.0,Reciprocating
+66294,Goodacre,Airplane,1.0,Reciprocating
+66295,Weinberg,Airplane,1.0,Reciprocating
+66302,Explorer Aeronautique Inc.,Airplane,1.0,Reciprocating
+66319,HAWKINS AUGUST E,Airplane,1.0,Reciprocating
+66323,AMERICAN,Airplane,1.0,Reciprocating
+66333,AYRES CORPORATION,Airplane,1.0,Turbo Prop
+66338,GULFSTREAM-SCHWEIZER A/C CORP,Airplane,1.0,Reciprocating
+66344,FUHRMANN-SUPER EMERAUDE,Airplane,1.0,Reciprocating
+66348,Upton,Airplane,1.0,Reciprocating
+66352,PITTS AEROBATICS,Airplane,1.0,Reciprocating
+66353,SMYSOR KEVIN,Airplane,1.0,Reciprocating
+66354,Richard Rank,Airplane,1.0,Reciprocating
+66371,Fagan,Airplane,1.0,Reciprocating
+66378,ART LEE DELANO,Airplane,1.0,Reciprocating
+66396,WINSHIP KENT S,Airplane,1.0,Reciprocating
+66403,GOSSARD RONALD F,Airplane,1.0,Reciprocating
+66422,THORNTON,Airplane,1.0,Reciprocating
+66424,AYRES CORPORATION,Airplane,1.0,Reciprocating
+66427,Westerhout/Gagnier,Airplane,1.0,Reciprocating
+66430,WSK PZL MIELEC,Airplane,1.0,Turbo Prop
+66435,Lanham,Airplane,1.0,Reciprocating
+66436,HAZELWOOD MICHAEL S,Airplane,1.0,Reciprocating
+66438,Polit,Airplane,1.0,Reciprocating
+66439,HOLSCLAW FRANCIS E,Airplane,1.0,Reciprocating
+66441,S.O.C.A.T.A.,Airplane,1.0,Reciprocating
+66445,AEROTEK,Airplane,1.0,Reciprocating
+66446,JABIRU,Airplane,1.0,Reciprocating
+66447,Mileski,Airplane,1.0,Reciprocating
+66463,STORCH AVIATION AUSTRALIA PTY,Airplane,1.0,Reciprocating
+66465,AIR TRACTOR INC.,Airplane,1.0,Turbo Prop
+66467,JOHNSTON COYT E,Airplane,1.0,Reciprocating
+66468,GENTRY JOHN K,Airplane,1.0,Reciprocating
+66471,Aeropro CZ,Airplane,1.0,Reciprocating
+66476,PENSINGER,Airplane,1.0,Reciprocating
+66479,FREY,Airplane,1.0,Reciprocating
+66493,Rick Campbell,Airplane,1.0,Reciprocating
+66501,CARILLON JOHN C,Airplane,1.0,Reciprocating
+66505,Garrett,Airplane,1.0,Reciprocating
+66507,HUSTON CHARLES D,Airplane,1.0,Reciprocating
+66510,DE HAVILLAND,Airplane,1.0,Turbo Jet
+66511,SMITH BRET B,Airplane,1.0,Reciprocating
+66512,MEUER MARK,Airplane,1.0,Reciprocating
+66517,Gulfstream American Corp,Airplane,1.0,Reciprocating
+66519,DE HAVILLAND,Airplane,1.0,Reciprocating
+66520,TERATORN,Airplane,1.0,Reciprocating
+66521,GREAT LAKES,Airplane,1.0,Reciprocating
+66523,SORENSON,Airplane,1.0,Reciprocating
+66524,INIZIATIVE,Airplane,1.0,Reciprocating
+66527,MEYERS,Airplane,1.0,Reciprocating
+66528,YAKOVLEV/DAY,Airplane,1.0,Reciprocating
+66531,CHATHAM ROBERT M,Airplane,1.0,Reciprocating
+66538,HARDEN,Airplane,1.0,Reciprocating
+66539,SMITH ALBERT F,Airplane,1.0,Reciprocating
+66544,PETERSON ALLEN L,Airplane,1.0,Unknown
+66550,THROCKMORTON MATTHEW E,Airplane,1.0,Reciprocating
+66562,WERMLING,Airplane,1.0,Reciprocating
+66568,HOWARD,Airplane,1.0,Reciprocating
+66575,Clarke Colin A,Airplane,1.0,Reciprocating
+66577,DREYER,Airplane,1.0,Reciprocating
+66590,DORNIER GMBH,Airplane,2.0,Turbo Fan
+66592,Chris Mitchell,Airplane,1.0,Reciprocating
+66605,NORTH AMERICAN/VICTORIA MNT LT,Airplane,1.0,Reciprocating
+66607,AIRCRAFT MFG & DEVELOPMENT CO,Airplane,1.0,Reciprocating
+66615,Hummelbird,Airplane,1.0,Reciprocating
+66617,STUCKER VIRGIL A,Airplane,1.0,Reciprocating
+66620,JENKINS JACK,Airplane,1.0,Reciprocating
+66630,Mayo,Airplane,1.0,Reciprocating
+66635,BAKENG,Airplane,1.0,Reciprocating
+66636,PIETENPOL,Airplane,1.0,Reciprocating
+66639,Weston,Airplane,1.0,Reciprocating
+66642,Hubbell,Airplane,1.0,Reciprocating
+66646,Schendl,Airplane,1.0,Reciprocating
+66653,SHULTZ JEFFREY D,Airplane,1.0,Reciprocating
+66656,Michael J. Kohout,Airplane,1.0,Reciprocating
+66663,WACO CLASSIC AIRCRAFT,Airplane,1.0,Reciprocating
+66664,LAYSON STANLEY B,Airplane,1.0,Reciprocating
+66674,Weatherhead Peter L,Airplane,1.0,Reciprocating
+66682,REPUBLIC,Airplane,1.0,Reciprocating
+66706,AERO VODOCHODY,Airplane,1.0,Turbo Jet
+66710,WACO,Airplane,1.0,Reciprocating
+66713,CONSOLIDATED AERONAUTICS INC.,Airplane,1.0,Reciprocating
+66714,WOHNOUTKA STEVEN M,Airplane,1.0,Reciprocating
+66718,THOMPSON DAVID,Airplane,1.0,Reciprocating
+66721,NALIS,Airplane,1.0,Reciprocating
+66724,Thomas C. Piper,Airplane,1.0,Reciprocating
+66735,Bender,Airplane,1.0,Reciprocating
+66739,PITTS,Airplane,1.0,Reciprocating
+66741,CHRISTEN INDUSTRIES INC,Airplane,1.0,Reciprocating
+66743,LEWIS KEITH O,Airplane,1.0,Reciprocating
+66745,NOLES VANCE L,Airplane,1.0,Reciprocating
+66747,ZIVKO AERONAUTICS INC,Airplane,1.0,Reciprocating
+66753,GRUMMAN ACFT ENG COR-SCHWEIZER,Airplane,1.0,Reciprocating
+66755,CHRISTOPHER,Airplane,1.0,Reciprocating
+66757,BARBER JOHN A,Airplane,1.0,Reciprocating
+66760,ENGINEERING & RESEARCH,Airplane,1.0,Reciprocating
+66763,NOORDUYN,Airplane,1.0,Reciprocating
+66765,EMBRAER-EMPRESA BRASILEIRA DE,Airplane,2.0,Turbo Fan
+66771,MID-SOUTH CUSTOM CRAFT INC,Airplane,1.0,Reciprocating
+66775,FLIGHT DESIGN,Airplane,1.0,Reciprocating
+66785,SMITH,Airplane,1.0,Reciprocating
+66786,ZENAIR LTD,Airplane,1.0,Reciprocating
+66792,DIAMOND AIRCRAFT IND GMBH,Airplane,1.0,Reciprocating
+66794,Antares,Airplane,1.0,Reciprocating
+66797,COX JOHN WILEY,Airplane,1.0,Reciprocating
+66810,Leider,Airplane,1.0,Reciprocating
+66811,MARVIN FAULK,Airplane,1.0,Reciprocating
+66813,Weiss,Airplane,1.0,Reciprocating
+66815,FOGLIO,Airplane,1.0,Reciprocating
+66821,James O'Bert,Airplane,1.0,Reciprocating
+66823,DRESSEN DONALD L,Airplane,1.0,Reciprocating
+66828,BROWN THOMAS E,Airplane,1.0,Reciprocating
+66829,WSK-PZL MEILEC,Airplane,1.0,Reciprocating
+66835,WEATHERLY AVIATION CO INC,Airplane,1.0,Reciprocating
+66840,Forster,Airplane,1.0,Reciprocating
+66843,TOLBERT ROBERT R,Airplane,1.0,Reciprocating
+66850,Corvus,Airplane,1.0,Reciprocating
+66857,Xtremeair GMBH,Airplane,1.0,Reciprocating
+66862,Crisman,Airplane,1.0,Reciprocating
+66863,AMERICAN LEGEND AIRCRAFT CO,Airplane,1.0,Reciprocating
+66864,PILGRIM SAMUEL W JR,Airplane,1.0,Reciprocating
+66866,BROWN MICHAEL,Airplane,1.0,Reciprocating
+66867,Dart,Airplane,1.0,Reciprocating
+66871,S.C. Aerostar S.A.,Airplane,1.0,Reciprocating
+66872,WHITE,Airplane,1.0,Reciprocating
+66873,FISHER,Airplane,1.0,Reciprocating
+66896,BORING ROBERT BURTON,Airplane,1.0,Reciprocating
+66900,RAYTHEON AIRCRAFT COMPANY,Airplane,2.0,Turbo Fan
+66905,RANS EMPLOYEE FLYING CLUB,Airplane,1.0,Reciprocating
+66908,SAAB,Airplane,2.0,Turbo Prop
+66916,STIRLING,Airplane,1.0,Reciprocating
+66920,GALLAGHER,Airplane,1.0,Reciprocating
+66927,PIONTKOWSKI,Airplane,1.0,Reciprocating
+66929,GRUMMAN AMERICAN,Airplane,1.0,Reciprocating
+66943,unknown,Airplane,1.0,Reciprocating
+66949,BOEING OF CANADA/DEHAV DIV,Airplane,2.0,Turbo Prop
+66957,LOBB KENNETH,Airplane,1.0,Reciprocating
+66959,HOOPER JAMES A,Airplane,1.0,Reciprocating
+66961,NAVION,Airplane,1.0,Reciprocating
+66964,Kociemba Robert H,Airplane,1.0,Reciprocating
+66965,Stump Bradley,Airplane,1.0,Reciprocating
+66967,FAIRCHILD,Airplane,1.0,Reciprocating
+66969,Tidd Wesley,Airplane,1.0,Reciprocating
+66971,MAXAIR,Airplane,1.0,Reciprocating
+66972,LAURIENZO GABRIEL A,Airplane,1.0,Reciprocating
+66981,PONGRACZ JOHN M,Airplane,1.0,Reciprocating
+67001,GRAHN J/GRAHN G,Airplane,1.0,Reciprocating
+67013,FROM HERE TO THERE PDQ INC,Airplane,1.0,Reciprocating
+67014,THRUSH AIRCRAFT INC,Airplane,1.0,Turbo Prop
+67015,"MORSE, FRANK L.",Airplane,1.0,Reciprocating
+67020,FISHER MICHAEL H,Airplane,1.0,Reciprocating
+67040,RAYTHEON AIRCRAFT COMPANY,Airplane,2.0,Reciprocating
+67045,Paul B. Johnson,Airplane,1.0,Reciprocating
+67046,MORGAN JAMES E,Airplane,1.0,Reciprocating
+67050,BROWN,Airplane,1.0,Reciprocating
+67058,VOLLENWEIDER R/HURST R F,Airplane,1.0,Reciprocating
+67061,REWEY WILLIAM M,Airplane,1.0,Reciprocating
+67062,BROWN JOSEPH B JR,Airplane,1.0,Reciprocating
+67084,DEKKINGA,Airplane,1.0,Reciprocating
+67085,James B. Taplin,Airplane,1.0,Reciprocating
+67093,SILVAIRE,Airplane,1.0,Reciprocating
+67095,MEYER ROBERT,Airplane,2.0,Reciprocating
+67103,UNDERLAND/GROTHE/FINSTROM,Airplane,1.0,Reciprocating
+67105,STONE,Airplane,1.0,Reciprocating
+67108,MYERS DONALD E,Airplane,1.0,Reciprocating
+67109,BOND NEAL O,Airplane,1.0,Reciprocating
+67111,WARNER LEWIS,Airplane,1.0,Reciprocating
+67114,ALON,Airplane,1.0,Reciprocating
+67119,Hahn,Airplane,1.0,Reciprocating
+67129,WRIGHT BRUCE M,Airplane,1.0,Reciprocating
+67137,UNIVERSAL,Airplane,1.0,Reciprocating
+67139,M-SQUARED,Airplane,1.0,Reciprocating
+67150,HALBERT JAMES H,Airplane,1.0,Reciprocating
+67154,BLUM MATTHEW,Airplane,1.0,Reciprocating
+67158,Keithley Thomas E,Airplane,1.0,Reciprocating
+67159,SWALLEY MARK H,Airplane,1.0,Reciprocating
+67163,HEBERT,Airplane,1.0,Reciprocating
+67169,GRUMMAN ACFT ENG COR-SCHWEIZER,Airplane,1.0,Turbo Prop
+67185,SIERRA,Airplane,1.0,Reciprocating
+67204,QUAD CITY,Airplane,1.0,Reciprocating
+67208,CURTIS JOHN P,Airplane,1.0,Reciprocating
+67209,Diehl,Airplane,1.0,Reciprocating
+67214,Lewis Jennings,Airplane,1.0,Reciprocating
+67215,CASA,Airplane,2.0,Turbo Prop
+67216,Bordelon,Airplane,1.0,Reciprocating
+67217,Linke,Airplane,1.0,Reciprocating
+67218,MCCLISH,Airplane,1.0,Reciprocating
+67223,CASSUTT,Airplane,1.0,Reciprocating
+67230,Daniel L Patrick,Airplane,1.0,Reciprocating
+67234,AEROMOT,Airplane,1.0,Reciprocating
+67242,RITTAL ALFRED TIMOTHY,Airplane,1.0,Reciprocating
+67243,C A TECNAM SRL,Airplane,1.0,Reciprocating
+67246,Frazier,Airplane,2.0,Reciprocating
+67251,BAE,Airplane,2.0,Turbo Prop
+67264,SHORT BROS. & HARLAND,Airplane,2.0,Turbo Prop
+67282,MCKENNA JAMES E,Airplane,1.0,Reciprocating
+67284,DUSENBERRY MARK J,Airplane,1.0,Reciprocating
+67285,BUTLER AIRCRAFT COMPANY,Airplane,2.0,Reciprocating
+67295,MATESKON,Airplane,1.0,Reciprocating
+67297,Malone Henry O,Airplane,1.0,Reciprocating
+67300,CRAWFORD ALAN R,Airplane,1.0,Reciprocating
+67307,CASE RICHARD L,Airplane,1.0,Reciprocating
+67308,Temco,Airplane,2.0,Reciprocating
+67309,Turpen,Airplane,1.0,Reciprocating
+67324,Cruz,Airplane,1.0,Reciprocating
+67326,Franklin,Airplane,1.0,Reciprocating
+67331,Costruzioni Aeronautiche Tecna,Airplane,1.0,Reciprocating
+67357,PALEN,Airplane,1.0,Reciprocating
+67358,GOTTELT HERBERT R,Airplane,1.0,Reciprocating
+67365,SKISTMAS GEORGE,Airplane,1.0,Reciprocating
+67376,Argence Enas A.,Airplane,1.0,Reciprocating
+67380,FUJI,Airplane,1.0,Reciprocating
+67387,Commander Aircraft Company,Airplane,1.0,Reciprocating
+67394,Golden Circle,Airplane,1.0,Reciprocating
+67398,Elkins,Airplane,1.0,Reciprocating
+67415,BERIEV AIRCRAFT COMPANY,Airplane,2.0,Reciprocating
+67417,SAUER,Airplane,1.0,Reciprocating
+67418,Hallbauer,Airplane,1.0,Reciprocating
+67433,AMERICAN AVIATION,Airplane,1.0,Reciprocating
+67443,GRUMMAN AIRCRAFT ENG CORP,Airplane,2.0,Reciprocating
+67445,ZENITH AIRCRAFT CO,Airplane,1.0,Reciprocating
+67452,WICKS AIR CENTER LLC,Airplane,1.0,Reciprocating
+67456,LOCKWOOD AIRCRAFT CORP,Airplane,2.0,Reciprocating
+67459,MOORE,Airplane,1.0,Reciprocating
+67465,HAWKER BEECHCRAFT CORPORATION,Airplane,2.0,Turbo Prop
+67468,Younkin J R,Airplane,1.0,Reciprocating
+67471,AMERICAN CHAMPION AIRCRAFT,Airplane,1.0,Reciprocating
+67478,AUGUSTINE DAVID L,Airplane,1.0,Reciprocating
+67482,AIR GULFSTREAM AIRLINES INC,Airplane,1.0,Reciprocating
+67489,Robert Wood,Airplane,1.0,Reciprocating
+67490,CLASSIC AIRCRAFT CORP,Airplane,1.0,Reciprocating
+67492,PARADISE USA LLC,Airplane,1.0,Reciprocating
+67503,COSTRUZIONI AERONAUTICHE TECNA,Airplane,1.0,Reciprocating
+67507,BUDD,Airplane,1.0,Reciprocating
+67521,NEPHEW ALAN H,Airplane,1.0,Reciprocating
+67527,KRUSMARK DAVID HOMER,Airplane,1.0,Reciprocating
+67530,Tail Feather LLC,Airplane,1.0,Reciprocating
+67531,COX,Airplane,1.0,Reciprocating
+67533,Mahre,Airplane,1.0,Reciprocating
+67535,PILATUS BRITTEN-NORMAN,Airplane,2.0,Reciprocating
+67565,HUBER HARTMUT,Airplane,1.0,Reciprocating
+67571,EADS SOCATA,Airplane,1.0,Turbo Prop
+67588,FPNA LLC,Airplane,1.0,Reciprocating
+67596,DAVIS MICHAEL J,Airplane,1.0,Reciprocating
+67601,ATR,Airplane,2.0,Turbo Prop
+67604,LYMAN RANDALL/SCOTT DAVID,Airplane,1.0,Reciprocating
+67605,HOOVER FRANK,Airplane,1.0,Reciprocating
+67633,DOUGLAS,Airplane,4.0,Turbo Fan
+67634,LARSON,Airplane,1.0,Reciprocating
+67643,AIRBUS INDUSTRIE,Airplane,2.0,Turbo Jet
+67644,YOUNG DEE C,Airplane,1.0,Reciprocating
+67647,Foster John,Airplane,1.0,Reciprocating
+67653,STEELE SAMUEL D,Airplane,1.0,Reciprocating
+67693,American Champion Aircraft,Airplane,2.0,Reciprocating
+67697,EMBRAER,Airplane,1.0,Reciprocating
+67726,YAKOVLEV,Airplane,1.0,Reciprocating
+67728,CLOPTON AERO LLC,Airplane,1.0,Turbo Prop
+67731,Leza Lockwood,Airplane,2.0,Reciprocating
+67753,FOUGA,Airplane,2.0,Turbo Jet
+67769,COTTER,Airplane,1.0,Reciprocating
+67773,Terrell Caragol,Airplane,1.0,Reciprocating
+67789,Keller,Airplane,1.0,Reciprocating
+67794,SCHAFER,Airplane,1.0,Reciprocating
+67798,Lacour,Airplane,1.0,Reciprocating
+67801,PIAGGIO,Airplane,2.0,Turbo Prop
+67805,Schulke,Airplane,1.0,Reciprocating
+67806,MONROIG PEDRO J,Airplane,1.0,Reciprocating
+67809,MUFFETT,Airplane,1.0,Reciprocating
+67815,TARANTOLA LEONARD,Airplane,1.0,Reciprocating
+67825,Hawker Beechcraft Corp.,Airplane,1.0,Reciprocating
+67826,BELCHER WILLIAM B II,Airplane,1.0,Reciprocating
+67832,SUTTON,Airplane,1.0,Reciprocating
+67838,BYLER,Airplane,1.0,Reciprocating
+67840,EAGLE,Airplane,1.0,Reciprocating
+67841,GULFSTREAM AMERICAN CORP.,Airplane,2.0,Turbo Jet
+67842,Stump,Airplane,1.0,Reciprocating
+67850,AIRBUS INDUSTRIE,Airplane,2.0,Turbo Fan
+67857,ULTRALIGHT AMERICA,Airplane,1.0,Reciprocating
+67858,FREDERICKSON CHARLES A,Airplane,1.0,Reciprocating
+67861,SMITH EDWARD I,Airplane,1.0,Reciprocating
+67863,BRITTEN-NORMAN,Airplane,2.0,Reciprocating
+67866,MIGAS,Airplane,1.0,Reciprocating
+67872,KJONAAS,Airplane,1.0,Reciprocating
+67879,WALSH PHILIP J,Airplane,1.0,Reciprocating
+67884,CARR,Airplane,1.0,Reciprocating
+67888,FERGUSON WILLIAM C,Airplane,1.0,Reciprocating
+67892,KINNEY KEVIN,Airplane,1.0,Reciprocating
+67900,Williams Yakovlev,Airplane,1.0,Reciprocating
+67901,Shaw,Airplane,1.0,Reciprocating
+67903,LOEHR THOMAS H,Airplane,1.0,Reciprocating
+67907,MCDONNELL DOUGLAS,Airplane,3.0,Turbo Fan
+67914,HARDIE JAMES D,Airplane,1.0,Reciprocating
+67920,GULFSTREAM AEROSPACE,Airplane,2.0,Turbo Jet
+67921,MORRISON JOSEPH,Airplane,1.0,Reciprocating
+67926,VAN DUSEN JOHN M,Airplane,1.0,Reciprocating
+67931,STOLP STARDUSTER,Airplane,1.0,Reciprocating
+67942,RATCLIFFE JOHN A,Airplane,1.0,Reciprocating
+67949,LOPEZ PHILLIP,Airplane,1.0,Reciprocating
+67954,CUPAIOLE,Airplane,1.0,Reciprocating
+67964,CENTER CHARLES C,Airplane,1.0,Reciprocating
+67965,STUTESMAN CHARLES LEE,Airplane,1.0,Reciprocating
+67971,STROUP ROBERT,Airplane,1.0,Reciprocating
+67978,SAAB-SCANIA,Airplane,2.0,Turbo Prop
+67990,SNOW,Airplane,1.0,Reciprocating
+67992,MATHIS MELVIN R,Airplane,1.0,Reciprocating
+67993,GRUMMAN,Airplane,1.0,Turbo Prop
+67994,GRUMMAN AMERICAN AVN. CORP.,Airplane,2.0,Turbo Fan
+67999,Costruzioni AeronauticheTecnam,Airplane,1.0,Reciprocating
+68012,Univair Aircraft Corporation,Airplane,1.0,Reciprocating
+68017,DALIN RONALD K,Airplane,1.0,Reciprocating
+68019,ANKERSTAR BRADLEY D,Airplane,1.0,Reciprocating
+68021,REED WILLIAM A,Airplane,1.0,Reciprocating
+68022,Bibbee,Airplane,1.0,Reciprocating
+68024,KRAMER CLEMENS E,Airplane,1.0,Reciprocating
+68035,True Flight Holdings LLC,Airplane,1.0,Reciprocating
+68052,EMBRAER,Airplane,2.0,Turbo Jet
+68053,NEW STANDARD,Airplane,1.0,Reciprocating
+68056,Cross-Capps,Airplane,1.0,Reciprocating
+68068,GLOBE,Airplane,1.0,Reciprocating
+68084,Rogers,Airplane,2.0,Reciprocating
+68093,INTERSTATE,Airplane,1.0,Reciprocating
+68096,CUBCRAFTERS INC,Airplane,1.0,Reciprocating
+68099,JetProp DLX Piper,Airplane,1.0,Turbo Prop
+68100,AERO COMMANDER,Airplane,1.0,Turbo Prop
+68104,BOEING,Airplane,4.0,Turbo Jet
+68109,HAGER CLINTON RAY,Airplane,1.0,Reciprocating
+68119,SWEZEY T/MOLNAR D,Airplane,1.0,Reciprocating
+68120,CARLESIMO,Airplane,1.0,Turbo Prop
+68128,MOYNAHAN,Airplane,1.0,Reciprocating
+68129,JORRITSMA JERROLD S,Airplane,1.0,Turbo Jet
+68130,GROSS,Airplane,1.0,Reciprocating
+68137,QUICKSILVER AIRCRAFT,Airplane,1.0,Reciprocating
+68139,HACHEM ZACHERY S,Airplane,1.0,Reciprocating
+68148,AEROSTAR S A,Airplane,1.0,Reciprocating
+68155,WSK-PZL WARZAWA-OKECIE,Airplane,1.0,Reciprocating
+68159,DEARMOND CLINT,Airplane,1.0,Reciprocating
+68163,NELSON STEVEN PAUL,Airplane,1.0,Reciprocating
+68164,SUPINSKI MARK R,Airplane,1.0,Reciprocating
+68172,CALCOTE CLARENCE E,Airplane,1.0,Reciprocating
+68176,SWEARINGEN,Airplane,2.0,Turbo Prop
+68180,Wildman,Airplane,1.0,Reciprocating
+68184,RUTTER HERBERT G,Airplane,1.0,Reciprocating
+68186,Luscombe Silvaire Aircraft Co.,Airplane,1.0,Reciprocating
+68193,PZL MIELEC,Airplane,1.0,Reciprocating
+68198,GARDNER DOUGLAS P,Airplane,1.0,Reciprocating
+68202,HALL THOMAS K,Airplane,1.0,Reciprocating
+68205,RICE,Airplane,1.0,Reciprocating
+68219,AEROPRO CZ,Airplane,1.0,Reciprocating
+68223,HENNEY MICHAEL A,Airplane,1.0,Reciprocating
+68226,LEPOW DAVID A,Airplane,1.0,Reciprocating
+68228,COVELL KEVIN SCOTT,Airplane,1.0,Reciprocating
+68229,BAGLEY CURTIS LYNN,Airplane,1.0,Reciprocating
+68232,EVEKTOR AEROTECHNIK,Airplane,1.0,Reciprocating
+68235,MOE-PIETENPOL,Airplane,1.0,Reciprocating
+68237,HOLDEN FRANK JOSEPH,Airplane,1.0,Reciprocating
+68241,AVEKO SRO,Airplane,1.0,Reciprocating
+68245,SMITHWICK/TREIDEL,Airplane,1.0,Reciprocating
+68258,SHAFFER WILLIAM C,Airplane,1.0,Reciprocating
+68262,SWANSON,Airplane,1.0,Reciprocating
+68297,HOOD JOHN SIDNEY,Airplane,1.0,Reciprocating
+68326,Mcculley Ronald,Airplane,1.0,Reciprocating
+68335,Dwight Lohr,Airplane,1.0,Reciprocating
+68347,DOUGLAS,Airplane,2.0,Turbo Fan
+68359,Bernhard,Airplane,1.0,Reciprocating
+68360,MCCULLOCH JERRY,Airplane,1.0,Reciprocating
+68365,Glenn H Curtiss Museum,Airplane,1.0,Reciprocating
+68370,OLIVER,Airplane,1.0,Reciprocating
+68371,Remos Aircraft GMBH,Airplane,1.0,Reciprocating
+68372,Rose-Rhinehart,Airplane,1.0,Reciprocating
+68373,PIPER/WALLY'S FLYERS INC,Airplane,1.0,Reciprocating
+68376,Hawker Beechcraft Corporation,Airplane,1.0,Reciprocating
+68385,PILATUS,Airplane,1.0,Reciprocating
+68387,DRONE PAUL E,Airplane,1.0,Reciprocating
+68401,PARKS J L/DREFFIN D,Airplane,1.0,Reciprocating
+68405,Vans Aircraft Inc,Airplane,1.0,Reciprocating
+68410,AIR CREATION,Airplane,1.0,Reciprocating
+68411,Crabtree,Airplane,1.0,Reciprocating
+68412,QUARTZ MOUNTAIN AEROSPACE INC,Airplane,1.0,Reciprocating
+68418,MEYER,Airplane,1.0,Reciprocating
+68427,LOCKHEED,Airplane,2.0,Reciprocating
+68430,Schooley,Airplane,1.0,Reciprocating
+68431,McGlashan,Airplane,1.0,Reciprocating
+68435,CORNETT STEVEN M,Airplane,1.0,Reciprocating
+68437,WORGULL,Airplane,1.0,Reciprocating
+68440,PRIDMORE,Airplane,1.0,Reciprocating
+68445,LAWWILL TED,Airplane,1.0,Reciprocating
+68467,ADAMS JOHN R JR,Airplane,1.0,Reciprocating
+68492,SKYKITS CORP,Airplane,1.0,Reciprocating
+68495,DOUGLAS,Airplane,1.0,Turbo Jet
+68503,VANS,Airplane,1.0,Reciprocating
+68504,Ronald V White,Airplane,1.0,Reciprocating
+68531,BEECH,Airplane,1.0,Turbo Prop
+68533,WOGENSTAHL WALLACE L,Airplane,1.0,Reciprocating
+68537,KLEMME WILLIAM H,Airplane,1.0,Reciprocating
+68545,AVIONS MAX HOLSTE,Airplane,1.0,Reciprocating
+68551,LEONARD TRUDY,Airplane,1.0,Reciprocating
+68561,MCDONNELL DOUGLAS AIRCRAFT CO,Airplane,2.0,Turbo Fan
+68565,DAVIS JOHN,Airplane,1.0,Reciprocating
+68569,TEXAS AIR VENTURES INC,Airplane,1.0,Turbo Prop
+68573,NORD,Airplane,1.0,Reciprocating
+68576,PIPER/CUB CRAFTERS,Airplane,1.0,Reciprocating
+68579,SCHWEIZER,Airplane,1.0,Turbo Prop
+68592,CLARK,Airplane,1.0,Reciprocating
+68598,WARTH DENNIS J,Airplane,1.0,Reciprocating
+68601,NADIG PAUL K,Airplane,1.0,Reciprocating
+68602,MULLOY CHARLES,Airplane,1.0,Reciprocating
+68614,Beers,Airplane,1.0,Reciprocating
+68615,GULFSTREAM,Airplane,2.0,Turbo Fan
+68622,Hawker Beechcraft,Airplane,2.0,Turbo Fan
+68631,BREWSTER FLEET,Airplane,1.0,Reciprocating
+68635,AERO SP Z O O,Airplane,1.0,Reciprocating
+68638,Marshall,Airplane,1.0,Reciprocating
+68651,American Champion Aircraft Cor,Airplane,1.0,Reciprocating
+68655,PORTER JAMES GRANT,Airplane,1.0,Reciprocating
+68658,FAIRCHILD,Airplane,2.0,Reciprocating
+68665,HOLMGREEN JOHN B,Airplane,1.0,Reciprocating
+68667,Advertising MGMT & Consulting,Airplane,1.0,Reciprocating
+68669,TURCK G L/DUFLO J T,Airplane,1.0,Reciprocating
+68674,Wing,Airplane,1.0,Reciprocating
+68685,Kirkpatrick,Airplane,1.0,Reciprocating
+68687,DAYTON,Airplane,1.0,Reciprocating
+68691,PZL MIELEC,Airplane,1.0,Turbo Prop
+68702,Quest,Airplane,1.0,Turbo Prop
+68708,RAMMEL THOMAS W,Airplane,1.0,Reciprocating
+68710,HEMMER,Airplane,1.0,Reciprocating
+68717,DEHAVILLAND,Airplane,1.0,Turbo Prop
+68724,W.H. Hunnicutt,Airplane,1.0,Reciprocating
+68750,CARR BRYAN,Airplane,1.0,Reciprocating
+68755,SHPAKOW THOMAS,Airplane,1.0,Reciprocating
+68757,OLIVER A BRUCE,Airplane,1.0,Reciprocating
+68783,MEYERS INDUSTRIES INC,Airplane,1.0,Reciprocating
+68790,TUBBS S/PERFORMANCE AIR INC,Airplane,1.0,Reciprocating
+68794,MILLER CHARLES W,Airplane,1.0,Reciprocating
+68797,WILDE DANIEL L,Airplane,1.0,Reciprocating
+68798,HUMMEL / FINBERG,Airplane,1.0,Reciprocating
+68801,Ashcraft,Airplane,1.0,Reciprocating
+68805,SCHNEIDER,Airplane,1.0,Reciprocating
+68815,GROB-WERKE,Airplane,1.0,Reciprocating
+68818,FREEMAN,Airplane,1.0,Reciprocating
+68829,COLUMBIA AIRCRAFT MFG,Airplane,1.0,Reciprocating
+68830,FINNEY THORP,Airplane,1.0,Reciprocating
+68856,KILISHEK GEORGE T,Airplane,1.0,Reciprocating
+68859,HOLT HERBERT L,Airplane,1.0,Reciprocating
+68860,RAUCH,Airplane,1.0,Reciprocating
+68870,BIRD,Airplane,1.0,Reciprocating
+68880,Morehead,Airplane,1.0,Reciprocating
+68886,Yeager Inc.,Airplane,1.0,Reciprocating
+68892,KWECH,Airplane,1.0,Reciprocating
+68898,STEARMAN,Airplane,1.0,Reciprocating
+68903,WEBER,Airplane,1.0,Reciprocating
+68904,CULLIS,Airplane,1.0,Reciprocating
+68908,Chris W Kleen,Airplane,1.0,Reciprocating
+68922,Thompson,Airplane,1.0,Reciprocating
+68927,ROBERTSON,Airplane,1.0,Reciprocating
+68932,MYERS,Airplane,1.0,Reciprocating
+68938,ROBERTS ALAN W,Airplane,1.0,Reciprocating
+68947,GOODMAN ROBERT BRUCE,Airplane,1.0,Reciprocating
+68970,CA Tecnam SRL,Airplane,1.0,Reciprocating
+68976,MCCAULEY GENE E,Airplane,1.0,Reciprocating
+68980,BOAM,Airplane,1.0,Reciprocating
+68988,Giboney,Airplane,1.0,Reciprocating
+68993,Skykits Corporation,Airplane,1.0,Reciprocating
+69002,SPORT PLANE DYNAMICS LLC,Airplane,1.0,Reciprocating
+69025,HOLMES GARY DON,Airplane,1.0,Reciprocating
+69034,CENTRAL OHIO DRAGONFLY CLUBLLC,Airplane,1.0,Reciprocating
+69035,BOMBARDIER,Airplane,2.0,Turbo Jet
+69036,Hawker Beechcraft,Airplane,1.0,Reciprocating
+69043,ECCKER,Airplane,1.0,Reciprocating
+69055,GULFSTREAM AEROSPACE,Airplane,2.0,Turbo Fan
+69059,YOST EDWIN S,Airplane,1.0,Reciprocating
+69061,GINGERICH ALTON & SLAGEL DEAN,Airplane,1.0,Reciprocating
+69084,GRUMMAN AMERICAN AVIATION CORP,Airplane,1.0,Reciprocating
+69090,NEWMANN EDWARD W,Airplane,1.0,Reciprocating
+69096,MARTIN CURTIS,Airplane,1.0,Reciprocating
+69103,Drake Ronald A,Airplane,1.0,Reciprocating
+69113,CONRAD THEODORE J,Airplane,1.0,Reciprocating
+69114,MISCHKE,Airplane,1.0,Reciprocating
+69125,Newcomer,Airplane,1.0,Reciprocating
+69126,DEITZ,Airplane,1.0,Reciprocating
+69129,WEDDINGTON,Airplane,1.0,Reciprocating
+69131,BOBO CHRISTOPHER J,Airplane,1.0,Reciprocating
+69135,BORNE CHARLES A III,Airplane,1.0,Reciprocating
+69144,SQUEGLIA R/WHEELER W,Airplane,1.0,Reciprocating
+69151,HAWKER,Airplane,1.0,Reciprocating
+69155,Rotherwick,Airplane,1.0,Reciprocating
+69160,McClish,Airplane,1.0,Reciprocating
+69162,REED,Airplane,1.0,Reciprocating
+69173,Donegan Benton,Airplane,1.0,Reciprocating
+69176,MEDWAY,Airplane,1.0,Reciprocating
+69182,AVIAT INC,Airplane,1.0,Reciprocating
+69185,WALKER KENNETH,Airplane,1.0,Reciprocating
+69186,Hughes J/Hughes J,Airplane,1.0,Reciprocating
+69187,AARDEMA ROBERT JOHN,Airplane,1.0,Reciprocating
+69197,MCFARLAND BILL,Airplane,1.0,Reciprocating
+69199,AEROSTAR ACFT CORP OF TEXAS,Airplane,1.0,Reciprocating
+69206,WELCH THOMAS,Airplane,1.0,Reciprocating
+69213,BEAN R E/R B WELD INC,Airplane,1.0,Reciprocating
+69214,Siai-Marchetti,Airplane,1.0,Reciprocating
+69215,Lansdorf,Airplane,1.0,Reciprocating
+69217,NORTH AMERICAN/SCHWAMM,Airplane,1.0,Reciprocating
+69229,PARTENAVIA,Airplane,2.0,Reciprocating
+69230,GEARN GEARY D,Airplane,1.0,Reciprocating
+69233,PIPER AIRCRAFT INC,Airplane,2.0,Reciprocating
+69243,CARLO ROBERT,Airplane,1.0,Reciprocating
+69258,Halbrook,Airplane,1.0,Reciprocating
+69259,GATES LEAR JET,Airplane,2.0,Turbo Jet
+69262,Hawker-Beechcraft Corporation,Airplane,1.0,Reciprocating
+69267,Swiezy,Airplane,1.0,Reciprocating
+69274,ISRAEL AIRCRAFT INDUSTRIES,Airplane,2.0,Turbo Fan
+69289,PIPER,Airplane,2.0,Unknown
+69292,KENNEDY,Airplane,1.0,Reciprocating
+69293,HAEUSSLER RAY,Airplane,1.0,Reciprocating
+69305,SOUTHERLAND,Airplane,1.0,Reciprocating
+69307,EASLER KELLY,Airplane,1.0,Reciprocating
+69372,Moyes Bailey,Airplane,1.0,Reciprocating
+69377,Schaefer,Airplane,1.0,Reciprocating
+69382,COLUMBIA,Airplane,1.0,Reciprocating
+69383,ALLEN RAYMOND H,Airplane,1.0,Reciprocating
+69403,GIORGIO ANTHONY J,Airplane,1.0,Reciprocating
+69407,RARDIN WILLIAM I,Airplane,1.0,Reciprocating
+69417,Ferkin,Airplane,1.0,Reciprocating
+69434,CZECH SPORTPLANES SRO,Airplane,1.0,Reciprocating
+69440,RYAN AERONAUTICAL,Airplane,1.0,Reciprocating
+69458,CONVAIR,Airplane,2.0,Reciprocating
+69468,LANTZ,Airplane,1.0,Reciprocating
+69480,CULVER GLENN,Airplane,1.0,Reciprocating
+69483,WALKER LOUIE H,Airplane,1.0,Reciprocating
+69494,MILLER GREGORY SCOTT,Airplane,1.0,Reciprocating
+69496,ERTZ MARK G,Airplane,1.0,Reciprocating
+69501,KOLB AIRCRAFT INC,Airplane,1.0,Reciprocating
+69508,OTTERBACK NICHOLAS J,Airplane,1.0,Reciprocating
+69515,POTEZ-AIR FOUGA,Airplane,2.0,Turbo Jet
+69533,SCHLICHTMAN,Airplane,1.0,Reciprocating
+69540,ALLARDYCE MICHAEL,Airplane,1.0,Reciprocating
+69557,BAL-AIR INC/WAYNE JOHN K,Airplane,1.0,Reciprocating
+69560,KENNEDY MICHAEL M,Airplane,1.0,Reciprocating
+69566,Gulfstream Aerospace Corp.,Airplane,2.0,Turbo Fan
+69580,FLAGLOR TOM,Airplane,1.0,Reciprocating
+69583,REARWIN,Airplane,1.0,Reciprocating
+69610,AEROSTAR AIRCRAFT CORPORATION,Airplane,2.0,Reciprocating
+69613,BRITISH AIRCRAFT CORP,Airplane,1.0,Turbo Jet
+69622,Neefjes,Airplane,1.0,Reciprocating
+69628,GRUMMAN,Airplane,2.0,Turbo Prop
+69637,Arion Aircraft LLC,Airplane,1.0,Reciprocating
+69640,Quist,Airplane,1.0,Reciprocating
+69641,VOLIN,Airplane,1.0,Reciprocating
+69644,LEARJET,Airplane,2.0,Turbo Jet
+69656,MUSE,Airplane,1.0,Reciprocating
+69659,DOUGLAS,Airplane,1.0,Reciprocating
+69674,RADFORD,Airplane,1.0,Reciprocating
+69686,ECLIPSE AVIATION CORP,Airplane,2.0,Turbo Fan
+69708,BROWN NARCISSE A,Airplane,1.0,Reciprocating
+69718,Jennings John C,Airplane,1.0,Reciprocating
+69728,Darrow Stephen A,Airplane,1.0,Reciprocating
+69740,Dassault-Breguet,Airplane,2.0,Turbo Fan
+69743,HOLST LAWRENCE E,Airplane,1.0,Reciprocating
+69751,NORTH AMERICAN,Airplane,2.0,Reciprocating
+69758,HROSIK GENE,Airplane,1.0,Reciprocating
+69772,William Wright,Airplane,1.0,Reciprocating
+69788,Reeves,Airplane,1.0,Reciprocating
+69789,TOMEI,Airplane,1.0,Reciprocating
+69791,REPLOGLE,Airplane,1.0,Reciprocating
+69799,XTREMEAIR GMBH,Airplane,1.0,Reciprocating
+69804,Aviat Aircraft Inc.,Airplane,1.0,Reciprocating
+69814,BARTHOLOMEW,Airplane,1.0,Reciprocating
+69835,BENNETT,Airplane,1.0,Reciprocating
+69838,WSK-MIELEC,Airplane,1.0,Reciprocating
+69842,AIRBUS,Airplane,4.0,Turbo Fan
+69846,DELF TIM,Airplane,1.0,Reciprocating
+69862,Hawker-Beechcraft,Airplane,2.0,Reciprocating
+69863,WALKER J C,Airplane,1.0,Reciprocating
+69872,CLAUS RODNEY L,Airplane,1.0,Reciprocating
+69877,AVIAT AIRCRAFT,Airplane,1.0,Reciprocating
+69881,Dahlman-Dower,Airplane,1.0,Reciprocating
+69892,TEW WILLIAM P,Airplane,1.0,Reciprocating
+69914,Chang,Airplane,1.0,Reciprocating
+69918,Jurmu,Airplane,1.0,Reciprocating
+69925,FRANKE HARRY C,Airplane,1.0,Reciprocating
+69927,COMBS EARL W,Airplane,1.0,Reciprocating
+69929,Dralle (Van's Aircraft),Airplane,1.0,Reciprocating
+69932,PRICHARD KEVIN,Airplane,1.0,Reciprocating
+69944,THOMAS,Airplane,1.0,Reciprocating
+69946,PFOUTS ALFRED L,Airplane,1.0,Reciprocating
+69951,HEBERT PETER J,Airplane,1.0,Reciprocating
+69952,GETTEN MARVIN T,Airplane,1.0,Reciprocating
+69955,WOODWARD HAROLD L,Airplane,1.0,Reciprocating
+69957,Czech Sport Aircraft AS,Airplane,1.0,Reciprocating
+69965,Unregistered,Airplane,1.0,Reciprocating
+69988,Carothers,Airplane,1.0,Reciprocating
+69992,Czech Aircraft Works SPOL SRO,Airplane,1.0,Reciprocating
+69997,Leigh,Airplane,1.0,Reciprocating
+70010,SOUTHERN AIRMOTIVE CORP.,Airplane,1.0,Reciprocating
+70014,CAMERON,Airplane,1.0,Reciprocating
+70032,PALMER,Airplane,1.0,Reciprocating
+70035,MORRISEY,Airplane,1.0,Reciprocating
+70040,FLIGHTSTAR INC,Airplane,1.0,Reciprocating
+70042,HANSEN IB C,Airplane,1.0,Reciprocating
+70043,FLOURNOY MARTIN R,Airplane,1.0,Reciprocating
+70049,HOSKINS,Airplane,1.0,Reciprocating
+70069,CubCrafters Inc,Airplane,1.0,Reciprocating
+70076,GRUMMAN AIRCRAFT,Airplane,1.0,Reciprocating
+70087,AERO AT SP ZOO,Airplane,1.0,Reciprocating
+70099,SCOTTISH AVIATION,Airplane,1.0,Reciprocating
+70100,Clamar Floats INC,Airplane,1.0,Reciprocating
+70101,Rusk,Airplane,1.0,Reciprocating
+70104,SIEBER PAUL P,Airplane,1.0,Reciprocating
+70107,Redding David,Airplane,1.0,Reciprocating
+70109,MALKIN ROY K,Airplane,1.0,Reciprocating
+70113,KAMTZ RUSSELL H,Airplane,1.0,Reciprocating
+70118,"TAFT, MALCOLM J SR",Airplane,1.0,Reciprocating
+70128,Marks CA III,Airplane,1.0,Reciprocating
+70131,CONNER LEROY,Airplane,1.0,Reciprocating
+70135,FLIGHTSTAR,Airplane,1.0,Reciprocating
+70142,Bowley,Airplane,1.0,Reciprocating
+70146,DOUGLAS,Airplane,4.0,Reciprocating
+70150,BOEING,Airplane,4.0,Reciprocating
+70152,WILEY C W,Airplane,1.0,Reciprocating
+70159,NELSON DAN H,Airplane,1.0,Reciprocating
+70179,PERTH AMBOY,Airplane,1.0,Reciprocating
+70184,AEROVODOCHODY,Airplane,1.0,Turbo Jet
+70191,WORLEY DENNIS,Airplane,1.0,Reciprocating
+70197,SHANNON JAMES A JR,Airplane,1.0,Reciprocating
+70208,TRUSTY,Airplane,1.0,Reciprocating
+70210,DOTSON WILLIAM P,Airplane,1.0,Reciprocating
+70222,INHOFE/ DAVIS,Airplane,1.0,Reciprocating
+70234,HITCHCOCK,Airplane,1.0,Reciprocating
+70240,HENDRICKS GEORGE DAVID JR,Airplane,1.0,Reciprocating
+70244,VanDenburg,Airplane,1.0,Reciprocating
+70251,CLABAUGH ROBERT R,Airplane,1.0,Reciprocating
+70252,ALIEV BULENT,Airplane,1.0,Reciprocating
+70254,LEMOND,Airplane,1.0,Reciprocating
+70262,RICHARD,Airplane,1.0,Reciprocating
+70269,BAKER WAYNE,Airplane,1.0,Reciprocating
+70273,Keesler,Airplane,1.0,Reciprocating
+70275,BOSONETTO,Airplane,1.0,Reciprocating
+70277,LEATHERMAN KARL L,Airplane,1.0,Reciprocating
+70278,KLEMP GREGORY J,Airplane,1.0,Reciprocating
+70279,SCHAFFER GARY W,Airplane,1.0,Reciprocating
+70283,Ray Aerial Spraying,Airplane,1.0,Reciprocating
+70284,BARKER A E,Airplane,1.0,Reciprocating
+70285,ABBEY VICTOR,Airplane,1.0,Reciprocating
+70291,Couvillion,Airplane,1.0,Reciprocating
+70294,BINKLEY RICHARD,Airplane,1.0,Reciprocating
+70295,TEMCO,Airplane,1.0,Reciprocating
+70302,Koen Lancair,Airplane,1.0,Reciprocating
+70305,ARION AIRCRAFT LLC,Airplane,1.0,Reciprocating
+70307,"WINGTIP TO WINGTIP, LLC",Airplane,1.0,Reciprocating
+70318,M Squared,Airplane,1.0,Reciprocating
+70319,FESSENDEN ALFRED,Airplane,1.0,Reciprocating
+70325,"Cubcrafters, Inc",Airplane,1.0,Reciprocating
+70340,Sonex / John D. McCarter,Airplane,1.0,Reciprocating
+70341,BURTNER CHARLES W,Airplane,1.0,Reciprocating
+70342,TL ULTRALIGHT SRO,Airplane,1.0,Reciprocating
+70354,AERO VODOCHODY,Airplane,1.0,Turbo Fan
+70360,Andrew McKimmon,Airplane,1.0,Reciprocating
+70362,BOWIE RICHARD,Airplane,1.0,Reciprocating
+70365,LEINEKE WALTER L,Airplane,1.0,Reciprocating
+70374,DOVA AIRCRAFT SRO,Airplane,1.0,Reciprocating
+70379,GATES LEAR JET,Airplane,2.0,Turbo Fan
+70383,DARROW STEPHEN,Airplane,1.0,Reciprocating
+70386,TAYLORCRAFT CORP,Airplane,1.0,Reciprocating
+70401,HAMLIN JOHN D,Airplane,1.0,Reciprocating
+70402,DIXON,Airplane,1.0,Reciprocating
+70408,DAVIDSON,Airplane,1.0,Reciprocating
+70415,CLIFF,Airplane,1.0,Reciprocating
+70425,"Sky International, Inc.",Airplane,1.0,Reciprocating
+70430,Polaris,Airplane,1.0,Reciprocating
+70432,MILLS,Airplane,1.0,Reciprocating
+70435,Grumman Schweizer,Airplane,1.0,Turbo Prop
+70441,QUASAR ACFT CO LLC,Airplane,1.0,Reciprocating
+70448,MOYES,Airplane,1.0,Reciprocating
+70465,FLOYD JOSEPH B,Airplane,1.0,Reciprocating
+70483,Evens,Airplane,1.0,Reciprocating
+70499,Nicholson,Airplane,1.0,Reciprocating
+70504,CHRISTIANSEN DON E DO,Airplane,1.0,Reciprocating
+70509,SLOAN ROGER D,Airplane,1.0,Reciprocating
+70512,HURLEY RICHARD A,Airplane,1.0,Reciprocating
+70516,WRIGHT B FLYER INC,Airplane,1.0,Reciprocating
+70521,MCFARLAND WM H,Airplane,1.0,Reciprocating
+70530,MORRISON,Airplane,1.0,Reciprocating
+70531,MCDONALD LYNN B,Airplane,1.0,Reciprocating
+70534,EDWARDS DOUGLAS L,Airplane,1.0,Reciprocating
+70539,T&T AVIATION INC,Airplane,1.0,Reciprocating
+70546,CARPENTER,Airplane,1.0,Reciprocating
+70554,REINBOLDT RICHARD A,Airplane,1.0,Reciprocating
+70556,AEROSPORT LTD,Airplane,1.0,Reciprocating
+70560,ATTAWAY ROBERT H,Airplane,1.0,Reciprocating
+70561,NELSEN LYNN H,Airplane,1.0,Reciprocating
+70566,Didier Siffer (E-AB),Airplane,1.0,Reciprocating
+70570,FERGUSON AIRCRAFT,Airplane,1.0,Reciprocating
+70572,SIAI MARCHETTI,Airplane,1.0,Reciprocating
+70575,HODGES SAMUEL J,Airplane,1.0,Reciprocating
+70583,Glasair Aviation LLC,Airplane,1.0,Reciprocating
+70587,Aircraft Mfg & Design LLC,Airplane,1.0,Reciprocating
+70597,RICHMOND JIM R,Airplane,1.0,Reciprocating
+70603,STEVENS R P/MCCRIGHT D W,Airplane,1.0,Reciprocating
+70606,G-DAWG LLC,Airplane,1.0,Reciprocating
+70608,FISHER MICHAEL E,Airplane,1.0,Reciprocating
+70609,PORBECK JOHN M,Airplane,1.0,Reciprocating
+70635,EVANS ROBERT W SR,Airplane,1.0,Reciprocating
+70636,P&M Aviation,Airplane,1.0,Reciprocating
+70638,QUAD CITY ULTRALIGHT CORP,Airplane,1.0,Reciprocating
+70642,SUMINSKI WALTER M,Airplane,1.0,Reciprocating
+70652,JUNEAU (Zenith Aircraft Co),Airplane,1.0,Reciprocating
+70662,MITCHELL DAVID N,Airplane,1.0,Reciprocating
+70665,VERTICAL UNLIMITED LLC,Airplane,1.0,Reciprocating
+70671,CANO DAVE,Airplane,1.0,Reciprocating
+70682,HENDRYX STEVE/WILEY ROSS,Airplane,1.0,Reciprocating
+70683,RANS DESIGNS INC,Airplane,1.0,Reciprocating
+70684,GARDAN,Airplane,1.0,Reciprocating
+70691,"Air Tractor, Inc.",Airplane,1.0,Turbo Prop
+70693,PAYNE/FOSTER,Airplane,1.0,Reciprocating
+70694,NICHOLS,Airplane,1.0,Reciprocating
+70697,Tubbs S/Performance,Airplane,1.0,Reciprocating
+70699,WOOLSTON GLENN E,Airplane,1.0,Reciprocating
+70712,WHEELER,Airplane,1.0,Reciprocating
+70720,"Van's Aircraft, Inc.",Airplane,1.0,Reciprocating
+70744,SPECTRUM,Airplane,1.0,Reciprocating
+70750,Vicari,Airplane,1.0,Reciprocating
+70755,SHERMAN CRAIG W,Airplane,1.0,Reciprocating
+70756,DURLING JAMES,Airplane,1.0,Reciprocating
+70762,VEATCH,Airplane,1.0,Reciprocating
+70763,LARSON KEN W,Airplane,1.0,Reciprocating
+70764,QUESTAIR INC,Airplane,1.0,Reciprocating
+70765,BREWSTER,Airplane,1.0,Reciprocating
+70782,HAINES JOSEPH E,Airplane,1.0,Reciprocating
+70786,M7Aero,Airplane,2.0,Turbo Prop
+70794,RIFFEL JERRIS L,Airplane,1.0,Reciprocating
+70798,Piper/Cub Crafters,Airplane,1.0,Reciprocating
+70805,DOUGLAS,Airplane,4.0,Turbo Jet
+70806,KARIBIAN HURANT,Airplane,1.0,Reciprocating
+70815,Peter A Land,Airplane,1.0,Reciprocating
+70825,CONE JAMES A,Airplane,1.0,Reciprocating
+70827,Remos Aircraft GMBH Flugzeugba,Airplane,1.0,Reciprocating
+70829,DACEY,Airplane,1.0,Reciprocating
+70834,NORTH AMERICAN/AERO CLASSICS,Airplane,1.0,Reciprocating
+70840,CUB CRAFTERS INC,Airplane,1.0,Reciprocating
+70849,AERO ADVENTURE,Airplane,1.0,Reciprocating
+70850,MARK DIVITA,Airplane,1.0,Reciprocating
+70856,MCARTHUR,Airplane,1.0,Reciprocating
+70857,CONCANNON MILTON,Airplane,1.0,Reciprocating
+70859,HEINLEIN GEORGE,Airplane,1.0,Reciprocating
+70864,Bunker,Airplane,1.0,Reciprocating
+70870,THORP,Airplane,1.0,Reciprocating
+70873,ESSELSTYN CHUCK,Airplane,1.0,Reciprocating
+70876,BINS TOM,Airplane,1.0,Reciprocating
+70885,STARDUSTER II,Airplane,1.0,Reciprocating
+70888,HUTCHINSON KENNETH A,Airplane,1.0,Reciprocating
+70889,TOMPKINS,Airplane,1.0,Reciprocating
+70901,OWEN,Airplane,1.0,Reciprocating
+70911,Aviocar CASA,Airplane,2.0,Turbo Prop
+70913,POE G L/POE S Y,Airplane,1.0,Reciprocating
+70915,HERONIMUS KEVIN A,Airplane,1.0,Reciprocating
+70916,WALTMAN THEODORE J,Airplane,1.0,Reciprocating
+70922,SADLER TERRY,Airplane,1.0,Reciprocating
+70926,CAMPBELL JOHN,Airplane,1.0,Reciprocating
+70928,LOEHLE AIRCRAFT CORP,Airplane,1.0,Reciprocating
+70930,VAUGHN,Airplane,1.0,Reciprocating
+70935,HARRY L. WEBER,Airplane,1.0,Reciprocating
+70938,JOHNSTON WILLIAM ALFRED JR,Airplane,1.0,Reciprocating
+70943,BRINKERHUFF GERALD G,Airplane,1.0,Reciprocating
+70944,CALVIN NATE H,Airplane,1.0,Reciprocating
+70946,RIVERS WILLIAM J,Airplane,1.0,Reciprocating
+70963,LUDWIG LARRY E,Airplane,1.0,Reciprocating
+70970,COMBS DALE B,Airplane,1.0,Reciprocating
+70971,LEARJET INC,Airplane,2.0,Turbo Fan
+70978,SPINK ROBERT M,Airplane,1.0,Reciprocating
+70985,Michael Cans,Airplane,1.0,Reciprocating
+71003,JANTZEN,Airplane,1.0,Reciprocating
+71016,FEHLNER-SHELTON,Airplane,1.0,Reciprocating
+71019,MOYES BAILEY,Airplane,1.0,Reciprocating
+71020,GRAFF WILBUR C,Airplane,1.0,Reciprocating
+71026,Houts,Airplane,1.0,Reciprocating
+71027,BERGER MICHAEL A,Airplane,1.0,Reciprocating
+71034,ELKIND BRUCE,Airplane,1.0,Reciprocating
+71045,HAWKER BEECHCRAFT,Airplane,2.0,Reciprocating
+71054,INTERPLANE S R O,Airplane,1.0,Reciprocating
+71055,BROCHETTI LOUIS,Airplane,1.0,Reciprocating
+71058,TACCHI TORELLO F,Airplane,1.0,Reciprocating
+71064,ECKENRODE CARL J,Airplane,1.0,Reciprocating
+71065,NUSBAUM,Airplane,1.0,Reciprocating
+71067,DOWNER,Airplane,1.0,Reciprocating
+71085,SIGMON HARVEY E,Airplane,1.0,Reciprocating
+71092,CASLER SCOTT,Airplane,1.0,Reciprocating
+71093,GRENIER RAYMOND,Airplane,1.0,Reciprocating
+71125,PIAGGIO AERO INDUSTRIES SPA,Airplane,2.0,Turbo Prop
+71127,JUVE RICHARD G,Airplane,1.0,Reciprocating
+71141,SKYKITS,Airplane,1.0,Reciprocating
+71142,BRAY VERLE G JR,Airplane,1.0,Reciprocating
+71149,FENTON,Airplane,1.0,Reciprocating
+71155,PIPER AIRCRAFT INC,Airplane,1.0,Turbo Prop
+71162,ANATRA BART T,Airplane,1.0,Reciprocating
+71168,GULFSTREAM AMERICAN CORP.,Airplane,2.0,Turbo Fan
+71170,SMITH MINIPLANE,Airplane,1.0,Reciprocating
+71176,"PIPER AIRCRAFT, INC.",Airplane,2.0,Reciprocating
+71189,NUSE GEORGE,Airplane,1.0,Reciprocating
+71198,THOMPSON TOMMY W,Airplane,1.0,Reciprocating
+71210,Shook,Airplane,1.0,Reciprocating
+71223,CROSLEY,Airplane,1.0,Reciprocating
+71225,SHAW DOUGLAS WAYNE,Airplane,1.0,Reciprocating
+71229,CIRRUS DESIGN CORP.,Airplane,1.0,Reciprocating
+71244,UNIVERSITY OF KANSAS,Airplane,1.0,Reciprocating
+71269,KOTH LARRY,Airplane,1.0,Reciprocating
+71274,HANEY JOHN F B,Airplane,1.0,Reciprocating
+71276,MCADAM W E,Airplane,1.0,Reciprocating
+71280,BUTLER JOHN R,Airplane,1.0,Reciprocating
+71284,Sanderson,Airplane,1.0,Reciprocating
+71296,BOWERS FLY BABY,Airplane,1.0,Reciprocating
+71312,Aerostar Aircraft Corporation,Airplane,2.0,Reciprocating
+71314,BOEING,Airplane,2.0,Turbo Prop
+71320,M-SQUARED AIRCRAFT,Airplane,1.0,Reciprocating
+71346,PIPER AIRCRAFT CORPORATION,Airplane,1.0,Reciprocating
+71359,ANTONOV,Airplane,4.0,Turbo Fan
+71361,GARZA,Airplane,1.0,Turbo Prop
+71382,VARGA AIRCRAFT CORP.,Airplane,1.0,Reciprocating
+71417,MOONEY AIRPLANE CO INC,Airplane,1.0,Reciprocating
+71432,CRAIN JAC A,Airplane,1.0,Reciprocating
+71442,HAYCRAFT,Airplane,1.0,Reciprocating
+71460,STROUT FRANK,Airplane,1.0,Reciprocating
+71464,RAGONESE TIM,Airplane,1.0,Reciprocating
+71465,HAWKER BEECHCRAFT CORP,Airplane,2.0,Reciprocating
+71468,LESTER ROBERT E,Airplane,1.0,Reciprocating
+71481,SKEETER,Airplane,1.0,Reciprocating
+71492,BOMBARDIER LEARJET CORP.,Airplane,2.0,Turbo Fan
+71494,ISRAEL AIRCRAFT INDUSTRIES,Airplane,1.0,Turbo Jet
+71512,DIAMOND AIRCRAFT IND INC,Airplane,2.0,Reciprocating
+71514,BRICE RON,Airplane,1.0,Reciprocating
+71516,Cook,Airplane,1.0,Reciprocating
+71524,EMERAUDE,Airplane,1.0,Reciprocating
+71538,SADLER TERRY A,Airplane,1.0,Reciprocating
+71543,BOEHLKE KEVIN P,Airplane,1.0,Reciprocating
+71548,GRIMM,Airplane,1.0,Reciprocating
+71560,REICH,Airplane,1.0,Reciprocating
+71562,GERNER,Airplane,1.0,Reciprocating
+71570,CIRRUS DESIGN CORPORATION,Airplane,1.0,Reciprocating
+71571,NEW KOLB AIRCRAFT CO,Airplane,1.0,Reciprocating
+71575,JOY AVIATION LTD,Airplane,1.0,Reciprocating
+71577,ENBODY FRANK,Airplane,1.0,Reciprocating
+71578,HALL JEFFREY,Airplane,1.0,Reciprocating
+71579,JACOBS,Airplane,1.0,Reciprocating
+71585,FURRU DONALD JEFFREY,Airplane,1.0,Reciprocating
+71589,ANDERSON JOHN H,Airplane,1.0,Reciprocating
+71599,ARADO-FLUGZEUGWERKE GMBH,Airplane,1.0,Reciprocating
+71600,OLIVER JOSEPH,Airplane,1.0,Reciprocating
+71605,TAYLORCRAFT AVIATION CORP,Airplane,1.0,Reciprocating
+71612,SAPP LARRY E,Airplane,1.0,Reciprocating
+71616,HAWKER BEECHCRAFT,Airplane,2.0,Turbo Prop
+71617,NELSON,Airplane,1.0,Reciprocating
+71622,JONES,Airplane,1.0,Reciprocating
+71629,REMOS ACFT GMBH FLUGZEUGBAU,Airplane,1.0,Reciprocating
+71631,WIELT,Airplane,1.0,Reciprocating
+71633,WEJEBE JOSE,Airplane,1.0,Turbo Prop
+71654,WILLERTON,Airplane,1.0,Reciprocating
+71660,STANLEY B E,Airplane,1.0,Reciprocating
+71663,NELSON SYDNEY/NELSON DIANN,Airplane,1.0,Reciprocating
+71667,MANZITTO MICHAEL A,Airplane,1.0,Reciprocating
+71670,T BIRD GOLDEN CIRCLE AIR INC,Airplane,1.0,Reciprocating
+71671,TIGER AIRCRAFT LLC,Airplane,1.0,Reciprocating
+71673,WILLOUGHBY PETE A,Airplane,1.0,Reciprocating
+71678,PRENDERGAST JOHN/VANS,Airplane,1.0,Reciprocating
+71685,HEISER ROBERT C JR,Airplane,1.0,Reciprocating
+71690,SKYKITS USA CORP,Airplane,1.0,Reciprocating
+71703,MOODY-SIPLE,Airplane,1.0,Reciprocating
+71709,Beechcraft Corporation,Airplane,1.0,Reciprocating
+71711,MAYS,Airplane,1.0,Reciprocating
+71712,BUMFORD-ROYER,Airplane,1.0,Reciprocating
+71713,ALVAREZ MARVIN R,Airplane,1.0,Reciprocating
+71715,LEAGUE,Airplane,1.0,Turbo Prop
+71717,CLIFTON,Airplane,1.0,Reciprocating
+71734,GLASS ROY L,Airplane,1.0,Reciprocating
+71736,TUCKER-HURNI,Airplane,1.0,Reciprocating
+71737,RICE LEO B,Airplane,1.0,Reciprocating
+71738,Hawker Beech,Airplane,1.0,Reciprocating
+71753,SHOUP RONALD R,Airplane,1.0,Reciprocating
+71755,CAMPBELL DAVID,Airplane,1.0,Reciprocating
+71760,BERRY DEAN,Airplane,1.0,Reciprocating
+71767,GALLOWAY/WARD,Airplane,1.0,Reciprocating
+71777,"CubCrafters, Inc",Airplane,1.0,Reciprocating
+71793,GUTIERREZ PABLINO,Airplane,1.0,Reciprocating
+71796,Donald K Stovall,Airplane,1.0,Reciprocating
+71798,SUKHOI,Airplane,2.0,Turbo Fan
+71801,COSTRUZIONI AERONAUTICHE TECNA,Airplane,2.0,Reciprocating
+71819,LUTTENBACHER KURT,Airplane,1.0,Reciprocating
+71820,RISHER JIMMY E,Airplane,1.0,Reciprocating
+71822,POOL,Airplane,1.0,Reciprocating
+71826,STAUDACHER HYDROPLANES,Airplane,1.0,Reciprocating
+71827,M SQUARED,Airplane,1.0,Reciprocating
+71830,BECKERT BRUCE A,Airplane,1.0,Reciprocating
+71831,MAULE,Airplane,1.0,Turbo Prop
+71838,HUNTER,Airplane,1.0,Reciprocating
+71839,TROYER,Airplane,1.0,Reciprocating
+71847,MARLEY,Airplane,1.0,Reciprocating
+71848,CZECH SPORT AIRCRAFT A S,Airplane,1.0,Reciprocating
+71849,Rotherwick HR,Airplane,1.0,Reciprocating
+71852,SHIVER,Airplane,1.0,Reciprocating
+71853,SHORT BROS,Airplane,2.0,Turbo Prop
+71854,HAWKER AIRCRAFT LTD,Airplane,1.0,Turbo Jet
+71858,DIAL DAVID L,Airplane,1.0,Reciprocating
+71873,"BELCHER, GERALD C",Airplane,1.0,Reciprocating
+71878,SHEPARD JIMMY D JR,Airplane,1.0,Reciprocating
+71886,WAGGONNER,Airplane,1.0,Reciprocating
+71894,LYDON PATRICK F,Airplane,1.0,Reciprocating
+71902,AEROS LTD/SKYRANGER AIRCRAFT,Airplane,1.0,Reciprocating
+71907,SMITH ALLEN,Airplane,1.0,Reciprocating
+71912,MOYES B/BAILEY B,Airplane,1.0,Reciprocating
+71929,Tackabury,Airplane,2.0,Reciprocating
+71936,BRUMBAUGH B/KASOWSKI L,Airplane,1.0,Reciprocating
+71943,BALDWIN,Airplane,1.0,Reciprocating
+71947,HAWKER BEECHCRAFT,Airplane,1.0,Reciprocating
+71952,Walters,Airplane,1.0,Reciprocating
+71953,WESTCOTT,Airplane,1.0,Reciprocating
+71959,PITTMAN EDDIE G,Airplane,1.0,Reciprocating
+71966,WALLS CRAIG C,Airplane,1.0,Reciprocating
+71975,THOMAS SCOTT,Airplane,1.0,Reciprocating
+72004,PHILLIPS WILLIAM L,Airplane,1.0,Reciprocating
+72011,FLOWER ROGER P,Airplane,1.0,Reciprocating
+72013,BIRCHLER BOYD,Airplane,1.0,Reciprocating
+72014,AMEN,Airplane,1.0,Reciprocating
+72018,GRIFFITHS JAMES SYDNEY,Airplane,1.0,Reciprocating
+72032,BOWLES CHRIS,Airplane,1.0,Reciprocating
+72050,ROETMAN RYLAND K JR,Airplane,1.0,Reciprocating
+72052,BARNEY OLDFIELD AIRCRAFT CO,Airplane,1.0,Reciprocating
+72056,PETERSON-FEDER-SPLINTER,Airplane,1.0,Reciprocating
+72061,"Consolidated Aeronautics, Inc.",Airplane,1.0,Reciprocating
+72062,FISHER HAROLD R,Airplane,1.0,Reciprocating
+72067,BEECH,Airplane,2.0,Turbo Jet
+72087,EDSON ROBERT W,Airplane,1.0,Reciprocating
+72096,Hoyle,Airplane,1.0,Reciprocating
+72102,UNIVERSAL STINSON,Airplane,1.0,Reciprocating
+72108,BURLEIGH,Airplane,1.0,Reciprocating
+72117,NAPPI TITO C,Airplane,1.0,Reciprocating
+72123,LUTERS ARNIS V,Airplane,1.0,Turbo Prop
+72124,REHN,Airplane,1.0,Reciprocating
+72138,FIELDS MIKE,Airplane,1.0,Reciprocating
+72139,STEVEN BORNSTEIN/THOMAS WHITTA,Airplane,1.0,Reciprocating
+72143,Badeaux,Airplane,1.0,Reciprocating
+72156,WILKINSON LORIN L,Airplane,1.0,Reciprocating
+72161,LEDER JOHN A,Airplane,1.0,Reciprocating
+72182,PIEL,Airplane,1.0,Reciprocating
+72193,SHOREY TIMOTHY A,Airplane,1.0,Reciprocating
+72194,JONES PETER M,Airplane,1.0,Reciprocating
+72195,MURRAY RICHARD F,Airplane,2.0,Reciprocating
+72221,North American Rockwell,Airplane,2.0,Turbo Prop
+72227,BUNCH,Airplane,1.0,Reciprocating
+72233,MIKOYAN GUREVICH,Airplane,1.0,Turbo Jet
+72241,CZECH SPORT AIRCRAFT AS,Airplane,1.0,Reciprocating
+72248,LOFLIN,Airplane,1.0,Reciprocating
+72251,DOPPELT FREDRIC F,Airplane,1.0,Reciprocating
+72254,SC IAR SA Brasov,Airplane,1.0,Turbo Prop
+72258,SEIBERT ROBERT M,Airplane,1.0,Reciprocating
+72268,CHAPMAN MARK A,Airplane,1.0,Reciprocating
+72285,CHAMBERLAIN GERALD,Airplane,1.0,Reciprocating
+72288,BRENHOLT LARRY R,Airplane,1.0,Reciprocating
+72299,HEREM,Airplane,1.0,Reciprocating
+72311,Aerotrek,Airplane,1.0,Reciprocating
+72312,TOMAN JACK JR,Airplane,1.0,Reciprocating
+72313,DORNIER,Airplane,1.0,Reciprocating
+72316,PURTEE KEVIN M,Airplane,1.0,Reciprocating
+72317,YAMOKOSKI WILLIAM,Airplane,1.0,Reciprocating
+72318,CubCrafters,Airplane,1.0,Reciprocating
+72322,JEFFKO,Airplane,1.0,Reciprocating
+72332,Nelson Miles,Airplane,1.0,Reciprocating
+72340,BAYLISS MILTON A III,Airplane,1.0,Reciprocating
+72346,"MOONEY AIRPLANE COMPANY, INC.",Airplane,1.0,Reciprocating
+72347,"Joseph C. Andrews, Jr.",Airplane,1.0,Reciprocating
+72351,INTERPLANE,Airplane,1.0,Reciprocating
+72357,LEE OSCAR D III,Airplane,1.0,Reciprocating
+72366,BLACK DONALD,Airplane,1.0,Reciprocating
+72382,BORDELON BRUCE,Airplane,1.0,Reciprocating
+72388,GRUMMAN ACFT ENG COR,Airplane,1.0,Reciprocating
+72415,SAVAGE AIR LLC,Airplane,1.0,Turbo Prop
+72419,EMBRAER S.A.,Airplane,2.0,Turbo Fan
+72428,WILLIAMS JOHN,Airplane,1.0,Reciprocating
+72433,Cantlon,Airplane,1.0,Reciprocating
+72435,CROSS DAVID L,Airplane,1.0,Reciprocating
+72438,SANTANA,Airplane,1.0,Reciprocating
+72441,RISTINE,Airplane,1.0,Reciprocating
+72451,GAGE,Airplane,1.0,Reciprocating
+72452,James H Berard,Airplane,1.0,Reciprocating
+72454,GN-1 AIRCAMPER,Airplane,1.0,Reciprocating
+72455,SACKMAN,Airplane,1.0,Reciprocating
+72462,Ison Aircraft,Airplane,1.0,Reciprocating
+72465,Dykas,Airplane,1.0,Reciprocating
+72469,BOUGHNER,Airplane,1.0,Reciprocating
+72470,FECHTNER,Airplane,1.0,Reciprocating
+72478,"Schweizer, N36289",Airplane,1.0,Turbo Prop
+72480,BROWN MITCH,Airplane,1.0,Reciprocating
+72484,RIDGE LOWELL H,Airplane,1.0,Reciprocating
+72493,FANTASY AIR,Airplane,1.0,Reciprocating
+72498,MCLEOD ALAN,Airplane,1.0,Reciprocating
+72509,Paulistinha  56-C1,Airplane,1.0,Reciprocating
+72514,KOLB AIRCRAFT CO,Airplane,1.0,Reciprocating
+72537,GULFSTREAM,Airplane,1.0,Reciprocating
+72556,EBERLE JOHN S,Airplane,1.0,Reciprocating
+72569,LEE PAUL,Airplane,1.0,Reciprocating
+72578,BRITISH AEROSPACE,Airplane,2.0,Turbo Prop
+72584,MUDGE RAY,Airplane,1.0,Reciprocating
+72585,QUAD CITY ULTRALIGHTS,Airplane,1.0,Reciprocating
+72590,BRITTEN NORMAN,Airplane,2.0,Reciprocating
+72600,EASTON,Airplane,1.0,Reciprocating
+72613,ARVOLD JORDON R,Airplane,1.0,Reciprocating
+72623,PIGGOTT JOHN H,Airplane,1.0,Reciprocating
+72631,TAYLORCRAFT AVIATION CORP.,Airplane,1.0,Reciprocating
+72642,SCHNEIDER JOHN W,Airplane,1.0,Reciprocating
+72645,Lake John K,Airplane,1.0,Reciprocating
+72648,HANSEN,Airplane,1.0,Reciprocating
+72654,FAIRLEY GOOCH,Airplane,1.0,Reciprocating
+72657,HOLLOMAN L B/HOLLOMAN E M,Airplane,1.0,Reciprocating
+72661,GOODYEAR,Airplane,1.0,Reciprocating
+72670,MOORE EDWARD R,Airplane,1.0,Reciprocating
+72679,PITCAIRN,Airplane,1.0,Reciprocating
+72680,SCHOEPFLIN,Airplane,1.0,Reciprocating
+72699,"HALDERMAN, FLOYD G.",Airplane,1.0,Reciprocating
+72705,HALL DON H,Airplane,1.0,Reciprocating
+72707,SEYMOUR,Airplane,1.0,Reciprocating
+72708,Bruce M Barrett,Airplane,1.0,Reciprocating
+72716,FREDERICK,Airplane,1.0,Reciprocating
+72725,JDT MINI-MAX LLC,Airplane,1.0,Reciprocating
+72728,MCHENRY GEORGE B JR,Airplane,1.0,Reciprocating
+72735,BARNEY,Airplane,1.0,Reciprocating
+72739,BEECH,Airplane,2.0,Turbo Fan
+72746,BEECHCRAFT,Airplane,1.0,Reciprocating
+72753,THOMPSON,Airplane,1.0,Reciprocating
+72754,STEWART MW/STEWART JD,Airplane,1.0,Reciprocating
+72757,KUNDEL,Airplane,1.0,Reciprocating
+72759,BEAGLE,Airplane,2.0,Reciprocating
+72762,CANADAIR LTD,Airplane,2.0,Turbo Fan
+72777,MCCLEERY,Airplane,1.0,Reciprocating
+72782,DAVIS MARK,Airplane,1.0,Reciprocating
+72796,JABIRU USA SPORT AIRCRAFT LLC,Airplane,1.0,Reciprocating
+72800,HENRIE RAYMOND,Airplane,1.0,Reciprocating
+72802,KEUTHAN,Airplane,1.0,Reciprocating
+72804,QUEST AIRCRAFT COMPANY LLC,Airplane,1.0,Turbo Prop
+72811,TEAM INC,Airplane,1.0,Reciprocating
+72815,"Thrush Aircraft, Inc.",Airplane,1.0,Turbo Prop
+72819,SANDERS BEN G III,Airplane,1.0,Reciprocating
+72822,WOOD,Airplane,1.0,Reciprocating
+72833,MOULTON HOWARD WELLS,Airplane,1.0,Reciprocating
+72836,BEAUDRY PHILLIP,Airplane,1.0,Reciprocating
+72839,MUELLER MICHAEL WALTER,Airplane,1.0,Reciprocating
+72849,MACE JUSTIN I,Airplane,1.0,Reciprocating
+72852,VELLINE'S,Airplane,1.0,Reciprocating
+72858,ARION,Airplane,1.0,Reciprocating
+72861,DIAMOND AIRCRAFT IND GMBH,Airplane,2.0,Reciprocating
+72882,CASHMER PHILIP M,Airplane,1.0,Reciprocating
+72885,YOUNG ROBERT HERMAN,Airplane,1.0,Reciprocating
+72902,ALBRIGHT STAN,Airplane,1.0,Reciprocating
+72903,DANIELS ALAN L,Airplane,1.0,Reciprocating
+72909,"Swift Museum Foundation, Inc.",Airplane,1.0,Reciprocating
+72911,QUICKSILVER MFG,Airplane,1.0,Reciprocating
+72933,BEHNE,Airplane,1.0,Reciprocating
+72949,BATES,Airplane,1.0,Reciprocating
+72950,JEFFAIR,Airplane,1.0,Reciprocating
+72952,US LIGHT AIRCRAFT CORP,Airplane,1.0,Reciprocating
+72965,Spackman,Airplane,1.0,Reciprocating
+72967,FAIRCHILD HELI-PORTER,Airplane,1.0,Turbo Prop
+72974,CENTRAL OHIO DRAGONFLY CLUB,Airplane,1.0,Reciprocating
+72989,WALLER CHARLES R,Airplane,1.0,Reciprocating
+72990,VANS AIRCRAFT INC,Airplane,1.0,Reciprocating
+72992,LAWSON RON,Airplane,1.0,Reciprocating
+73000,REIMS-CESSNA,Airplane,1.0,Reciprocating
+73027,"JABIRU USA SPORT AIRCRAFT, LLC",Airplane,1.0,Reciprocating
+73029,REDD TOM,Airplane,1.0,Reciprocating
+73038,Brian P North,Airplane,1.0,Reciprocating
+73042,Sater,Airplane,1.0,Reciprocating
+73044,RADLEY VINCENT,Airplane,1.0,Reciprocating
+73046,SCOTT,Airplane,1.0,Reciprocating
+73054,MCDANIEL,Airplane,1.0,Reciprocating
+73062,LAWSON J/BOWIE R/SMITH M,Airplane,1.0,Turbo Prop
+73067,GREEN GARY E,Airplane,1.0,Reciprocating
+73069,HANSEN DAVID DANIEL,Airplane,1.0,Reciprocating
+73070,AMERICAN CHAMPION AIRCRAFT,Airplane,2.0,Reciprocating
+73081,BOEING COMPANY,Airplane,2.0,Turbo Fan
+73093,LSA AMERICA INC,Airplane,1.0,Reciprocating
+73105,LEARJET INC,Airplane,2.0,Turbo Jet
+73106,MERRITT LESLIE R,Airplane,1.0,Reciprocating
+73110,AUMAN JL,Airplane,1.0,Reciprocating
+73130,RUSSOM ROY G,Airplane,1.0,Reciprocating
+73135,WRAGG GEORGE,Airplane,1.0,Reciprocating
+73151,Seguine,Airplane,1.0,Reciprocating
+73154,MCKAY GENE,Airplane,1.0,Reciprocating
+73160,MCKENZIE,Airplane,1.0,Turbo Prop
+73165,ROBIDOUX LIONEL,Airplane,1.0,Reciprocating
+73171,KAUFMANN,Airplane,1.0,Reciprocating
+73190,Jeremiah Jackson,Airplane,1.0,Reciprocating
+73196,BREWER JAMES M,Airplane,1.0,Reciprocating
+73200,STRIBLING JAMES L,Airplane,1.0,Reciprocating
+73206,Heinz,Airplane,1.0,Reciprocating
+73209,BENTON FRED D,Airplane,1.0,Reciprocating
+73247,MALLORY CHRISTOPHER L,Airplane,1.0,Reciprocating
+73250,SHOEMAKER JAMES B,Airplane,1.0,Reciprocating
+73291,NORTH AMERICAN-MEDORE,Airplane,1.0,Reciprocating
+73297,TRIAD INTERNATIONAL TECHNOLOGY,Airplane,1.0,Reciprocating
+73304,ST CLAIR,Airplane,1.0,Reciprocating
+73312,AVIONS FAIREY,Airplane,1.0,Reciprocating
+73323,TEMCO,Airplane,2.0,Reciprocating
+73343,DOMBROSKI FRANK,Airplane,1.0,Reciprocating
+73344,TTX Air LLC,Airplane,1.0,Turbo Prop
+73353,BUCKER JUNGMANN,Airplane,1.0,Reciprocating
+73358,BLUMER,Airplane,1.0,Reciprocating
+73364,ISAAK PAUL G,Airplane,1.0,Reciprocating
+73376,Hawker Beechcraft,Airplane,1.0,Turbo Fan
+73380,WESTON,Airplane,1.0,Reciprocating
+73383,BOMBARDIER,Airplane,2.0,Turbo Prop
+73393,NELSON LARRY L,Airplane,1.0,Reciprocating
+73399,781569 INC,Airplane,1.0,Reciprocating
+73410,FRANKLIN,Airplane,1.0,Reciprocating
+73412,Embraer Aircraft,Airplane,2.0,Turbo Prop
+73419,ALLEN,Airplane,1.0,Reciprocating
+73429,MCNULTY JOHN S,Airplane,1.0,Reciprocating
+73437,NEW PIPER AIRCRAFT INC,Airplane,1.0,Reciprocating
+73438,HAWKER BEECHCRAFT CORPORATION,Airplane,2.0,Turbo Fan
+73444,Andre Kostrzewa,Airplane,1.0,Reciprocating
+73464,OWENS,Airplane,1.0,Reciprocating
+73481,ANDREWS,Airplane,1.0,Reciprocating
+73529,MAXFLY INC/MCKAY WM,Airplane,1.0,Reciprocating
+73530,FRANKE RUSSELL J,Airplane,1.0,Reciprocating
+73534,ATKINS,Airplane,1.0,Reciprocating
+73535,HARRIS PIERCE,Airplane,1.0,Reciprocating
+73542,EDWARD W GRAY,Airplane,1.0,Reciprocating
+73546,SCHOONOVER JOHN D,Airplane,1.0,Reciprocating
+73548,QUAD CITY ULTRALIGHT ACFT CORP,Airplane,1.0,Reciprocating
+73550,Needham,Airplane,1.0,Reciprocating
+73556,JANS ROBERT,Airplane,1.0,Reciprocating
+73557,WING HAROLD,Airplane,1.0,Reciprocating
+73561,POOLE ROBERT C JR,Airplane,1.0,Reciprocating
+73568,HOFFMAN,Airplane,1.0,Reciprocating
+73602,DEAN LESLIE N,Airplane,1.0,Reciprocating
+73621,ALEXANDER DUANE A,Airplane,1.0,Reciprocating
+73624,MASON ROBERT,Airplane,1.0,Reciprocating
+73633,Adolphson,Airplane,1.0,Reciprocating
+73634,Hook,Airplane,1.0,Reciprocating
+73635,BAE,Airplane,2.0,Turbo Fan
+73637,"NEWGENT, BARRY",Airplane,1.0,Reciprocating
+73649,ESKILDSEN,Airplane,1.0,Reciprocating
+73656,HUGHES CHARLES R,Airplane,1.0,Reciprocating
+73679,PHILLIPS,Airplane,1.0,Reciprocating
+73683,STEELE RALPH BRUCE,Airplane,1.0,Reciprocating
+73688,"ANKESTAR, BRADLEY D.",Airplane,1.0,Reciprocating
+73718,THOMAS DAVID W,Airplane,1.0,Reciprocating
+73720,PECK NORMAN O,Airplane,1.0,Reciprocating
+73730,TOMISIN THOMAS J,Airplane,1.0,Reciprocating
+73734,ALLEN JAN A,Airplane,1.0,Reciprocating
+73753,FLIGHTSTAR SPORTPLANES,Airplane,1.0,Reciprocating
+73756,BOSWELL JOHN J,Airplane,2.0,Reciprocating
+73758,FLEMING ELDRIDGE E,Airplane,1.0,Reciprocating
+73760,Dressen,Airplane,1.0,Reciprocating
+73787,WILSON WILLIAM M,Airplane,2.0,Reciprocating
+73791,Wampach,Airplane,1.0,Reciprocating
+73809,SHELDRICK JOHN H,Airplane,1.0,Reciprocating
+73823,Garland,Airplane,1.0,Reciprocating
+73838,STIEGELMEYER JOHN R,Airplane,1.0,Reciprocating
+73841,ULTRAMAGIC SA,Airplane,1.0,Unknown
+73856,PIPISTREL,Airplane,1.0,Reciprocating
+73857,YOUNGS WILLIAM D,Airplane,1.0,Reciprocating
+73861,ROGERS,Airplane,1.0,Reciprocating
+73862,GRAVES,Airplane,1.0,Reciprocating
+73867,ROCKWELL,Airplane,1.0,Turbo Prop
+73881,HAGERTY,Airplane,1.0,Reciprocating
+73891,GARY W BETTIS,Airplane,1.0,Reciprocating
+73901,AEROTEK INC,Airplane,1.0,Reciprocating
+73907,IAI,Airplane,2.0,Turbo Fan
+73910,THOMSEN,Airplane,1.0,Reciprocating
+73917,BOEING-STEARMAN,Airplane,1.0,Reciprocating
+73936,"Aviat Aircraft, Inc.",Airplane,1.0,Reciprocating
+73938,AVERY JACK H,Airplane,1.0,Reciprocating
+73943,Diamond Aicraft Industries Inc,Airplane,1.0,Reciprocating
+73949,Charles Peet,Airplane,1.0,Reciprocating
+73956,MARTIN CHARLES A,Airplane,1.0,Reciprocating
+73960,AYERS,Airplane,1.0,Reciprocating
+73968,CHICCO,Airplane,1.0,Reciprocating
+73972,VINK ROBERT D,Airplane,1.0,Reciprocating
+73984,DORMAN,Airplane,1.0,Reciprocating
+73988,BOSON,Airplane,1.0,Reciprocating
+73993,CURTISS WRIGHT,Airplane,2.0,Reciprocating
+74006,ROCKWELL,Airplane,2.0,Turbo Fan
+74010,JDT,Airplane,1.0,Reciprocating
+74014,LUY WAYMAN,Airplane,2.0,Reciprocating
+74015,Flight Design GmbH,Airplane,1.0,Reciprocating
+74041,QUARNOCCIO,Airplane,1.0,Reciprocating
+74047,KINCAID WADE,Airplane,1.0,Reciprocating
+74051,THOMPSON BRUCE D,Airplane,1.0,Reciprocating
+74060,JOHNSON GARRET W,Airplane,1.0,Reciprocating
+74063,UNIVAIR AIRCRAFT CORPORATION,Airplane,1.0,Reciprocating
+74065,GRUMMAN AIRCRAFT COR-SCHWEIZER,Airplane,1.0,Reciprocating
+74067,KRIPS JACK E JR,Airplane,1.0,Reciprocating
+74071,JIM BRADDOCK,Airplane,1.0,Reciprocating
+74086,MILLHOUSE D SCOTT,Airplane,1.0,Reciprocating
+74087,"COOPER, DAVID W.",Airplane,1.0,Reciprocating
+74094,WESTER/STEIGER,Airplane,1.0,Reciprocating
+74098,DURFEE FRED,Airplane,1.0,Reciprocating
+74099,CESSNA AIRCRAFT COMPANY,Airplane,2.0,Turbo Fan
+74105,HOWARD M. SHEPHERD,Airplane,1.0,Reciprocating
+74115,CLAYTON GERALD H,Airplane,1.0,Reciprocating
+74116,DAVID W OAKES,Airplane,1.0,Reciprocating
+74134,DEAN DAVID E,Airplane,1.0,Reciprocating
+74135,NASA AMES RESEARCH CENTER,Airplane,1.0,Reciprocating
+74138,WOODS RUFUS III,Airplane,1.0,Reciprocating
+74139,PHELPS,Airplane,1.0,Reciprocating
+74148,FOLLAND AIRCRAFT CO LTD,Airplane,1.0,Turbo Jet
+74160,STRIBLING,Airplane,1.0,Reciprocating
+74183,SNYDER TODD W,Airplane,1.0,Reciprocating
+74200,EMBRAER S A,Airplane,2.0,Turbo Fan
+74206,STETSON NORMAN B,Airplane,1.0,Reciprocating
+74213,COMMONWEALTH,Airplane,1.0,Reciprocating
+74220,GLOS WALLIS RICHARD JR,Airplane,1.0,Reciprocating
+74226,DOUGLAS BRIAN G,Airplane,1.0,Reciprocating
+74227,KERR MATTHEW,Airplane,1.0,Reciprocating
+74228,SUPER 18 LLC,Airplane,1.0,Reciprocating
+74235,BRYANT FREDERICK M,Airplane,1.0,Reciprocating
+74244,GRIFFITH E/BOYD W E,Airplane,1.0,Reciprocating
+74259,URBAN AIR SRO,Airplane,1.0,Reciprocating
+74261,FETTERMAN LANNY R,Airplane,1.0,Reciprocating
+74295,ROBERT GOLDING,Airplane,1.0,Reciprocating
+74298,ANDERAS,Airplane,1.0,Reciprocating
+74299,TL ULTRALIGHT,Airplane,1.0,Reciprocating
+74305,MARK C PAULS,Airplane,1.0,Reciprocating
+74319,CONSOLIDATED AERONAUTICS INC,Airplane,1.0,Reciprocating
+74343,HOSKINS SAMUEL R,Airplane,1.0,Reciprocating
+74352,HENDERSON MICHAEL E,Airplane,1.0,Reciprocating
+74357,BREEZER AIRCRAFT,Airplane,1.0,Reciprocating
+74359,CESSNA/WEAVER,Airplane,1.0,Reciprocating
+74366,MAXAIR DRIFTER,Airplane,1.0,Reciprocating
+74369,AMERICAN CHAMPION,Airplane,1.0,Reciprocating
+74388,TYLER IVES,Airplane,1.0,Reciprocating
+74391,CROWDER MICHAEL H,Airplane,1.0,Reciprocating
+74395,SCHEEL STANLEY K,Airplane,1.0,Reciprocating
+74397,BARROW,Airplane,1.0,Reciprocating
+74404,CANTRELL LW,Airplane,1.0,Reciprocating
+74407,SWEET WAYNE A,Airplane,1.0,Reciprocating
+74413,PIPER,Airplane,1.0,Unknown
+74423,SWEDENER,Airplane,1.0,Reciprocating
+74425,JOSEPH BENDER,Airplane,1.0,Reciprocating
+74427,KAMTZ,Airplane,1.0,Reciprocating
+74439,MILLER/CULPEPPER,Airplane,1.0,Reciprocating
+74460,BROWN ROBERT K,Airplane,1.0,Reciprocating
+74465,LENNOX KENNETH J,Airplane,1.0,Reciprocating
+74470,MARCONI FRED I JR,Airplane,1.0,Reciprocating
+74491,LOWERRE BRUCE T,Airplane,1.0,Reciprocating
+74495,TIMOTHY J COWPER,Airplane,1.0,Reciprocating
+74510,UNKNOWN,Airplane,1.0,Unknown
+74516,VENABLES ZENITH,Airplane,1.0,Reciprocating
+74534,KENNETH M FRANZ,Airplane,1.0,Reciprocating
+74554,SUTPHIN,Airplane,1.0,Reciprocating
+74564,BELLER,Airplane,1.0,Reciprocating
+74574,FULLER VAN L,Airplane,1.0,Reciprocating
+74578,L GOLDNER,Airplane,1.0,Reciprocating
+74582,CESSNA,Airplane,1.0,Unknown
+74589,MCDONALD HOWARD BRIAN,Airplane,1.0,Reciprocating
+74592,COLLINS,Airplane,1.0,Reciprocating
+74593,DAVENPORT,Airplane,1.0,Reciprocating
+74596,POHOSKI,Airplane,1.0,Reciprocating
+74599,CESSNA AIRCRAFT COMPANY,Airplane,1.0,Reciprocating
+74616,DENISAR RICHARD A,Airplane,1.0,Reciprocating
+74630,BAE SYSTEMS (OPERATIONS) LIMIT,Airplane,4.0,Turbo Fan
+74645,MUSICK,Airplane,1.0,Reciprocating
+74649,GLASAIR AVIATION USA LLC,Airplane,1.0,Reciprocating
+74659,YUNEEC,Airplane,1.0,Electric
+74661,TEAL HARRY H,Airplane,1.0,Reciprocating
+74667,ROVEY JASON H,Airplane,1.0,Reciprocating
+74678,CESSNA ECTOR,Airplane,1.0,Reciprocating
+74714,RICHARD S DUNCAN,Airplane,1.0,Reciprocating
+74715,FOCKE-WULF,Airplane,1.0,Reciprocating
+74727,NEW PIPER,Airplane,1.0,Reciprocating
+74738,BIESEMEIER DAVID I,Airplane,1.0,Reciprocating
+74743,SAAB,Airplane,2.0,Unknown
+74755,MOFFITT OSCAR/ KIT PROSTAR A/C,Airplane,1.0,Reciprocating
+74762,ANDERSON ANDREAS,Airplane,1.0,Reciprocating
+74764,THOMPSON WILLIAM A,Airplane,1.0,Reciprocating
+74800,CESSNA AIRCRAFT,Airplane,1.0,Unknown
+74806,RAYTHEON,Airplane,1.0,Reciprocating
+74846,PRIZIO,Airplane,1.0,Reciprocating
+74850,CLAYHOLD,Airplane,1.0,Reciprocating
+74852,FK LIGHTPLANES,Airplane,1.0,Reciprocating
+74863,CIRRUS DESIGN CORP.,Airplane,1.0,Unknown
+74871,BOEING,Airplane,2.0,Unknown
+74874,HALLENDORF TOM,Airplane,1.0,Reciprocating
+74922,WEINZIERL,Airplane,1.0,Reciprocating
+74935,GULFSTREAM AM CORP COMM DIV,Airplane,2.0,Turbo Prop
+74936,GATES LEARJET CORP.,Airplane,1.0,Turbo Fan
+74947,CRAIG C WALLS,Airplane,1.0,Reciprocating
+74954,MAHON PAUL D,Airplane,1.0,Reciprocating
+74970,FOGG,Airplane,1.0,Reciprocating
+74973,HILLAM SCOTT L,Airplane,1.0,Reciprocating
+74978,WILLIAMS CHRISTOPHER T,Airplane,1.0,Reciprocating
+74988,CESSNA AIRCRAFT,Airplane,1.0,Reciprocating
+74999,VICTOR M CORDERO,Airplane,1.0,Reciprocating
+75002,SABRENA,Airplane,1.0,Reciprocating
+75013,PARTENAVIA S.P.A.,Airplane,2.0,Reciprocating
+75020,AMATEUR BUILT AIRCRAFT,Airplane,1.0,Reciprocating
+75031,ZENAIR,Airplane,1.0,Reciprocating
+75035,ROGERS GEORGE T,Airplane,1.0,Turbo Prop
+75039,PETER W STEVENS,Airplane,1.0,Reciprocating
+75041,OLSON KENNETH H T,Airplane,1.0,Reciprocating
+75048,KURTZ JAY B,Airplane,1.0,Reciprocating
+75052,WATERS PETER T,Airplane,1.0,Reciprocating
+75057,NORMAN,Airplane,1.0,Reciprocating
+75075,BAYER OSCAR,Airplane,1.0,Reciprocating
+75087,FARACE THOMAS SCOTT,Airplane,1.0,Reciprocating
+75089,DONALD G STOKES,Airplane,1.0,Reciprocating
+75090,OLSON PERRY D,Airplane,1.0,Reciprocating
+75119,JUST AIRCRAFT LLC,Airplane,1.0,Reciprocating
+75122,WORTHINGTON DONALD WAYNE,Airplane,1.0,Reciprocating
+75129,BUCKEYE INDUSTRIES,Airplane,1.0,Unknown
+75133,ROBERT A MILLER,Airplane,1.0,Reciprocating
+75134,ROBERT J REIMBOLD,Airplane,1.0,Reciprocating
+75139,HELPLING HELEN C,Airplane,1.0,Reciprocating
+75150,FORTUNA DAVE,Airplane,1.0,Reciprocating
+75152,TERRY F KING,Airplane,1.0,Reciprocating
+75153,MONROE DENNIS,Airplane,1.0,Reciprocating
+75164,MOORE THOMAS O,Airplane,1.0,Reciprocating
+75169,PROGRESSIVE AERODYNE INC,Airplane,1.0,Reciprocating
+75174,WILLIAMS MYRON G,Airplane,1.0,Reciprocating
+75179,LARSEN,Airplane,1.0,Reciprocating
+75190,KALDOR GREGORY N,Airplane,1.0,Reciprocating
+75192,OCONNOR PAUL A,Airplane,1.0,Reciprocating
+75198,NANCHANG,Airplane,1.0,Reciprocating
+75208,BRITISH AEROSPACE,Airplane,2.0,Turbo Fan
+75217,CROW,Airplane,1.0,Reciprocating
+75231,NBB INC,Airplane,1.0,Reciprocating
+75243,GINGRAS MICHEL,Airplane,1.0,Reciprocating
+75251,ELEMDORF,Airplane,1.0,Reciprocating
+75254,BAE,Airplane,4.0,Turbo Fan
+75257,AIRPLANE FACTORY (PTY) LTD THE,Airplane,1.0,Reciprocating
+75258,COULTER HUGH CLARKE,Airplane,1.0,Reciprocating
+75279,177MF LLC,Airplane,1.0,Reciprocating
+75286,KINSLER ARTHUR PAUL,Airplane,1.0,Reciprocating
+75294,PACIFIC AEROSPACE CORP LTD,Airplane,1.0,Turbo Prop
+75295,MORRIS THOMAS LEE,Airplane,1.0,Reciprocating
+75307,PAZMANY,Airplane,1.0,Reciprocating
+75309,AMERICAN LEGEND,Airplane,2.0,Reciprocating
+75310,HOFFIUS STOWE,Airplane,1.0,Reciprocating
+75312,SAM R PEACHEY,Airplane,1.0,Reciprocating
+75329,KALMAN GEORGE,Airplane,1.0,Reciprocating
+75355,JOHN V RAWSON JR,Airplane,1.0,Reciprocating
+75357,LAURITSEN RALPH M,Airplane,1.0,Reciprocating
+75358,WONDER MICHAEL S,Airplane,1.0,Reciprocating
+75364,FAIRCHILD(HOWARD),Airplane,1.0,Reciprocating
+75370,OLSON,Airplane,1.0,Reciprocating
+75374,KENNETH A BERGER,Airplane,1.0,Reciprocating
+75378,FDR601 LLC,Airplane,1.0,Reciprocating
+75382,SIBLEY,Airplane,1.0,Reciprocating
+75388,EVOLUTION TRIKES,Airplane,1.0,Reciprocating
+75389,DIVIS S L/WALTRIP A J,Airplane,1.0,Reciprocating
+75413,UNKNOWN,Airplane,1.0,Reciprocating
+75418,BRM AERO SRO,Airplane,1.0,Reciprocating
+75420,DEHAVILLAND,Airplane,1.0,Turbo Shaft
+75425,NEBERT,Airplane,1.0,Reciprocating
+75426,FOUND ACFT CANADA INC,Airplane,1.0,Reciprocating
+75428,LANDRUM KELLY T,Airplane,1.0,Reciprocating
+75461,TEUNIS,Airplane,1.0,Reciprocating
+75469,OFFCHISS EDWARD R,Airplane,1.0,Reciprocating
+75477,HERMANN BJORN,Airplane,1.0,Turbo Prop
+75483,CRAIG W SHERMAN,Airplane,1.0,Reciprocating
+75488,BELEW MARSHALL D II,Airplane,1.0,Reciprocating
+75489,SCHRIEBER ROBERT L,Airplane,1.0,Reciprocating
+75504,ADAMS,Airplane,1.0,Reciprocating
+75508,MEYER CLAIR O,Airplane,1.0,Reciprocating
+75509,DITTENBER THOMAS J,Airplane,1.0,Reciprocating
+75519,REIMS AVIATION SA,Airplane,1.0,Reciprocating
+75520,JACKSON FRED M,Airplane,1.0,Reciprocating
+75529,KNAUF,Airplane,1.0,Reciprocating
+75533,BAILEY ROBERT,Airplane,1.0,Reciprocating
+75536,MEYER GEOFFREY A,Airplane,1.0,Reciprocating
+75560,GULFSTREAM SCHWEIZER A/C CORP,Airplane,1.0,Turbo Prop
+75562,QUICKSILVER ENTERPRISES INC,Airplane,1.0,Reciprocating
+75564,COSMOS PHASE II,Airplane,1.0,Reciprocating
+75571,TAYLOR,Airplane,1.0,Reciprocating
+75572,SIMMONS WILLIAM E,Airplane,1.0,Reciprocating
+75577,ERICK MAGNO & ASSOC PA,Airplane,1.0,Reciprocating
+75578,SCHUMACHER,Airplane,1.0,Reciprocating
+75579,BRUMWELL,Airplane,1.0,Reciprocating
+75585,ZACH VANS,Airplane,1.0,Reciprocating
+75589,BOLLINGER ROBERT L,Airplane,1.0,Reciprocating
+75593,MAZUREK KEITH P,Airplane,1.0,Reciprocating
+75617,DOYLE JAMES E,Airplane,1.0,Reciprocating
+75620,SKYRAIDER,Airplane,1.0,Reciprocating
+75636,KOLB,Airplane,1.0,Reciprocating
+75646,WILEY,Airplane,1.0,Reciprocating
+75653,SLAUGHTER MIKE,Airplane,1.0,Reciprocating
+75665,LAWSON RONALD S,Airplane,1.0,Reciprocating
+75671,ZUBAIR S KHAN,Airplane,1.0,Reciprocating
+75678,BAILEY-MOYES MICROLIGHTS,Airplane,1.0,Reciprocating
+75684,DELCONTE EMIDIO J,Airplane,1.0,Reciprocating
+75695,PEKOLA JAMES W,Airplane,1.0,Reciprocating
+75703,CULVER,Airplane,1.0,Reciprocating
+75709,MCKENZIE DOUGLAS E,Airplane,1.0,Reciprocating
+75719,DANTONIO,Airplane,1.0,Reciprocating
+75722,HOLMLUND VICTOR P,Airplane,1.0,Reciprocating
+75730,GARRAMONE MIKE A,Airplane,1.0,Reciprocating
+75754,ODEN WELDON PAT,Airplane,1.0,Reciprocating
+75761,BLACK CHRISTOPHER,Airplane,1.0,Reciprocating
+75765,BOSCO DON,Airplane,1.0,Reciprocating
+75776,SILER RONALD E,Airplane,1.0,Reciprocating
+75779,JANNAKOS GREGORY P,Airplane,1.0,Reciprocating
+75792,ROSCHER FREDERICK,Airplane,1.0,Reciprocating
+75802,FEDERSEN WALTER,Airplane,1.0,Reciprocating
+75818,RENDER,Airplane,1.0,Reciprocating
+75824,ZIMMERMAN,Airplane,1.0,Reciprocating
+75838,LARRY KETTERLING,Airplane,1.0,Reciprocating
+75847,STEVEN R MCNEESE,Airplane,1.0,Reciprocating
+75849,HANSON LONN,Airplane,1.0,Reciprocating
+75853,COTE JAMES,Airplane,1.0,Reciprocating
+75854,DAVID L THOMPSON,Airplane,1.0,Reciprocating
+75859,DAVID FITZGERALD,Airplane,1.0,Reciprocating
+75868,PHANTOM AIRCRAFT CO,Airplane,1.0,Reciprocating
+75878,KITFOX,Airplane,1.0,Reciprocating
+75881,BARGER STEVE M,Airplane,1.0,Reciprocating
+75899,JACKSON JEREMIAH D,Airplane,1.0,Reciprocating
+75930,EIPPER FORMANCE INC,Airplane,1.0,Reciprocating
+75951,TERRY W. THAYER,Airplane,1.0,Reciprocating
+75960,BECKER ELMER L,Airplane,1.0,Reciprocating
+75962,FRANKE ROLAND,Airplane,1.0,Reciprocating
+75972,THIBAULT MICHAEL L,Airplane,1.0,Reciprocating
+75973,HERDER MICHAEL,Airplane,1.0,Reciprocating
+75976,RANS AIRCRAFT,Airplane,1.0,Reciprocating
+76003,THOMAS C SIKES,Airplane,1.0,Reciprocating
+76019,TRAVEL AIR,Airplane,1.0,Reciprocating
+76024,SCHAFER RICK W,Airplane,1.0,Reciprocating
+76030,OHLGREN BRENT E,Airplane,1.0,Reciprocating
+76032,LORENZ STEPHEN,Airplane,1.0,Reciprocating
+76043,KLAAS DEVELOPMENT INC,Airplane,1.0,Reciprocating
+76044,ROSS ALFRED K/ONEILL TERRENCE,Airplane,1.0,Reciprocating
+76045,ACKLAND JEFFREY DEAN,Airplane,1.0,Reciprocating
+76046,DAVIS BENNY,Airplane,1.0,Reciprocating
+76048,MCMURRAY DAVID C,Airplane,1.0,Reciprocating
+76051,CAMPBELL,Airplane,1.0,Reciprocating
+76055,EALAND CHARLES,Airplane,1.0,Reciprocating
+76056,GALLAGER JOHN C,Airplane,1.0,Reciprocating
+76070,CISMOWSKI,Airplane,1.0,Reciprocating
+76083,NOLIN,Airplane,1.0,Reciprocating
+76094,DARNEY,Airplane,1.0,Reciprocating
+76103,LORENTZEN,Airplane,1.0,Reciprocating
+76111,STANLEY ARTHUR FREEMAN,Airplane,1.0,Reciprocating
+76129,SACCIO THOMAS A,Airplane,1.0,Reciprocating
+76145,MANWEILLER,Airplane,1.0,Reciprocating
+76150,BARGER JERRY L,Airplane,1.0,Reciprocating
+76163,MILLER GREGORY S,Airplane,1.0,Reciprocating
+76166,DIAMOND AIRCRAFT INDUSTRIES IN,Airplane,1.0,Reciprocating
+76169,LUNDAK ROBERT,Airplane,1.0,Reciprocating
+76173,WILLIAM M OPRENDEK,Airplane,1.0,Reciprocating
+76182,TIFFT,Airplane,1.0,Reciprocating
+76187,QUICKSILVER EIPPER ACFT INC,Airplane,1.0,Reciprocating
+76195,PREISS VANS,Airplane,1.0,Reciprocating
+76206,FUNK RALPH,Airplane,1.0,Reciprocating
+76208,GASTON THOMAS D,Airplane,1.0,Reciprocating
+76210,MILLER RAYMOND A,Airplane,1.0,Reciprocating
+76222,CORBEN BABY ACE,Airplane,1.0,Reciprocating
+76227,TOERNER BOB,Airplane,1.0,Reciprocating
+76229,MARSH AVIATION,Airplane,2.0,Turbo Prop
+76236,KOVARS GARY D,Airplane,1.0,Reciprocating
+76268,HUGHES AERO CORP,Airplane,1.0,Reciprocating
+76276,VIGUIE G/VIGUIE M,Airplane,1.0,Reciprocating
+76282,SONEX,Airplane,1.0,Reciprocating
+76283,INDUS AVIATION INC.,Airplane,1.0,Reciprocating
+76284,CGS AVIATION LLC,Airplane,1.0,Reciprocating
+76287,TUBERVILLE,Airplane,1.0,Reciprocating
+76304,WINSTON W WALKER,Airplane,1.0,Reciprocating
+76311,SIAI MARCHETTI,Airplane,1.0,Turbo Fan
+76328,EXTRA FLUGZEUGPRODUKTIONS-UND,Airplane,1.0,Reciprocating
+76335,"LANGSTON, FREDERICK L",Airplane,1.0,Reciprocating
+76368,WILLIAMS GLENN,Airplane,1.0,Reciprocating
+76374,BELL BILL,Airplane,1.0,Reciprocating
+76401,MCCRARY BOBBY C JR,Airplane,1.0,Reciprocating
+76407,ROSS H/HERRIOTT M,Airplane,1.0,Reciprocating
+76429,SIEGEL GERALD,Airplane,1.0,Reciprocating
+76442,STAFFORD WAYNE H,Airplane,1.0,Reciprocating
+76461,MCHOLLAND,Airplane,1.0,Reciprocating
+76468,JOHNSON DAVID EARL,Airplane,1.0,Reciprocating
+76469,THOMAS R WADE,Airplane,1.0,Reciprocating
+76471,TITAN,Airplane,1.0,Reciprocating
+76473,SAAB-SCANIA AB,Airplane,2.0,Turbo Fan
+76481,GATES LEARJET,Airplane,2.0,Turbo Jet
+76484,FERDON,Airplane,1.0,Reciprocating
+76485,BAUER THOMAS G,Airplane,1.0,Reciprocating
+76488,FARTHING JAMES W II,Airplane,1.0,Reciprocating
+76511,MDS FYING LLC,Airplane,1.0,Reciprocating
+76540,GIBBS,Airplane,1.0,Reciprocating
+76552,BRUCT J MYERS,Airplane,1.0,Reciprocating
+76558,SHANNON WILLIAM,Airplane,1.0,Reciprocating
+76564,SCHMIDT ALBERT D,Airplane,1.0,Reciprocating
+76598,ALEXANDER,Airplane,1.0,Reciprocating
+76599,PIPER AIRCRAFT CORPORATION,Airplane,2.0,Reciprocating
+76605,EAGLESTON JOHN H,Airplane,1.0,Reciprocating
+76610,SCHNEIDER RICHARD J,Airplane,1.0,Reciprocating
+76644,RICHARD LACOURSE,Airplane,1.0,Reciprocating
+76648,ROBERTSON JAMES F,Airplane,1.0,Reciprocating
+76654,EVO13 LLC,Airplane,1.0,Turbo Prop
+76669,JOHNSON JOEL H,Airplane,1.0,Reciprocating
+76684,ROSE,Airplane,1.0,Reciprocating
+76692,ZENITH ACFT CO,Airplane,1.0,Reciprocating
+76693,ARNOLD,Airplane,1.0,Reciprocating
+76695,Bombardier Canadair,Airplane,2.0,Turbo Fan
+76700,ADAMS DONALD L,Airplane,1.0,Reciprocating
+76702,COLYAER SL,Airplane,1.0,Reciprocating
+76706,CHRISTOPHER JON BROWN,Airplane,1.0,Reciprocating
+76708,GOUDIE,Airplane,1.0,Reciprocating
+76719,AHRENS GERD H,Airplane,1.0,Reciprocating
+76720,CUB CRAFTER,Airplane,1.0,Reciprocating
+76723,SCHUPP EDWARD W,Airplane,1.0,Reciprocating
+76725,HOKE BOBBY F,Airplane,1.0,Reciprocating
+76728,JONES RONALD C,Airplane,1.0,Reciprocating
+76729,JIMENEZ,Airplane,1.0,Reciprocating
+76745,BAE SYSTEMS,Airplane,1.0,Turbo Jet
+76772,LANSHE AEROSPACE,Airplane,1.0,Reciprocating
+76785,MCCURRY CHARLES P,Airplane,1.0,Reciprocating
+76791,PICARD ROY J,Airplane,1.0,Reciprocating
+76808,DAVID SHELL,Airplane,1.0,Reciprocating
+76809,SPAULDING ERROL,Airplane,1.0,Reciprocating
+76818,KERR JOHN A,Airplane,1.0,Reciprocating
+76823,MERIAN RICHARD F,Airplane,1.0,Reciprocating
+76833,AIRCRAFT MFG & DVLPMT CO,Airplane,1.0,Reciprocating
+76836,BEDECORP LLC,Airplane,1.0,Reciprocating
+76844,S C AEROSTAR S A,Airplane,1.0,Reciprocating
+76863,SHORT BROTHERS & HARLAND LTD.,Airplane,2.0,Turbo Prop
+76867,RENNICKE MIDGET MUSTA,Airplane,1.0,Reciprocating
+76872,TROM WAYNE,Airplane,1.0,Reciprocating
+76887,ROBERT C. HANSON,Airplane,1.0,Reciprocating
+76893,DASSAULT-BREGUET,Airplane,3.0,Turbo Fan
+76925,JAMES KILROY,Airplane,1.0,Reciprocating
+76945,WILLIAM D DURKEE,Airplane,1.0,Reciprocating
+76951,TITAN AEROSPACE HOLDINGS INC,Airplane,1.0,Electric
+76956,SCHMIDT DONALD L,Airplane,1.0,Reciprocating
+76957,THE BOEING COMPANY,Airplane,2.0,Turbo Fan
+76961,BUHL,Airplane,1.0,Reciprocating
+76967,WATSON DAVID E,Airplane,1.0,Reciprocating
+76975,JEROME D FISCHER,Airplane,1.0,Reciprocating
+76976,ROBERT M. JONES,Airplane,1.0,Reciprocating
+76987,BUHLMANN HOWARD,Airplane,1.0,Reciprocating
+77014,EARL ALLEN,Airplane,1.0,Reciprocating
+77017,CONSOLIDATED AERONAUTICS,Airplane,1.0,Reciprocating
+77025,ROCKWELL COMMANDER,Airplane,1.0,Reciprocating
+77030,CITABRIA,Airplane,1.0,Reciprocating
+77034,FAUNCE,Airplane,1.0,Reciprocating
+77037,AVIONS ROBIN,Airplane,1.0,Reciprocating
+77039,SMITH VILAS,Airplane,1.0,Reciprocating
+77041,WILSON MICHAEL A,Airplane,1.0,Reciprocating
+77042,BR LEGEND LLC,Airplane,1.0,Turbo Prop
+77046,LEFEVER PAUL M,Airplane,1.0,Reciprocating
+77047,ROGERS HOMER/ROGERS SHEILA,Airplane,1.0,Reciprocating
+77054,GARRATT MANSFIELD W,Airplane,1.0,Turbo Prop
+77078,DUENAS,Airplane,1.0,Reciprocating
+77081,BURR,Airplane,1.0,Turbo Prop
+77087,SMILEY JAMES E,Airplane,1.0,Reciprocating
+77098,SEA & SKY INC DBA KRUCKER ACFT,Airplane,1.0,Reciprocating
+77101,MONNETT JOHN T JR,Airplane,1.0,Reciprocating
+77119,MORSE FRANK L,Airplane,1.0,Reciprocating
+77130,BELCHER,Airplane,1.0,Reciprocating
+77134,RADDATZ STEVE,Airplane,1.0,Reciprocating
+77146,HUNZIKER,Airplane,1.0,Reciprocating
+77161,ECLIPSE AVIATION CORP,Airplane,2.0,Turbo Jet
+77176,WEATHERLY,Airplane,0.0,Reciprocating
+77182,PENELL MARK A,Airplane,1.0,Reciprocating
+77185,RAYTHEON CORPORATE JETS INC,Airplane,2.0,Turbo Fan
+77197,ROBERTS,Airplane,1.0,Reciprocating
+77208,ERVIN REX H,Airplane,1.0,Reciprocating
+77212,SHORT BROTHERS PLC,Airplane,1.0,Turbo Prop
+77231,STUHLMILLER ROBERT,Airplane,1.0,Reciprocating
+77233,RANDALL W GRANDPRE,Airplane,1.0,Reciprocating
+77236,BRYAN JERRY R,Airplane,1.0,Reciprocating
+77237,HIER JAMES A,Airplane,1.0,Reciprocating
+77244,MANISCALCO,Airplane,1.0,Reciprocating
+77253,DON W GUICE,Airplane,1.0,Reciprocating
+77256,JOHNSON GARY,Airplane,1.0,Reciprocating
+77299,COLONIAL,Airplane,1.0,Reciprocating
+77323,HAPHEY BRUCE FREDERIC,Airplane,1.0,Reciprocating
+77326,BRANDT LEROY E,Airplane,1.0,Reciprocating
+77335,BARRON,Airplane,1.0,Reciprocating
+77343,DAFOE GERALD W,Airplane,1.0,Reciprocating
+77354,DEVOE,Airplane,1.0,Reciprocating
+77357,3XTRIM,Airplane,1.0,Reciprocating
+77358,AVENTURA,Airplane,1.0,Reciprocating
+77399,CANADAIR,Airplane,2.0,Turbo Fan
+77403,KINNER,Airplane,1.0,Reciprocating
+77409,WELCH FLOYD L,Airplane,1.0,Reciprocating
+77423,SANFORD,Airplane,1.0,Reciprocating
+77437,NORTON CLAUDE C,Airplane,1.0,Reciprocating
+77446,CHRISTENSEN STEVE,Airplane,1.0,Reciprocating
+77450,EAGLE AIRCRAFT CO,Airplane,1.0,Reciprocating
+77452,EXPERIMENTAL AMAT BUILT,Airplane,1.0,Reciprocating
+77466,COMMANDER AIRCRAFT CO,Airplane,1.0,Reciprocating
+77468,HUDSON,Airplane,1.0,Reciprocating
+77474,STOL LLC,Airplane,1.0,Reciprocating
+77493,STICK & RAG FLYING CLUB,Airplane,1.0,Reciprocating
+77498,MCHUGH TONY,Airplane,1.0,Reciprocating
+77502,BOARD JAMES A,Airplane,1.0,Reciprocating
+77504,WORLD AIRCRAFT CO,Airplane,1.0,Reciprocating
+77515,AEROS LTD,Airplane,1.0,Reciprocating
+77528,WRIGHT DANIEL J,Airplane,1.0,Reciprocating
+77548,THOMAS A SIMINSKI,Airplane,1.0,Reciprocating
+77550,BARTELS,Airplane,1.0,Turbo Prop
+77557,SANDERSON HERBERT H,Airplane,1.0,Reciprocating
+77560,MCKINNEY CHARLES R,Airplane,1.0,Reciprocating
+77568,MX AIRCRAFT LLC,Airplane,1.0,Reciprocating
+77571,BURTON DENNIS W,Airplane,1.0,Reciprocating
+77575,British Aerospace Civil Aircr,Airplane,4.0,Turbo Fan
+77578,QUEST,Airplane,1.0,Turbo Prop
+77628,Weatherly Aviation Company Inc,Airplane,1.0,Reciprocating
+77637,DOVA AIRCRAFT,Airplane,1.0,Reciprocating
+77639,BARROW TED A,Airplane,1.0,Reciprocating
+77641,CORNELL W F/SAHAKIAN J A JR,Airplane,1.0,Reciprocating
+77656,FERENCE JOHN W,Airplane,1.0,Reciprocating
+77661,JOE SALOMONE,Airplane,1.0,Reciprocating
+77662,RAUDENBUSH ERNIE,Airplane,1.0,Reciprocating
+77665,COOPER MICHAEL C,Airplane,1.0,Reciprocating
+77667,HENDERSON W A/JOHNSON W L,Airplane,1.0,Reciprocating
+77686,VENUS,Airplane,1.0,Reciprocating
+77690,EASTERWOOD MARK W,Airplane,1.0,Reciprocating
+77698,VIKING (Clarke),Airplane,1.0,Reciprocating
+77700,AEROFAB INC.,Airplane,1.0,Reciprocating
+77703,BROWN MARK,Airplane,1.0,Reciprocating
+77707,Beech Aircraft Corporation,Airplane,1.0,Reciprocating
+77713,ROCCI MARTIGNONI,Airplane,1.0,Reciprocating
+77718,GLENN TIMOTHY C,Airplane,1.0,Reciprocating
+77732,J. Schilling,Airplane,1.0,Reciprocating
+77734,BOATRIGHT WAYLON,Airplane,1.0,Reciprocating
+77761,AMATEUR CONSTRUCTION,Airplane,1.0,Reciprocating
+77763,GRAVES BRYON S,Airplane,1.0,Reciprocating
+77770,Lerch,Airplane,1.0,Reciprocating
+77771,BRUNZLICK LARRY R,Airplane,1.0,Reciprocating
+77791,"PIERCE, HENRY",Airplane,1.0,Reciprocating
+77794,HOWARD AIRCRAFT,Airplane,1.0,Reciprocating
+77795,JONES RALPH D,Airplane,1.0,Reciprocating
+77811,CUBCRAFTERS,Airplane,1.0,Reciprocating
+77815,Capella Aircraft Corporation (,Airplane,1.0,Reciprocating
+77822,JOHNSON,Airplane,1.0,Reciprocating
+77834,BUSHMASTER,Airplane,1.0,Reciprocating
+77835,GROSCH,Airplane,1.0,Reciprocating
+77840,BOGLE ABSEY C,Airplane,1.0,Reciprocating
+77847,REFLING,Airplane,1.0,Reciprocating
+77874,MURRAY BLAIR L,Airplane,1.0,Reciprocating
+77877,FURGASON JAMES E,Airplane,1.0,Reciprocating
+77886,BUCKER JUNGMEISTER,Airplane,1.0,Reciprocating
+77889,GROSS MICHAEL E,Airplane,1.0,Reciprocating
+77898,Comp Air Inc. (Plambeck),Airplane,1.0,Turbo Prop
+77900,DONHAM TIMOTHY J,Airplane,1.0,Reciprocating
+77903,Zidek,Airplane,1.0,Reciprocating
+77923,MCPHERSON JOHN G,Airplane,1.0,Reciprocating
+77938,DELWYN SCHMIDT,Airplane,1.0,Reciprocating
+77946,PHILIP D ANDERSON,Airplane,1.0,Reciprocating
+77969,GLIMN,Airplane,1.0,Reciprocating
+77981,KNOX MARION L,Airplane,1.0,Reciprocating
+77992,U-FLY-IT,Airplane,1.0,Reciprocating
+78009,SWEENEY TIMOTHY J,Airplane,1.0,Reciprocating
+78015,CONSOLIDATED  AERONAUTICS INC.,Airplane,1.0,Reciprocating
+78017,WOODROW LARRY W,Airplane,1.0,Reciprocating
+78018,HICKHAM,Airplane,1.0,Reciprocating
+78039,PHANTOM AERONAUTICS,Airplane,1.0,Reciprocating
+78052,MELVIN K CALLEN,Airplane,1.0,Reciprocating
+78063,SKAGGS RONNIE LYNN,Airplane,1.0,Reciprocating
+78092,TIMOTHY C WILLIAMS,Airplane,1.0,Reciprocating
+78097,BARNETT ALLEN S,Airplane,1.0,Reciprocating
+78103,HAWKER BEECHCRAFT CORP,Airplane,2.0,Turbo Fan
+78114,MCCORKLE ROBERT B,Airplane,1.0,Reciprocating
+78116,KELM DAVID,Airplane,1.0,Reciprocating
+78118,GOLDEN CIRCLE AIR INC,Airplane,1.0,Reciprocating
+78119,MCMICHAEL ELMER L,Airplane,1.0,Reciprocating
+78121,HAWKER BEECH,Airplane,1.0,Reciprocating
+78133,HINTON PAUL M,Airplane,1.0,Reciprocating
+78135,PORRATA LUIS G,Airplane,1.0,Reciprocating
+78141,DAY WILLIAM L,Airplane,1.0,Reciprocating
+78176,KEVIN METZLER,Airplane,1.0,Reciprocating
+78178,Kai Engstad,Airplane,1.0,Reciprocating
+78179,JOHNSON GLENN L,Airplane,1.0,Reciprocating
+78193,EROS,Airplane,1.0,Reciprocating
+78200,WAYLAND JOHN H,Airplane,1.0,Reciprocating
+78211,CAUGHRAN TERRY,Airplane,1.0,Reciprocating
+78241,MCDONNELL DOUGLAS CORPORATION,Airplane,2.0,Turbo Fan
+78245,GLINES KENNETH,Airplane,1.0,Reciprocating
+78264,BROOK AARON D,Airplane,1.0,Turbo Prop
+78292,FOX AL,Airplane,1.0,Reciprocating
+78308,LOCKHEED,Airplane,4.0,Turbo Prop
+78314,CONSOLIDATED VULTEE,Airplane,1.0,Reciprocating
+78319,FOXWORTHY ROY,Airplane,1.0,Reciprocating
+78326,PINKSTON RANDY T,Airplane,1.0,Reciprocating
+78365,OHLGREN,Airplane,1.0,Reciprocating
+78377,ARIOSTO JAMES J,Airplane,1.0,Reciprocating
+78378,NORTH WING,Airplane,1.0,Reciprocating
+78393,Thomas D. Parkes,Airplane,1.0,Reciprocating
+78397,SHEAHEN DANE E,Airplane,1.0,Reciprocating
+78401,BROCKMAN WILLIAM A,Airplane,1.0,Reciprocating
+78414,NAKAJIMA,Airplane,1.0,Reciprocating
+78416,EICHHORN GARY L,Airplane,1.0,Reciprocating
+78421,BARNES THOMAS A,Airplane,1.0,Reciprocating
+78437,NICHOLSON DAVID F,Airplane,1.0,Reciprocating
+78448,"HALL, WENDALL W",Airplane,1.0,Reciprocating
+78465,PPHU EKOLOT,Airplane,1.0,Reciprocating
+78475,Cessna Skyhawk II,Airplane,1.0,Reciprocating
+78478,MATHIEU,Airplane,1.0,Reciprocating
+78480,SEWELL WILLIAM K,Airplane,1.0,Reciprocating
+78489,GILL CRAIG,Airplane,1.0,Turbo Prop
+78490,NOKES MATTHEW,Airplane,1.0,Reciprocating
+78496,LAMB-ROBIN,Airplane,1.0,Reciprocating
+78531,MONOCOUPE,Airplane,1.0,Reciprocating
+78557,GARY A JAMIESON,Airplane,1.0,Reciprocating
+78573,CESSNA Aircraft,Airplane,1.0,Reciprocating
+78580,JIM RIGGS,Airplane,1.0,Reciprocating
+78582,LOGAN JERRY L,Airplane,1.0,Reciprocating
+78584,RYSKAMP BRUCE A,Airplane,1.0,Reciprocating
+78586,PROBST,Airplane,1.0,Reciprocating
+78621,MAHER DANIEL J,Airplane,1.0,Reciprocating
+78646,ANTONOV,Airplane,1.0,Reciprocating
+78679,Seguin,Airplane,2.0,Turbo Jet
+78685,JEWETT BRANDON,Airplane,1.0,Reciprocating
+78691,GREG CONNELL,Airplane,1.0,Reciprocating
+78712,VAN B ANTHONY,Airplane,1.0,Reciprocating
+78714,PIPER AIRCRAFT,Airplane,1.0,Reciprocating
+78715,"Piper Aircraft, Inc.",Airplane,1.0,Reciprocating
+78727,WACO CLASSIC AIRCRAFT CORP,Airplane,1.0,Reciprocating
+78734,JOHN STEVEN CATURIA,Airplane,1.0,Reciprocating
+78750,JIHLAVAN AIRPLANES SRO,Airplane,1.0,Reciprocating
+78758,HOWELL BOB,Airplane,1.0,Reciprocating
+78766,MOORE JOSEPH O,Airplane,1.0,Reciprocating
+78772,Harry Oas,Airplane,1.0,Reciprocating
+78773,RAINBOW SKY REACH (PTY) LTD,Airplane,1.0,Reciprocating
+78778,CRIQUET AVIATION BOGOTA COLUMB,Airplane,1.0,Reciprocating
+78781,G ELWIN HALVORSEN,Airplane,1.0,Reciprocating
+78783,KOONS DONALD H,Airplane,1.0,Reciprocating
+78795,SMITH Capella,Airplane,1.0,Reciprocating
+78796,STAUDACHER AIRCRAFT INC,Airplane,1.0,Reciprocating
+78819,FLOHR DAVID J,Airplane,1.0,Reciprocating
+78820,PRUSS RICHARD S,Airplane,1.0,Reciprocating
+78822,BILLY AMERSON,Airplane,1.0,Reciprocating
+78832,SEELA GERALD L,Airplane,1.0,Reciprocating
+78834,MINI MAX,Airplane,1.0,Reciprocating
+78844,BAREISS DAVID A,Airplane,1.0,Reciprocating
+78851,HANSON ROBERT H,Airplane,1.0,Reciprocating
+78907,MARKS STEVEN,Airplane,1.0,Reciprocating
+78911,GLAESER,Airplane,1.0,Reciprocating
+78926,SWEARINGEN,Airplane,2.0,Turbo Jet
+78931,BURKES,Airplane,1.0,Reciprocating
+78948,HUBBARD WILLIAM H,Airplane,1.0,Reciprocating
+78953,BENJAMIN HAROLD E,Airplane,1.0,Reciprocating
+78978,FACEBOOK UK LTD,Airplane,4.0,Electric
+79018,GERDTS MARK E,Airplane,1.0,Reciprocating
+79020,POLLACK,Airplane,1.0,Reciprocating
+79022,BOEVE EARL,Airplane,1.0,Reciprocating
+79023,BERT N Norris,Airplane,1.0,Reciprocating
+79025,Rainbow Sky Reach,Airplane,1.0,Reciprocating
+79032,AVIONS MUDRY ET CIE,Airplane,1.0,Reciprocating
+79035,BOYD KENNETH C,Airplane,1.0,Reciprocating
+79037,HARRITY WILLIAM V,Airplane,1.0,Reciprocating
+79053,MORMILE FRANCIS W,Airplane,1.0,Reciprocating
+79056,ALONSO,Airplane,1.0,Reciprocating
+79066,CANADIAN CAR & FOUNDRY,Airplane,1.0,Reciprocating
+79076,SORENSEN DANNY,Airplane,1.0,Reciprocating
+79081,JESSE SAINT/TROY TOWNSEND/ETHA,Airplane,1.0,Reciprocating
+79083,GONZALEZ MANUEL A,Airplane,1.0,Reciprocating
+79091,HIRN ASSOCIATES LTD,Airplane,1.0,Reciprocating
+79097,GERALD NELSON,Airplane,1.0,Reciprocating
+79103,BRANDT,Airplane,1.0,Reciprocating
+79105,CHANCE VOUGHT,Airplane,1.0,Reciprocating
+79108,KIRBYBILT AIRCRAFT,Airplane,1.0,Reciprocating
+79115,HARRIS-RUNYAN,Airplane,1.0,Reciprocating
+79126,SWARTZ GENE,Airplane,1.0,Reciprocating
+79127,TEMPLE BENJAMIN,Airplane,1.0,Reciprocating
+79128,FRANK WARE,Airplane,1.0,Reciprocating
+79134,BRISTELL,Airplane,1.0,Reciprocating
+79136,CRAIG D CARTER,Airplane,1.0,Reciprocating
+79153,OLMSTED CHARLES A,Airplane,1.0,Reciprocating
+79159,CANADIAN LIGHT ACFT SALES &SVC,Airplane,1.0,Reciprocating
+79168,BOAM LARRY,Airplane,1.0,Reciprocating
+79171,S C AEROSTAR S .A.,Airplane,1.0,Reciprocating
+79181,SPERLING RICHARD G,Airplane,1.0,Reciprocating
+79195,WINGS AN THINGS INC,Airplane,1.0,Reciprocating
+79199,SONEX LIMITED,Airplane,1.0,Reciprocating
+79201,HOLLEY CAROL L,Airplane,1.0,Reciprocating
+79209,GILCHRIST,Airplane,1.0,Reciprocating
+79210,SHAFFER DONALD,Airplane,1.0,Reciprocating
+79211,LIMING LOUIS L,Airplane,1.0,Reciprocating
+79223,WILSON,Airplane,2.0,Reciprocating
+79243,BRIAN TURNER,Airplane,1.0,Reciprocating
+79245,SCHABACKER KONRAD J,Airplane,1.0,Reciprocating
+79262,KESSINGER ROGER L,Airplane,1.0,Reciprocating
+79271,WIGHT,Airplane,1.0,Reciprocating
+79286,VALLORIC CARL STEPHEN,Airplane,1.0,Reciprocating
+79298,MANTELL ALLAN T,Airplane,1.0,Reciprocating
+79302,P Z L -WARSZAWA-CNPSL,Airplane,1.0,Reciprocating
+79311,SIMMONS NOEL,Airplane,1.0,Reciprocating
+79312,HEBERLEIN RONALD,Airplane,1.0,Reciprocating
+79319,ARION SKYS OPEN SPORT AVIATION,Airplane,1.0,Reciprocating
+79327,YAKOVLEV/CHINNERY,Airplane,1.0,Reciprocating
+79370,AVES DOUGLAS JAMES,Airplane,1.0,Reciprocating
+79378,CGS AVIATION,Airplane,1.0,Reciprocating
+79381,DORMAIER MONTE R,Airplane,1.0,Reciprocating
+79382,STROPKI PAUL,Airplane,1.0,Reciprocating
+79386,Stanton,Airplane,1.0,Reciprocating
+79406,Cessna Aircraft Company,Airplane,1.0,Reciprocating
+79415,QUICKSILVER MANUFACTURING INC,Airplane,1.0,Reciprocating
+79418,VAN HOOMISSEN GERALD J,Airplane,1.0,Reciprocating
+79423,MCCLUSKEY,Airplane,1.0,Reciprocating
+79427,HEFTY,Airplane,1.0,Reciprocating
+79430,DIETERICH ROBERT A,Airplane,2.0,Unknown
+79456,JEFFERY D TUTTLE,Airplane,1.0,Reciprocating
+79457,AIRTIME AIRCRAFT INC,Airplane,1.0,Reciprocating
+79463,DEHAVILLAND,Airplane,1.0,Turbo Fan
+79466,OGG RICHARD A,Airplane,1.0,Reciprocating
+79476,JURCAN,Airplane,1.0,Reciprocating
+79477,Tatelman-Pitts,Airplane,1.0,Reciprocating
+79499,PAHNKE VERNON A,Airplane,1.0,Reciprocating
+79516,BRM AERO,Airplane,1.0,Reciprocating
+79543,DRAKE,Airplane,1.0,Reciprocating
+79547,AERO SMART SOLUTIONS INC,Airplane,1.0,Turbo Prop
+79554,ANDREW HAROLD,Airplane,1.0,Reciprocating
+79555,VOLAIRCRAFT,Airplane,1.0,Reciprocating
+79561,FOKKER,Airplane,1.0,Reciprocating
+79562,AIRPLANE FACTORY (PTY) LTD,Airplane,1.0,Reciprocating
+79568,CHAUDOIN GEORGE S,Airplane,1.0,Reciprocating
+79571,FULLER NEIL H,Airplane,1.0,Reciprocating
+79578,James Bruton,Airplane,1.0,Reciprocating
+79586,ALGIMANTAS JONUSAS,Airplane,1.0,Reciprocating
+79588,ROBINSON STEWART J,Airplane,1.0,Reciprocating
+79589,Milholland,Airplane,1.0,Reciprocating
+79595,MELBORN JOE B,Airplane,1.0,Reciprocating
+79598,ALLEN ROBERT,Airplane,1.0,Reciprocating
+79602,MICKLER LARRY J,Airplane,1.0,Reciprocating
+79606,NEWKIRK THOMAS RAY,Airplane,1.0,Reciprocating
+79615,HATCHER RODERICK R,Airplane,1.0,Reciprocating
+79623,MAKELA,Airplane,1.0,Reciprocating
+79634,AEROFAB INC,Airplane,1.0,Reciprocating
+79653,NORTHLAND AVIATION LLC,Airplane,1.0,Reciprocating
+79661,RYAN W Gross,Airplane,1.0,Reciprocating
+79696,HADDOW WILLIAM H,Airplane,1.0,Reciprocating
+79713,HARING CLAY,Airplane,1.0,Reciprocating
+79715,STAMPER,Airplane,1.0,Reciprocating
+79722,JOHNSON KENNETH R,Airplane,1.0,Reciprocating
+79743,CARTER RICHARD L,Airplane,1.0,Reciprocating
+79763,LOOFBOURROW JOHN W,Airplane,2.0,Reciprocating
+79766,CURTISS,Airplane,1.0,Reciprocating
+79774,NORTHWING,Airplane,1.0,Reciprocating
+79783,BROUSSARD,Airplane,1.0,Reciprocating
+79790,HUNDLEY MICHAEL J,Airplane,1.0,Reciprocating
+79801,AIRBORNE EXTREME LLC,Airplane,1.0,Reciprocating
+79802,Boeing Commercial Airplane Gro,Airplane,2.0,Turbo Fan
+79819,JACK FEHLING,Airplane,1.0,Reciprocating
+79822,HOSKINS LONNIE F,Airplane,1.0,Reciprocating
+79841,NEIVA,Airplane,1.0,Reciprocating
+79843,SCHAUER WILLIAM A JR,Airplane,1.0,Reciprocating
+79844,AIRCRAFT MFG & DESIGN LLC,Airplane,1.0,Reciprocating
+79845,MATHIAS LINDA B,Airplane,1.0,Reciprocating
+79885,LUECK,Airplane,1.0,Reciprocating
+79893,MEAD,Airplane,1.0,Reciprocating
+79894,INDEPENDENT TECHNOLOGIES INC,Airplane,1.0,Turbo Prop
+79912,GOSSELIN CHARLES,Airplane,1.0,Reciprocating
+79915,LARSON ROGER H,Airplane,1.0,Reciprocating
+79918,SOFTEX INVEST LLC,Airplane,2.0,Reciprocating
+79920,SCHOSANSKI JOHN H,Airplane,1.0,Reciprocating
+79923,Demmer,Airplane,1.0,Reciprocating
+79944,FIELDS,Airplane,1.0,Reciprocating
+79949,SHARPE WILLIAM L,Airplane,1.0,Reciprocating
+79960,TEXTRON AVIATION INC,Airplane,2.0,Turbo Fan
+79964,AIR TRACTOR INC,Airplane,1.0,Turbo Fan
+80000,VAUGHAN GERALD R,Airplane,1.0,Reciprocating
+80009,COOK,Airplane,1.0,Reciprocating
+80013,ROBINSON MICHAEL E,Airplane,1.0,Reciprocating
+80026,SHELL JOHN,Airplane,1.0,Reciprocating
+80045,NIELSEN MARTIN M,Airplane,1.0,Reciprocating
+80052,BOMBARDIER INC,Airplane,1.0,Turbo Prop
+80070,PITTS SPECIAL,Airplane,1.0,Reciprocating
+80081,MACLEOD,Airplane,1.0,Reciprocating
+80095,STUMP GREAT LAKES,Airplane,1.0,Reciprocating
+80108,GUARINO,Airplane,1.0,Reciprocating
+80124,LAVENDER ALAN P,Airplane,1.0,Reciprocating
+80132,Smith Douglas J.,Airplane,1.0,Reciprocating
+80143,JUDE MIKE C,Airplane,1.0,Reciprocating
+80156,JORDAN BRUCE C,Airplane,1.0,Reciprocating
+80158,GROB AIRCRAFT AG,Airplane,1.0,Turbo Prop
+80160,PEDERSEN BJARNE MARTIN,Airplane,1.0,Reciprocating
+80162,JOHNSON JERRY,Airplane,1.0,Reciprocating
+80167,CHALLENGER,Airplane,1.0,Reciprocating
+80203,John Goodman,Airplane,1.0,Reciprocating
+80206,MAXCY CHRISTOPHER L,Airplane,1.0,Reciprocating
+80217,DEMPSEY DANIEL M,Airplane,1.0,Reciprocating
+80232,THOMAS CRAIG E,Airplane,1.0,Reciprocating
+80241,OTT,Airplane,1.0,Reciprocating
+80242,PIPER AIRCRAFT,Airplane,2.0,Turbo Prop
+80244,ICON AIRCRAFT INC,Airplane,1.0,Reciprocating
+80245,RONALD J BENDER,Airplane,1.0,Reciprocating
+80253,Aero Adventure,Airplane,1.0,Reciprocating
+80256,FUNK,Airplane,1.0,Reciprocating
+80264,SHILT JERRY C,Airplane,1.0,Reciprocating
+80284,LAZEAR JOHN T,Airplane,1.0,Reciprocating
+80300,ZEILER,Airplane,1.0,Reciprocating
+80310,CHEUNG DAVID S,Airplane,1.0,Reciprocating
+80311,GRUMMAN SCHWEIZER,Airplane,1.0,Reciprocating
+80331,GANJOO AMIT,Airplane,1.0,Reciprocating
+80333,APPLEBY,Airplane,1.0,Reciprocating
+80342,THOMAS B MCGRATH,Airplane,1.0,Reciprocating
+80358,Socata-Groupe Aerospatiale,Airplane,1.0,Reciprocating
+80361,ZWICKER MURRAY R,Airplane,1.0,Reciprocating
+80380,NELSON SYDNEY,Airplane,1.0,Reciprocating
+80386,Hy-Tek,Airplane,1.0,Reciprocating
+80392,ROBERT E BOUNDS,Airplane,1.0,Reciprocating
+80394,ADRIAN GEORGE W,Airplane,1.0,Reciprocating
+80400,JOHNSON KENNETH,Airplane,1.0,Reciprocating
+80403,JOHN MURPHY,Airplane,1.0,Turbo Jet
+80418,REUPERT MARK,Airplane,1.0,Reciprocating
+80426,BROKAW BERGON F,Airplane,1.0,Reciprocating
+80428,JOHNSON KENNETH W,Airplane,1.0,Reciprocating
+80431,REIMS,Airplane,1.0,Reciprocating
+80446,WEAVER STANLEY R/ROBINSON SCOT,Airplane,1.0,Reciprocating
+80450,EVOLUTION AIR LLC,Airplane,1.0,Turbo Prop
+80452,AYRES,Airplane,1.0,Reciprocating
+80458,CGS,Airplane,1.0,Reciprocating
+80472,EXTRA FLUGZEUGBAU,Airplane,1.0,Reciprocating
+80479,THOMAS E HUDZINSKI,Airplane,1.0,Reciprocating
+80507,AMSTUTZ CURTIS J,Airplane,1.0,Reciprocating
+80511,ARCTIC AIRCRAFT CO INC,Airplane,1.0,Reciprocating
+80514,AVIONS MUDRY CIE,Airplane,1.0,Reciprocating
+80521,JESS LLC,Airplane,1.0,Reciprocating
+80524,ERNEST T CHRISTLEY,Airplane,1.0,Reciprocating
+80527,CESSNA AIRCRAFT COMPANY,Airplane,2.0,Turbo Prop
+80529,TAPPEN CHRIS,Airplane,1.0,Reciprocating
+80530,REIMS AVIATION S.A.,Airplane,1.0,Reciprocating
+80538,SCHRODER DAVID,Airplane,1.0,Reciprocating
+80541,MALINOWSKI WALTER S,Airplane,1.0,Reciprocating
+80542,MAGNAGHI AERONAUTICA SPA,Airplane,1.0,Reciprocating
+80547,Michael S. Logan,Airplane,1.0,Reciprocating
+80554,PAUL R SEIPT,Airplane,1.0,Reciprocating
+80563,Bob Frederick,Airplane,1.0,Reciprocating
+80570,LEVY ADAM V,Airplane,1.0,Reciprocating
+80573,AG-CAT CORPORATION,Airplane,1.0,Turbo Prop
+80579,MCKENNA,Airplane,1.0,Reciprocating
+80631,PRESCOT E. WILKIE,Airplane,1.0,Reciprocating
+80635,WARD CHRISTOPHER BARRY,Airplane,1.0,Reciprocating
+80673,AERO-ACE,Airplane,1.0,Reciprocating
+80692,URBANCZYK MIROSLAW,Airplane,1.0,Reciprocating
+80694,Nunley,Airplane,1.0,Reciprocating
+80714,SLIP STREAM,Airplane,1.0,Reciprocating
+80716,LAWRENCE O NOLTE,Airplane,1.0,Reciprocating
+80719,CODY HAWKINS,Airplane,1.0,Reciprocating
+80774,RITTER JOHN I,Airplane,1.0,Reciprocating
+80784,CHICCO MIGUEL E,Airplane,1.0,Reciprocating
+80797,CHARLES J NORRIS,Airplane,1.0,Reciprocating
+80806,GERALD DONOVAN,Airplane,1.0,Reciprocating
+80819,JANSEN,Airplane,1.0,Reciprocating
+80824,SIMMONS GARY F,Airplane,1.0,Reciprocating
+80831,Endler Glasair/Glasair 1-TD,Airplane,1.0,Reciprocating
+80833,SPANI WAYNE M,Airplane,1.0,Reciprocating
+80837,PERNER/PITTS,Airplane,1.0,Reciprocating
+80841,AEROPRAKT,Airplane,1.0,Reciprocating
+80842,Evolution 19,Airplane,1.0,Turbo Prop
+80847,GOLDEN CIRCLE AIR,Airplane,1.0,Reciprocating
+80850,SALERNO KENNETH G JR,Airplane,1.0,Reciprocating
+80858,Piper Aircraft Corporation,Airplane,1.0,Reciprocating
+80860,MICHAEL DEAN GRISSOM,Airplane,1.0,Reciprocating
+80866,CIRRUS DESIGN,Airplane,1.0,Reciprocating
+80882,APPLEGATE,Airplane,1.0,Reciprocating
+80884,KUBASSEK DAVID,Airplane,1.0,Reciprocating
+80888,RADFORD DARREL F,Airplane,1.0,Reciprocating
+80889,GILBERT THOMAS JEFFREY,Airplane,1.0,Reciprocating
+80897,MITCHELL DERRYLE V,Airplane,1.0,Reciprocating
+80904,BRITISH AIRCRAFT CORP.,Airplane,1.0,Turbo Jet
+80912,HILLARD CHARLIE R,Airplane,1.0,Reciprocating
+80924,MCINTOSH DONALD W,Airplane,1.0,Reciprocating
+80930,THOMAS J HANKAMP,Airplane,1.0,Reciprocating
+80932,RANDALL MARVIN L,Airplane,1.0,Reciprocating
+80948,JAMES D RIGGS,Airplane,1.0,Reciprocating
+80950,STEELE,Airplane,1.0,Reciprocating
+80953,MENZIMER GARY RAY,Airplane,1.0,Reciprocating
+80957,CHAPMAN,Airplane,1.0,Reciprocating
+80981,Michaelian,Airplane,1.0,Turbo Prop
+81005,ROGER M ALLEN,Airplane,1.0,Reciprocating
+81006,KING JOHN E JR,Airplane,1.0,Reciprocating
+81011,ROSE HERBERT D,Airplane,1.0,Reciprocating
+81020,CONSTRUCCIONES AERONAUTICAS SA,Airplane,1.0,Reciprocating
+81031,CHARLES D WALKER,Airplane,1.0,Reciprocating
+81046,BRADLEY RODERICK W,Airplane,1.0,Reciprocating
+81054,AEROTECHNIK,Airplane,1.0,Reciprocating
+81055,BOYD BRUCE,Airplane,1.0,Reciprocating
+81057,THRUSH,Airplane,1.0,Turbo Prop
+81069,MIke Reed,Airplane,1.0,Reciprocating
+81090,HAWKER SIDDELEY,Airplane,1.0,Turbo Jet
+81095,GREENE R/GREENE S,Airplane,1.0,Reciprocating
+81098,HOSTEIN K/HOSTEIN S,Airplane,1.0,Reciprocating
+81109,JAMES M RAULERSON,Airplane,1.0,Reciprocating
+81118,PAUL GAYWOOD E,Airplane,1.0,Reciprocating
+81131,PACIFIC AEROSPACE LTD,Airplane,1.0,Turbo Prop
+81140,HUNTER GEORGE,Airplane,1.0,Reciprocating
+81148,KERR GERALD,Airplane,1.0,Reciprocating
+81152,WALKER EDGAR E,Airplane,1.0,Reciprocating
+81156,CROFT ROBERT C,Airplane,1.0,Reciprocating
+81170,JEFF JARDINE,Airplane,1.0,Reciprocating
+81175,COBALT AIRCRAFT INDUSTRIES INC,Airplane,1.0,Reciprocating
+81179,RUDDER DWIGHT K,Airplane,1.0,Reciprocating
+81186,CHANCEY GERRY M,Airplane,1.0,Reciprocating
+81197,SHINER,Airplane,1.0,Reciprocating
+81201,RANS INC,Airplane,1.0,Reciprocating
+81223,MILLER STEVEN M,Airplane,1.0,Reciprocating
+81228,PARKS RICHARD A,Airplane,1.0,Reciprocating
+81229,AIRMAX CONSTRUCOES AERONAUTICA,Airplane,1.0,Reciprocating
+81246,RUDBERG TODD W,Airplane,1.0,Reciprocating
+81251,Trudel,Airplane,1.0,Reciprocating
+81266,THOMAS J MURRAY,Airplane,1.0,Reciprocating
+81269,HENCKEN WILLIAM,Airplane,1.0,Reciprocating
+81282,MCMILLAN JOEL L,Airplane,1.0,Reciprocating
+81284,BUSCHMANN/VANZEE,Airplane,1.0,Reciprocating
+81286,EMERSON,Airplane,1.0,Reciprocating
+81290,Eris E. Ervin,Airplane,1.0,Reciprocating
+81294,BELLET JAMES J,Airplane,1.0,Reciprocating
+81333,FREEMAN HERITAGE COLLECTION,Airplane,1.0,Reciprocating
+81339,BRYANT C CROSBY,Airplane,1.0,Reciprocating
+81350,BOROM MARCUS P,Airplane,1.0,Reciprocating
+81354,Aero Vodochody,Airplane,1.0,Turbo Fan
+81362,BEECH AIRCRAFT,Airplane,1.0,Reciprocating
+81363,FLEETWOOD JACK,Airplane,1.0,Reciprocating
+81370,RUSSELL E OBERG,Airplane,1.0,Reciprocating
+81379,HIMSL VINCENT S,Airplane,1.0,Reciprocating
+81383,BARBER WARREN D,Airplane,1.0,Reciprocating
+81387,AVID,Airplane,1.0,Reciprocating
+81396,THOMAS G PARKHURST,Airplane,1.0,Reciprocating
+81397,Peterson Lancair,Airplane,1.0,Reciprocating
+81400,STAUDACHER JON,Airplane,1.0,Reciprocating
+81402,Flugzeugproduktions-und Vertri,Airplane,1.0,Reciprocating
+81433,STILL MICHAEL J,Airplane,1.0,Reciprocating
+81440,METCALFE ROBERT B,Airplane,1.0,Reciprocating
+81449,MAURER ELMO A,Airplane,1.0,Reciprocating
+81454,RIGGS KENNETH W,Airplane,1.0,Reciprocating
+81466,BRITISH AEROSPACE,Airplane,4.0,Turbo Fan
+81479,CLOUD JEFFREY FERRELL,Airplane,1.0,Reciprocating
+81486,TEXTRON AVIATION INC,Airplane,1.0,Reciprocating
+81532,BUEHLMANN PETER,Airplane,1.0,Reciprocating
+81536,KARPAYEV VLADYSLAV V,Airplane,1.0,Reciprocating
+81537,DOSHIER WILBERT A,Airplane,1.0,Reciprocating
+81545,PIPER / LAUDEMAN,Airplane,1.0,Reciprocating
+81550,MOTLEY GARY W,Airplane,1.0,Reciprocating
+81566,TODD FOLEY,Airplane,1.0,Reciprocating
+81570,WEAVER DAVID A,Airplane,1.0,Reciprocating
+81599,JONES KENT C,Airplane,1.0,Reciprocating
+81601,MICHAEL ADAMCZYK,Airplane,1.0,Reciprocating
+81602,Czech Sport Aircraft a.s.,Airplane,1.0,Reciprocating
+81609,MCDONNELL DOUGLAS AIRCRAFT CO,Airplane,2.0,Turbo Jet
+81610,CORBEIL SHAWN,Airplane,1.0,Reciprocating
+81615,AIR TRACTOR,Airplane,1.0,Unknown
+81639,Piaggio,Airplane,2.0,Turbo Prop
+81649,BROWNING GREGORY S,Airplane,1.0,Reciprocating
+81655,KELLEY DERRICK/LEZA,Airplane,2.0,Reciprocating
+81656,X-AIR LLC,Airplane,1.0,Reciprocating
+81665,BOMBARDIER INC,Airplane,2.0,Turbo Jet
+81685,BARNES STEVEN D,Airplane,1.0,Reciprocating
+81706,Just,Airplane,1.0,Reciprocating
+81713,HARROP BLAKE,Airplane,1.0,Reciprocating
+81715,GELDERMANN BERT E,Airplane,1.0,Reciprocating
+81718,BRYK STEVEN L,Airplane,1.0,Reciprocating
+81733,MATHENY LARRY E,Airplane,1.0,Reciprocating
+81742,SKWIRA MATTHEW J,Airplane,1.0,Reciprocating
+81745,QUARTZ MOUNTAIN AEROSPACE,Airplane,1.0,Reciprocating
+81778,Reims Aviation,Airplane,1.0,Reciprocating
+81788,GREGORY NEWMAN,Airplane,1.0,Reciprocating
+81789,SOMERTON DAVID J,Airplane,1.0,Reciprocating
+81802,HENDERSON,Airplane,1.0,Reciprocating
+81807,BAKER VICTOR R,Airplane,1.0,Reciprocating
+81814,SHANKS V ROGER,Airplane,1.0,Reciprocating
+81815,OLIVER LAWRENCE R,Airplane,1.0,Reciprocating
+81816,HASTINGS THOMAS G,Airplane,1.0,Reciprocating
+81853,SOKO,Airplane,1.0,Turbo Jet
+81873,CIRRUS DESIGN CORP,Airplane,1.0,Turbo Fan
+81901,REILLY CHARLES W,Airplane,1.0,Reciprocating
+81911,Bereznak,Airplane,1.0,Reciprocating
+81925,JOHNSON GERALD,Airplane,1.0,Reciprocating
+81947,BESARICK,Airplane,1.0,Reciprocating
+81954,PFLUGRADT,Airplane,1.0,Reciprocating
+81965,FLIGHTWORKS CORP,Airplane,1.0,Reciprocating
+81968,FAIRCHILD FUNK,Airplane,1.0,Reciprocating
+81977,ANDERSON DARRELL L,Airplane,1.0,Reciprocating
+81982,STANLEY,Airplane,1.0,Reciprocating
+81985,Terry G. Olson,Airplane,1.0,Reciprocating
+81997,AMES ANGIER M,Airplane,1.0,Reciprocating
+81999,Ragle,Airplane,1.0,Reciprocating
+82016,SASSER ALLEN L,Airplane,1.0,Reciprocating
+82017,CARR B L,Airplane,1.0,Reciprocating
+82043,TEXTRON AVIATION INC,Airplane,2.0,Reciprocating
+82044,PAGE RUSSELL L,Airplane,1.0,Reciprocating
+82050,WITTMAN,Airplane,1.0,Reciprocating
+82058,BORDIUK,Airplane,1.0,Reciprocating
+82062,STONE JAMES R,Airplane,1.0,Reciprocating
+82067,WILHELM,Airplane,1.0,Reciprocating
+82086,Eipper,Airplane,1.0,Reciprocating
+82090,KEN OLSON,Airplane,1.0,Reciprocating
+82091,IRVIN STEPHEN D,Airplane,1.0,Reciprocating
+82097,BROWN JOSEPH,Airplane,1.0,Reciprocating
+82110,WOLFE,Airplane,1.0,Reciprocating
+82112,L-BIRD LLC,Airplane,1.0,Reciprocating
+82126,SENO LOUIS C SR,Airplane,1.0,Reciprocating
+82145,AMERICAN AIR RACING LTD,Airplane,1.0,Reciprocating
+82152,LAMINAR,Airplane,1.0,Reciprocating
+82155,Beech,Airplane,2.0,Turbo Fan
+82156,BERGER BERNARD M,Airplane,1.0,Reciprocating
+82168,BELAIR,Airplane,1.0,Reciprocating
+82173,CREECH JERRY,Airplane,1.0,Reciprocating
+82194,DIVEN ROBERT,Airplane,1.0,Reciprocating
+82201,JETSON'S AVIATION LLC,Airplane,2.0,Reciprocating
+82208,WITTMAN D R/WITTMAN D M,Airplane,1.0,Reciprocating
+82209,AEROPRO CZ S R O,Airplane,1.0,Reciprocating
+82236,PEET CHARLES,Airplane,1.0,Reciprocating
+82237,Roger G White,Airplane,1.0,Reciprocating
+82257,"Davidson, Ronald A.",Airplane,1.0,Reciprocating
+82270,Reims,Airplane,1.0,Reciprocating
+82272,James Donald Baker,Airplane,1.0,Reciprocating
+82279,GARCIA BENIGNO,Airplane,1.0,Reciprocating
+82280,JAMES WIEBE,Airplane,1.0,Reciprocating
+82293,MORRISON MARVIN E JR,Airplane,1.0,Reciprocating
+82304,ELDRIDGE GEORGE,Airplane,1.0,Reciprocating
+82305,LITE FLIGHT,Airplane,1.0,Reciprocating
+82316,JIM GREEN,Airplane,1.0,Reciprocating
+82320,IRLBECK THOMAS H,Airplane,1.0,Reciprocating
+82336,SORENSEN DANNY S,Airplane,1.0,Reciprocating
+82353,MASON HAL J,Airplane,1.0,Reciprocating
+82354,GIPPSAERO PTY LTD,Airplane,1.0,Turbo Prop
+82368,DOBBS GEORGE,Airplane,1.0,Reciprocating
+82371,BRYAN C L/LABRASH R D,Airplane,1.0,Reciprocating
+82404,DAN JELINEK,Airplane,1.0,Reciprocating
+82437,RGJ AVIATION LLC,Airplane,2.0,Reciprocating
+82466,CRAIG A REED,Airplane,1.0,Reciprocating
+82501,CRAWFORD,Airplane,1.0,Reciprocating
+82551,Travel Air,Airplane,1.0,Reciprocating
+82573,ROBERT MILES,Airplane,1.0,Reciprocating
+82577,Swearingen,Airplane,1.0,Reciprocating
+82595,Best Off,Airplane,1.0,Reciprocating
+82620,GLASAIR,Airplane,1.0,Reciprocating
+82628,RUTAN,Airplane,2.0,Reciprocating
+82632,WHITTMAN,Airplane,1.0,Reciprocating
+82663,Curtiss Wright,Airplane,2.0,Reciprocating
+82681,APOLLO AIRCRAFT INC,Airplane,1.0,Reciprocating
+82688,Toomey,Airplane,1.0,Reciprocating
+82696,De Havilland,Airplane,1.0,Turbo Jet
+82697,WAYNE D. TEEL,Airplane,1.0,Reciprocating
+82771,Extra,Airplane,1.0,Reciprocating
+82784,HERZOG AVIATION,Airplane,1.0,Reciprocating
+82785,BUCHANAN,Airplane,1.0,Reciprocating
+82833,WALTER C SMYTHE,Airplane,1.0,Reciprocating
+82850,DELL LAWRENCE,Airplane,1.0,Reciprocating
+82862,Qac,Airplane,1.0,Reciprocating
+82865,Gulfstream,Airplane,2.0,Turbo Fan
+82866,Bushby,Airplane,1.0,Reciprocating
+82930,Blue Oak LLC.,Airplane,1.0,Reciprocating
+82931,James E Causey,Airplane,1.0,Reciprocating
+82979,Stoddard Hamilton,Airplane,1.0,Reciprocating
+83001,Avid,Airplane,1.0,Reciprocating
+83014,Aero Designs,Airplane,1.0,Reciprocating
+83016,LANCE M HOOLEY,Airplane,1.0,Turbo Jet
+83022,Eggleston Daniel,Airplane,1.0,Reciprocating
+83069,Commander,Airplane,1.0,Reciprocating
+83091,HALLADAY ROY,Airplane,1.0,Turbo Jet
+83093,HIMMEROEDER HANSGEORG,Airplane,1.0,Reciprocating
+83104,Edward R. Sugg,Airplane,1.0,Reciprocating
+83117,COLUMBIA AIRCRAFT Mfg,Airplane,1.0,Reciprocating
+83153,CIRRUS,Airplane,1.0,Turbo Jet
+83188,RAYMON A. KING,Airplane,1.0,Reciprocating
+83189,Howard,Airplane,1.0,Reciprocating
+83238,Titan,Airplane,1.0,Reciprocating
+83239,BEARDEN BIPLANE,Airplane,1.0,Reciprocating
+83263,RIchard Silva,Airplane,1.0,Reciprocating
+83264,SA300,Airplane,1.0,Reciprocating
+83277,Skystar,Airplane,1.0,Reciprocating
+83285,HARGROVE,Airplane,1.0,Reciprocating
+83298,CAPITAL HOLDINGS 226 LLC,Airplane,1.0,Reciprocating
+83301,Bowers,Airplane,1.0,Reciprocating
+83310,LEROUX JOHN F,Airplane,1.0,Reciprocating
+83312,Zenith,Airplane,1.0,Reciprocating
+83318,Sorrell,Airplane,1.0,Reciprocating
+83322,Airplane Factory,Airplane,1.0,Reciprocating
+83359,MUSTANG,Airplane,1.0,Reciprocating
+83366,Audenried,Airplane,1.0,Reciprocating
+83370,Poberezny,Airplane,1.0,Reciprocating
+83403,Eugene Wells,Airplane,1.0,Reciprocating
+83419,ULTRALITE SRO,Airplane,1.0,Reciprocating
+83430,BKF,Airplane,1.0,Reciprocating
+83431,Silveira Jonathan A,Airplane,1.0,Reciprocating
+83450,Darren M. Vinelli,Airplane,1.0,Reciprocating
+83494,Cessna,Airplane,1.0,Turbo Shaft
+83496,Zlin,Airplane,1.0,Reciprocating
+83514,Brandt,Airplane,1.0,Reciprocating
+83521,Saberwing,Airplane,1.0,Reciprocating
+83538,Czech Sport,Airplane,1.0,Reciprocating
+83539,BRM Aero,Airplane,1.0,Reciprocating
+83572,ZLIN,Airplane,1.0,Reciprocating
+83610,Robert R. Reiland,Airplane,1.0,Reciprocating
+83634,Britten Norman,Airplane,2.0,Reciprocating
+83652,EMMET SMITH,Airplane,1.0,Reciprocating
+83678,Denney,Airplane,1.0,Reciprocating
+83700,Van's Aircraft,Airplane,1.0,Reciprocating
+83725,STOL Aircraft Corp,Airplane,2.0,Reciprocating
+83737,Warner Aerocraft,Airplane,1.0,Reciprocating
+83746,REMPE,Airplane,1.0,Reciprocating
+83760,OSTERTAG WALTER G,Airplane,1.0,Reciprocating
+83768,James A Gray,Airplane,1.0,Reciprocating
+83819,Pereira,Airplane,1.0,Reciprocating
+83843,DENNIS l ZUMBALT,Airplane,1.0,Reciprocating
+83855,FISHER FLYING PRODUCTS,Airplane,1.0,Reciprocating
+83859,MARLOW,Airplane,1.0,Reciprocating
+83887,BERKEY,Airplane,1.0,Reciprocating
+83915,MORRISON ROCKY V,Airplane,1.0,Reciprocating
+83918,Rockwell International,Airplane,2.0,Turbo Fan
+83920,Europa,Airplane,1.0,Reciprocating
+83935,Kaminskas,Airplane,1.0,Reciprocating
+83939,Tubbs S/Performance Air Inc,Airplane,1.0,Reciprocating
+83967,BARROWS,Airplane,1.0,Reciprocating
+83991,Bakeng,Airplane,1.0,Reciprocating
+84015,STORCH,Airplane,1.0,Reciprocating
+84018,Gippsland,Airplane,1.0,Reciprocating
+84036,HANSON,Airplane,1.0,Reciprocating
+84065,Elmwood,Airplane,1.0,Reciprocating
+84066,Jordan Valley Llc,Airplane,1.0,Reciprocating
+84067,JM Kemp,Airplane,1.0,Reciprocating
+84084,Siai-Marchetti,Airplane,1.0,Turbo Prop
+84090,RYAN JOHN STEFFEY,Airplane,1.0,Turbo Jet
+84132,CHISTOV,Airplane,1.0,Reciprocating
+84157,RAND ROBINSON,Airplane,1.0,Reciprocating
+84173,RATHEON AIRCRAFT COMPANY,Airplane,1.0,Reciprocating
+84187,Bradshaw / McCauley,Airplane,1.0,Reciprocating
+84201,DARYL BAKER,Airplane,1.0,Reciprocating
+84207,DALE BERKBIGLER,Airplane,1.0,Reciprocating
+84242,LOCKWOOD,Airplane,2.0,Reciprocating
+84250,DAVID SHOTWELL,Airplane,1.0,Reciprocating
+84272,GRIFF,Airplane,1.0,Reciprocating
+84290,JUST AIRCRAFT,Airplane,1.0,Reciprocating
+84297,KARNS,Airplane,1.0,Reciprocating
+84312,Trella,Airplane,1.0,Reciprocating
+84315,Quicksilver Aircraft Northeast,Airplane,1.0,Reciprocating
+84326,KIRK ELLIS WENDELL,Airplane,1.0,Reciprocating
+84388,Howard Steven C,Airplane,1.0,Reciprocating
+84406,SKYBolt,Airplane,1.0,Reciprocating
+84409,Textron Aviation,Airplane,2.0,Turbo Prop
+84437,Merit Aviation Llc,Airplane,1.0,Reciprocating
+84450,DONALD BERNARD HIGGS,Airplane,1.0,Reciprocating
+84465,Diamond,Airplane,2.0,Reciprocating
+84482,Icon,Airplane,1.0,Reciprocating
+84506,Thomas Wild,Airplane,1.0,Reciprocating
+84513,AIRBUS,Airplane,2.0,Geared Turbofan
+84523,CASHEN,Airplane,1.0,Reciprocating
+84530,BRUMBAUGH DAVID R,Airplane,1.0,Reciprocating
+84544,VALLDEJULI JOHN A,Airplane,1.0,Reciprocating
+84592,Stoddard-Hamilton,Airplane,1.0,Reciprocating
+84603,ICON,Airplane,1.0,Reciprocating
+84666,RAYTHEON,Airplane,2.0,Turbo Fan
+84710,Textron Aviation Inc,Airplane,2.0,Turbo Fan
+84721,GIger Frank R,Airplane,1.0,Reciprocating
+84762,MORIARTY MARVIN,Airplane,1.0,Reciprocating
+84764,Capella,Airplane,1.0,Reciprocating
+84810,HALL,Airplane,1.0,Reciprocating
+84837,Phantom Aeronautics,Airplane,1.0,Reciprocating
+84913,Pzl Okecie,Airplane,1.0,Turbo Prop
+84943,THOMAS LEE,Airplane,1.0,Reciprocating
+84979,Boeing,Airplane,4.0,Reciprocating
+84993,Reed Mike,Airplane,1.0,Reciprocating
+85001,HONDA AIRCRAFT,Airplane,2.0,Turbo Jet
+85005,Bede,Airplane,1.0,Reciprocating
+85015,FOXWORTHY RICK A,Airplane,1.0,Reciprocating
+85019,WINGTIP TO WINGTIP LLC,Airplane,1.0,Reciprocating
+85021,"LLEWELLYN, WARWINC W",Airplane,1.0,Reciprocating
+85052,Kitty Hawk,Airplane,8.0,Electric
+85056,Saab,Airplane,2.0,Turbo Prop
+85081,Czech Sport Aircraft,Airplane,1.0,Reciprocating
+85100,Pereyra,Airplane,1.0,Reciprocating
+85102,HIGGINS JOHN H/WILLIAMS JOHN D,Airplane,1.0,Reciprocating
+85151,New Glasair,Airplane,1.0,Reciprocating
+85167,SYMPHONY AIRCRAFT IND INC,Airplane,1.0,Reciprocating
+85201,Czech Aircraft Works Spol Sro,Airplane,1.0,Reciprocating
+85220,SKYSTAR,Airplane,1.0,Reciprocating
+85227,Bae,Airplane,2.0,Turbo Fan
+85234,Vans,Airplane,1.0,Unknown
+85265,JOHN Sample,Airplane,1.0,Reciprocating
+85284,BEECH,Airplane,2.0,Unknown
+85311,TEAM ROCKET F-1,Airplane,1.0,Reciprocating
+85343,Thunder Mustang,Airplane,1.0,Reciprocating
+85352,Glassair,Airplane,1.0,Reciprocating
+85375,AIRBORNE,Airplane,1.0,Reciprocating
+85377,Michael A. Watson,Airplane,1.0,Reciprocating
+85418,MERWIN,Airplane,1.0,Reciprocating
+85504,LAVIA ARGENTINA,Airplane,1.0,Reciprocating
+85517,Orlican,Airplane,1.0,Reciprocating
+85577,Stolp Starduster,Airplane,1.0,Reciprocating
+85583,American Legand Aircraft,Airplane,1.0,Reciprocating
+85616,BOWER,Airplane,1.0,Reciprocating
+85624,WAG-AERO,Airplane,1.0,Reciprocating
+85657,Pipistrel Italia SRL,Airplane,1.0,Reciprocating
+85675,HOLMGREN,Airplane,1.0,Reciprocating
+85694,AMERICAN LEGEND,Airplane,1.0,Reciprocating
+85696,Czech Sport AIrcraft,Airplane,1.0,Reciprocating
+85703,Keuthan Aircraft Corp,Airplane,1.0,Reciprocating
+85725,DAYTON-WRIGHT,Airplane,1.0,Reciprocating
+85743,N126C LLC,Airplane,1.0,Reciprocating
+85782,"Rhoads, Larry E",Airplane,1.0,Reciprocating
+85817,Rockwell,Airplane,2.0,Reciprocating
+85851,Omf,Airplane,1.0,Reciprocating
+85887,Team,Airplane,1.0,Reciprocating
+85966,CHAD LEWIS,Airplane,1.0,Reciprocating
+85970,Cub Crafters Inc,Airplane,1.0,Reciprocating
+85976,CAPELLA,Airplane,1.0,Reciprocating
+85978,KOSTRAZEWA ANDRE,Airplane,1.0,Reciprocating
+85990,Volmer,Airplane,1.0,Reciprocating
+86029,Lockwood,Airplane,2.0,Reciprocating
+86069,QUICKIE,Airplane,1.0,Reciprocating
+86095,FURLONG,Airplane,1.0,Reciprocating
+86103,Kade,Airplane,1.0,Reciprocating
+86106,HAWKER SIDDELEY,Airplane,2.0,Turbo Fan
+86114,Seele,Airplane,1.0,Reciprocating
+86228,WAG AERO,Airplane,1.0,Reciprocating
+86232,DAKOTA,Airplane,1.0,Reciprocating
+86236,CANADAIR,Airplane,2.0,Reciprocating
+86257,PERFORMER,Airplane,1.0,Reciprocating
+86260,Siebel,Airplane,1.0,Reciprocating
+86261,Uskoski,Airplane,1.0,Reciprocating
+86270,McSwain,Airplane,1.0,Reciprocating
+86287,TEAM ROCKET,Airplane,1.0,Reciprocating
+86322,Northrop,Airplane,2.0,Turbo Jet
+86348,Jewett,Airplane,1.0,Reciprocating
+86367,Beechcraft,Airplane,2.0,Turbo Prop
+86379,Cessna Ector,Airplane,1.0,Reciprocating
+86443,Pilatus Aircraft,Airplane,1.0,Turbo Prop
+86513,Piper,Airplane,1.0,Turbo Shaft
+86586,Ralph C Kimball,Airplane,1.0,Reciprocating
+86609,Muse,Airplane,1.0,Reciprocating
+86621,Aero Bristell,Airplane,1.0,Reciprocating
+86645,CCX-2000-0081 LLC,Airplane,1.0,Reciprocating
+86667,Pearson,Airplane,1.0,Reciprocating
+86680,Carbon,Airplane,1.0,Reciprocating
+86741,Zlin Aviation,Airplane,1.0,Reciprocating
+86783,Hutson,Airplane,1.0,Reciprocating
+86804,FORD STEPHEN L,Airplane,1.0,Reciprocating
+86822,Eclipse,Airplane,2.0,Turbo Fan
+86853,Quad City Aircraft Corp,Airplane,1.0,Reciprocating
+86876,MOONEY INTERNATIONAL CORP,Airplane,1.0,Reciprocating
+86894,Murphy,Airplane,1.0,Reciprocating
+86924,CREEK MICHEL W,Airplane,1.0,Reciprocating
+86950,Heckel,Airplane,1.0,Reciprocating
+86967,RIVERS LINDSEY LEE,Airplane,1.0,Reciprocating
+87051,TURCOTTE JR ROBERT L,Airplane,1.0,Reciprocating
+87073,GEORGE MATTHEW WAGONER,Airplane,1.0,Reciprocating
+87101,VASHON AIRCRAFT,Airplane,1.0,Reciprocating
+87107,POST,Airplane,1.0,Reciprocating
+87117,PHILLIP B ROLLS,Airplane,1.0,Reciprocating
+87156,BURG FREDERICK S,Airplane,1.0,Reciprocating
+87257,ROWE DENNIS A,Airplane,1.0,Reciprocating
+87289,THRUSH AIRCRAFT LLC,Airplane,1.0,Turbo Prop
+87301,DAVIS DONALD M,Airplane,1.0,Reciprocating
+87316,Mobi-light,Airplane,1.0,Reciprocating
+87331,TEXTRON AVIATION INC,Airplane,1.0,Turbo Prop
+87370,JABIRU AIRCRAFT PTY LTD,Airplane,1.0,Reciprocating
+87409,DOUGLAS K THOMPSON,Airplane,1.0,Reciprocating
+87424,VARNER DAVID L,Airplane,1.0,Reciprocating
+87455,Harry Crosby (Vans),Airplane,1.0,Reciprocating
+87459,GOODSELL LYNN A,Airplane,1.0,Reciprocating
+87465,ROBERT TREMBLY,Airplane,1.0,Reciprocating
+87500,PHILLIPS RALPH W,Airplane,1.0,Reciprocating
+87548,KEVIN LIPPERT,Airplane,1.0,Reciprocating
+87609,TONY DUBEANSKY,Airplane,1.0,Reciprocating
+87615,WARE JERRY L,Airplane,1.0,Reciprocating
+87652,BOLSTRIDGE WALLACE R,Airplane,1.0,Reciprocating
+87679,DEWSNUP DAVE,Airplane,1.0,Reciprocating
+87683,CURNUTT ELTON E,Airplane,1.0,Reciprocating
+87706,WHEELER C / WHEELER K,Airplane,1.0,Reciprocating
+87729,SWANN LYNN J,Airplane,1.0,Reciprocating
+87760,ESLINGER C W/ESLINGER S M,Airplane,1.0,Reciprocating
+87765,SCOTT MILLS,Airplane,1.0,Reciprocating
+87772,PAYNE STEVEN R,Airplane,1.0,Reciprocating
+87836,Madera,Airplane,1.0,Reciprocating
+87877,STEPHEN L KRUER,Airplane,1.0,Reciprocating
+87899,WEISS DENIS,Airplane,1.0,Reciprocating
+88082,SEGARRA LUCAS JR,Airplane,1.0,Reciprocating
+88121,Thatcher,Airplane,1.0,Reciprocating
+88583,2021FX3 LLC,Airplane,1.0,Reciprocating
+88601,LEACH MICHAEL,Airplane,1.0,Reciprocating
+88608,MILLER ROGER,Airplane,1.0,Reciprocating
+88614,WIGHT ALBERT A,Airplane,1.0,Reciprocating
+88642,Christavia,Airplane,1.0,Reciprocating
+88723,EMBRAER EXECUTIVE AIRCRAFT INC,Airplane,2.0,Turbo Jet
+88728,CHRISTOPHER P GAGE,Airplane,1.0,Reciprocating
+88733,SHELTON JOSEPH G,Airplane,1.0,Reciprocating
+88735,MCKENZIE JOHN P,Airplane,1.0,Reciprocating
+88740,Darrell D. Dugger,Airplane,1.0,Reciprocating
+88755,ROSS JONATHAN,Airplane,1.0,Reciprocating
+88764,GREGORY S MILLER,Airplane,1.0,Reciprocating
+88802,AXELL CHARLES L,Airplane,1.0,Reciprocating
+88824,RAVIRAJ MOHIL,Airplane,1.0,Reciprocating
+88832,TUTTLE BRUCE C,Airplane,1.0,Reciprocating
+88848,HARTZ PAUL,Airplane,1.0,Reciprocating
+88849,NORDQUIST RICHARD A,Airplane,1.0,Reciprocating
+88859,PARADISE AIRCRAFT USA LLC,Airplane,1.0,Reciprocating
+88920,FPNA,Airplane,1.0,Reciprocating
+88943,FERNANDES DALE R,Airplane,1.0,Reciprocating
+88967,HENDERSON CLIFFORD S,Airplane,1.0,Reciprocating
+88979,PF CUB FLYERS LLC,Airplane,1.0,Reciprocating
+89019,STODDARD HAMILTON,Airplane,1.0,Reciprocating
+89035,SAWBY SCOTT,Airplane,1.0,Reciprocating
+89057,PIPER-HARRIS,Airplane,1.0,Reciprocating
+89112,KYLE M SWARD / LARRY W SWARD,Airplane,1.0,Reciprocating
+89120,CHARLES R KYLE,Airplane,1.0,Reciprocating
+89130,JUSTICE FRANK K,Airplane,1.0,Reciprocating
+89152,QUICKSILVER AIRCRAFT CO,Airplane,1.0,Reciprocating
+89161,SPARKS RALPH A,Airplane,1.0,Reciprocating
+89165,PYKA INC,Airplane,4.0,Electric
+89172,TWENTY SECOND STREET LLC,Airplane,1.0,Reciprocating
+89208,FRAZIER ROBERT L,Airplane,1.0,Reciprocating
+89221,CO-Z DEVELOPMENT CORP,Airplane,1.0,Reciprocating
+89251,FOSTER WILLIAM D,Airplane,1.0,Reciprocating
+89271,FAHEY WILLIAM J,Airplane,1.0,Reciprocating
+89281,BOYLE JOSEPH E,Airplane,1.0,Reciprocating
+89310,BEARHAWK,Airplane,1.0,Reciprocating
+89313,SHEA,Airplane,1.0,Reciprocating
+89318,BOMBARDIER,Airplane,2.0,Turbo Shaft
+89336,AMD,Airplane,1.0,Reciprocating
+89351,PEPPERD GREG J,Airplane,1.0,Reciprocating
+89393,BAKER EUGENE L,Airplane,1.0,Reciprocating
+89427,ROBERT FITTS,Airplane,1.0,Reciprocating
+89459,GMK VENTURES LLC,Airplane,1.0,Reciprocating
+89474,KAKELDEY RONALD O,Airplane,1.0,Reciprocating
+89522,CESSNA,Airplane,1.0,UNK
+89525,DUFFY RUSSELL A,Airplane,1.0,Reciprocating
+89630,AYRES CORPORATION,Airplane,1.0,Turbo Shaft
+89640,VULCANAIR,Airplane,1.0,Reciprocating
+89650,MILLER-THORP,Airplane,1.0,Reciprocating
+89686,HOLLIER B C,Airplane,1.0,Reciprocating
+89687,MESCHLER GARY R,Airplane,1.0,Reciprocating
+89774,HOFFMAN DAVID J,Airplane,1.0,Reciprocating
+89824,FALL MARTIN,Airplane,1.0,Reciprocating
+89847,Boeing (Stearman),Airplane,1.0,Reciprocating
+89863,Javron Experimental,Airplane,1.0,Reciprocating
+89864,LEON E EVERETT,Airplane,1.0,Reciprocating
+89995,SLIPSTREAM,Airplane,1.0,Reciprocating
+90009,MOSSMAN MICHAEL D,Airplane,1.0,Reciprocating
+90030,HIBBARD NORMAN E,Airplane,1.0,Reciprocating
+90096,WASZAK ARTHUR B,Airplane,1.0,Reciprocating
+90194,STEPHEN J HOFFMAN,Airplane,1.0,Reciprocating
