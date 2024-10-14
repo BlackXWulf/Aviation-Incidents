@@ -3,17 +3,30 @@
 ### Author: Jeremiah Rubin
 # Overview
 
-This project conducts a thorough analysis of aviation incidents, focusing on identifying airplane models with minimal incidents and understanding the correlation with engine counts. The goal is to provide actionable insights to aid in selecting safer airplane models for aviation operations.
+The Aviation Incidents Analysis project aims to provide a comprehensive examination of recent aviation incidents to enhance safety and operational efficiency. This analysis will help the Safety Director at Global Airways understand the factors contributing to incidents and develop strategies to mitigate risks, ultimately improving overall flight safety and regulatory compliance.
+
 
 # Business Understanding
 ![360_F_566300223_2QnbdmtdKelL8FFeEY5YiWC8ZqfV0lHF](https://github.com/user-attachments/assets/5ca5a451-25cc-4c43-b7a3-0797d9eab9ec)
 
-To support the aviation division in selecting low-risk airplane models, thereby enhancing safety and supporting strategic growth within the aviation sector.
+### Improve Safety Measures
+By identifying trends and root causes of incidents, the project aims to enhance safety protocols and preventive measures. Implementing recommendations will reduce the likelihood of incidents, contributing to safer flight operations.
+
+### Optimize Operational Efficiency
+Understanding incident patterns can help streamline operational procedures and resource allocation. Reducing the frequency of incidents will lead to fewer disruptions and lower associated costs.
+
+### Enhance Compliance and Risk Management
+Insights from the analysis will support compliance with safety regulations and industry standards. Proactive risk management strategies will be developed to address identified issues and prevent future incidents.
+
+### Strengthen Confidence in Safety Director at Global Airways
+Providing a detailed analysis and actionable recommendations demonstrates a commitment to safety and continuous improvement. Transparent communication of findings and improvements will build trust with regulatory bodies, customers, and other stakeholders.
+
 # Data Understanding
-The dataset includes records of aviation incidents, detailing airplane models, engine counts, and injury severity.
+The dataset includes airplane models, engine counts, and makes from aviation accidents.
 ## Data Preparations
-- *Data Cleaning*: Handling missing values, correcting inconsistencies.
-- *Feature Engineering*: Extracting relevant features for analysis.
+This analysis focuses on cleaning the data to show which airplane types are involved in incidents and how these incidents vary by aircraft type, allowing for a clearer understanding of the safety records and incident frequencies associated with different aircraft models.
+![airplaneonly](https://github.com/user-attachments/assets/9cd29df6-2c76-4fbd-971a-04a3e63bc91c)
+
 ![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
 
 
