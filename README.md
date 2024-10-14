@@ -40,7 +40,7 @@ The analysis includes several visualizations to explore the relationship between
 - **Distribution of Aircraft Makes:** A pie chart showing the percentage of incidents by make.
 - **Counts of Aviation Incidents by Make and Number of Engines:** A bar plot illustrating the relationship between aircraft makes and their engine counts.
 - **Aircraft Types by Make and Engine Type:** A bar graph comparing counts of incidents across different engine types.
-- 
+
 ![makepiechartpng](https://github.com/user-attachments/assets/3b6ef620-f2ec-4d10-9815-2de29ae243d8)
 
 ![makenoebargraph](https://github.com/user-attachments/assets/5bf16f34-d616-41ad-9380-13651a706302)
