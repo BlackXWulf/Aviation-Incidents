@@ -25,6 +25,7 @@ Providing a detailed analysis and actionable recommendations demonstrates a comm
 The dataset includes airplane models, engine counts, and makes from aviation accidents.
 ## Data Preparations
 This analysis focuses on cleaning the data to show which airplane types are involved in incidents and how these incidents vary by aircraft type, allowing for a clearer understanding of the safety records and incident frequencies associated with different aircraft models.
+
 ![airplaneonly](https://github.com/user-attachments/assets/9cd29df6-2c76-4fbd-971a-04a3e63bc91c)
 
 ![4columns](https://github.com/user-attachments/assets/b39f2916-654f-4799-acc9-36ce2d78bd80)
@@ -33,33 +34,35 @@ This analysis focuses on cleaning the data to show which airplane types are invo
 
 
 # Exploratory Data Analysis
-- *Descriptive Statistics*: Summarizing the main characteristics of the dataset.
-- *Visualizations*: Bar graphs and other charts to visualize trends and patterns.
-Modeling: Analyzing the relationship between engine count and incident frequency.
-![Screenshot 2024-07-06 113458](https://github.com/user-attachments/assets/75b4ac6d-0109-400d-9be9-cd8839e1c8e3),![Screenshot 2024-07-06 113335](https://github.com/user-attachments/assets/27347540-ff38-475e-87aa-c3f5c43faa3c)
+Data Visualization
+The analysis includes several visualizations to explore the relationship between aircraft makes, engine types, and incident occurrences:
+
+- **Distribution of Aircraft Makes:** A pie chart showing the percentage of incidents by make.
+- **Counts of Aviation Incidents by Make and Number of Engines:** A bar plot illustrating the relationship between aircraft makes and their engine counts.
+- **Aircraft Types by Make and Engine Type:** A bar graph comparing counts of incidents across different engine types.
+- 
+![makepiechartpng](https://github.com/user-attachments/assets/3b6ef620-f2ec-4d10-9815-2de29ae243d8)
+
+![makenoebargraph](https://github.com/user-attachments/assets/5bf16f34-d616-41ad-9380-13651a706302)
+
+![aircraftmake](https://github.com/user-attachments/assets/fafa66dc-faf4-43eb-94b2-7c6813c56aed)
+
 
 # Conclusion
-- This analysis leads with the model of plane with the least amount incidents with the ideal amount of number of engines:
+The analysis of aviation incidents provides valuable insights into the trends and patterns within the dataset. Visualizations highlight how different aircraft categories and engine types correlate with incident frequency, enabling stakeholders to identify potential risk factors.
 
-- Number of Engines. On average each plane with the least amount of incidents had only one engine.
-
-- Model of plane. DC-9 model plane has the most engines with the least amount of incidents
-
-- Injury Severity. all injury incidents were non-fatal for the planes that fit the companies risk free decision.
 ## Limitations
-- The data set lacks the know how. In the data set doesn't show you how a plane had an incident, knowing that would help narrow down malfunctions or weather.
-
-- Cost of each plane. The lack of cost for each individual plane and how much it would cost to repair them/salvage them.
+- **Data Completeness:** The analysis relies on the accuracy and completeness of the dataset.
+- **External Factors:** The analysis does not account for external factors such as weather conditions or pilot experience.
+- **Generalization:** Findings may not be universally applicable across all regions or types of aviation operations.
 ## Recommendations
-- The planes with the least amount of incidents. The company should go with the plane with non-fatal injuries for safety precautions.
-- Saving money based on how many engines there is. The plane that has less engines and low incident reports will cost less in the future.
-- Every year evaluation. Every year the company can expand their aviation side to gather more planes for business projects/improvements.
+- **Targeted Safety Initiatives:** Develop initiatives focusing on aircraft categories and engine types with higher incident rates, including enhanced training for pilots and maintenance personnel.
+- **Ongoing Monitoring:** Establish a continuous monitoring system to regularly analyze aviation incident data.
+- **Data-Driven Decision Making:** Encourage aviation authorities to incorporate data analytics into their decision-making processes for safety improvements.
 ## Next Steps
-Further analyses could yield additional insights to further improve choice of model plane:
-
-- Better predictions for model plane based off repairing cost. This modeling could already use avaialable data such as how bad the crash was.
-
-- Predicting undesirable outcomes. Knowing that the weather is really bad should delay the flight until further notice
+- **Further Research:** Conduct research to incorporate external factors influencing incident rates.
+- **Expand Analysis:** Broaden the analysis to include more variables such as geographical regions and operational contexts.
+- **Stakeholder Engagement:** Engage with industry stakeholders to disseminate findings and collaborate on safety initiatives.
   ## Repository Structure
 -  [data/](https://github.com/BlackXWulf/Aviation-Incidents/tree/main/data): Contains the dataset used for analysis.
 -  [images/](https://github.com/BlackXWulf/Aviation-Incidents/tree/main/images): Contains images in the project
