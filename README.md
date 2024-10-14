@@ -27,7 +27,8 @@ The dataset includes airplane models, engine counts, and makes from aviation acc
 This analysis focuses on cleaning the data to show which airplane types are involved in incidents and how these incidents vary by aircraft type, allowing for a clearer understanding of the safety records and incident frequencies associated with different aircraft models.
 ![airplaneonly](https://github.com/user-attachments/assets/9cd29df6-2c76-4fbd-971a-04a3e63bc91c)
 
-![Screenshot 2024-07-17 123400](https://github.com/user-attachments/assets/976e7402-5bc4-4a72-95ac-5e32473cdb29)
+![4columns](https://github.com/user-attachments/assets/b39f2916-654f-4799-acc9-36ce2d78bd80)
+
 
 
 
