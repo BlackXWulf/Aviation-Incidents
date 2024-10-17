@@ -28,7 +28,8 @@ This analysis focuses on cleaning the data to show which airplane types are invo
 
 ![airplaneonly](https://github.com/user-attachments/assets/9cd29df6-2c76-4fbd-971a-04a3e63bc91c)
 
-![4columns](https://github.com/user-attachments/assets/b39f2916-654f-4799-acc9-36ce2d78bd80)
+![4columns](https://github.com/user-attachments/assets/4b1ef863-7717-493f-9ce9-23ceed04bbb2)
+
 
 
 
