@@ -44,9 +44,10 @@ The analysis includes several visualizations to explore the relationship between
 
 ![makepiechartpng](https://github.com/user-attachments/assets/3b6ef620-f2ec-4d10-9815-2de29ae243d8)
 
-![makenoebargraph](https://github.com/user-attachments/assets/5bf16f34-d616-41ad-9380-13651a706302)
+![makenoebargraph](https://github.com/user-attachments/assets/90471e4c-b708-4b2d-ba13-6131248892c2)
 
-![aircraftmake](https://github.com/user-attachments/assets/fafa66dc-faf4-43eb-94b2-7c6813c56aed)
+
+![aircraftmake](https://github.com/user-attachments/assets/966c3a51-f09f-4bd6-a6fe-f2c2dc441c4a)
 
 
 # Conclusion
